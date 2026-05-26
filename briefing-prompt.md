@@ -20,6 +20,7 @@
 4. `https://code.claude.com/docs/en/changelog`
 5. `https://code.claude.com/docs/en/whats-new`
 6. `https://registry.npmjs.org/@anthropic-ai/claude-code` ← `time` 필드로 날짜 확인
+7. `https://code.claude.com/docs/en/best-practices` ← ⚙️ 팁 섹션 상시 소스 (공식 문서, 날짜 무관)
 
 **[C] 검색 우회 (WebSearch → 스니펫 날짜 검증 → 개별 URL 재시도)**
 7. Anthropic 뉴스: `WebSearch site:anthropic.com news "오늘날짜 or 어제날짜"`
@@ -57,6 +58,7 @@ A2: WebFetch https://github.com/openai/codex/releases.atom
 B1: WebFetch https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md
 B2: WebFetch https://code.claude.com/docs/en/changelog
 B3: WebFetch https://registry.npmjs.org/@anthropic-ai/claude-code
+B4: WebFetch https://code.claude.com/docs/en/best-practices   ← 팁 섹션 상시 소스
 C1: WebSearch "site:anthropic.com (오늘날짜 OR 어제날짜) 2026"
 C2: WebSearch "site:openai.com codex (오늘날짜 OR 어제날짜) 2026"
 D1: WebSearch "site:simonwillison.net claude (오늘날짜 OR 어제날짜) 2026"
@@ -77,43 +79,48 @@ E1: WebSearch "site:news.ycombinator.com claude code 2026" (최근 24h 필터)
 - Atom/CHANGELOG 항목: 내용 직접 사용
 - 검색 스니펫 항목: URL을 WebFetch로 재시도 → 성공 시 본문 사용, 실패(403) 시 스니펫 사용 (스니펫 출처 명시)
 - "내부 인프라 개선만" (no user-facing changes) 항목: **제외**
+- ⚙️ 팁 섹션: 24시간 필터 **불필요** — `code.claude.com/docs/en/best-practices` 에서 실무 팁 2-3건 상시 추출 가능
 
 ### Step 4 — 메시지 구성 및 분할 전송
 
 > ⚠️ KakaotalkChat-MemoChat 1회 전송 최대 **200자** 제한.
 > 내용이 있으면 섹션별로 분할해 **순차 전송**한다.
 
-#### 새 소식이 없는 경우 (1회 전송)
-```
-📅 [YYYY-MM-DD] 오늘 1차 출처에 새 업데이트 없음.
-```
+#### 항상 전송 (신규 소식 유무 무관)
 
-#### 새 소식이 있는 경우 (섹션별 분할)
-
-**메시지 1 — 헤더 + 핵심 업데이트 #1** (~200자)
+**메시지 1 — 헤더 + 릴리즈 상태** (~200자)
 ```
 📅 [날짜] Claude Code 브리핑
+🔥 신규 릴리즈: [버전 + 날짜] 또는 "없음 (최신 v?.?.? / 날짜)"
+출처: github.com/anthropics/claude-code/releases.atom
+```
+
+#### 신규 소식이 있을 때 추가 전송
+
+**메시지 2 — 핵심 업데이트** (~200자, 건당 1메시지)
+```
 🔥 [제목]
 요약: (2줄 이내)
-출처: [단축 URL 또는 github.com/... 형태]
+출처: [URL]
 ```
 
-**메시지 2 — 핵심 업데이트 #2, #3** (있으면, ~200자)
+#### 상시 전송 (공식 문서 팁 — 매일 2건)
+
+**메시지 3 — 팁 #1** (~200자)
 ```
-🔥 [제목2]
-요약: ...
-출처: ...
-[제목3 있으면 이어서]
+⚙️ 팁N: [명령/기능명]
+[1-2줄 설명 + 예시]
+출처: code.claude.com/docs/en/best-practices
 ```
 
-**메시지 3 — 설정/사용법 팁** (있으면, ~200자)
+**메시지 4 — 팁 #2** (~200자)
 ```
-⚙️ [팁 제목]
-내용: (2줄)
-출처: ...
+⚙️ 팁N: [명령/기능명]
+[1-2줄 설명]
+출처: code.claude.com/docs/en/best-practices
 ```
 
-**메시지 4 — MCP·생태계 소식** (있으면, ~200자)
+**메시지 5 — MCP·생태계 소식** (있을 때만, ~200자)
 ```
 🔗 [내용] / [URL]
 ```
