@@ -5,153 +5,177 @@
 
 ---
 
-## 수집 범위 (한국 시간 기준 최근 24시간)
+## 수집 범위
 
-### 1차 공식 출처 (우선순위 순)
-
-> 상세 접근 방법은 `source-access-map.md` 참고.
-
-**[A] Atom/RSS 피드 (WebFetch 직접 — 가장 신뢰)**
-1. `https://github.com/anthropics/claude-code/releases.atom`
-2. `https://github.com/openai/codex/releases.atom`
-
-**[B] 구조화 데이터 (WebFetch 직접)**
-3. `https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md`
-4. `https://code.claude.com/docs/en/changelog`
-5. `https://code.claude.com/docs/en/whats-new`
-6. `https://registry.npmjs.org/@anthropic-ai/claude-code` ← `time` 필드로 날짜 확인
-7. `https://code.claude.com/docs/en/best-practices` ← ⚙️ 팁 섹션 상시 소스 (공식 문서, 날짜 무관)
-
-**[C] 검색 우회 (WebSearch → 스니펫 날짜 검증 → 개별 URL 재시도)**
-7. Anthropic 뉴스: `WebSearch site:anthropic.com news "오늘날짜 or 어제날짜"`
-8. OpenAI Codex: `WebSearch site:openai.com codex "오늘날짜 or 어제날짜"`
-
-### 2차 실무 출처 (검증된 작성자만)
-
-**[D] Simon Willison**
-- `WebSearch site:simonwillison.net claude 2026` 로 최신 항목 발견
-- 발견된 URL을 WebFetch로 재시도 (개별 기사는 가끔 성공)
-
-**[E] Hacker News**
-- `WebSearch site:news.ycombinator.com "claude code" OR "codex"` + 날짜 필터
-- 스니펫에서 날짜·요점 추출 후 항목 URL WebFetch 재시도
-
-**[F] Anthropic Engineering / OpenAI Engineering 블로그**
-- `WebSearch site:anthropic.com engineering "날짜"` 또는 `site:openai.com research "날짜"`
-
-### 제외 대상
-- 익명/저신뢰 Medium·블로그 포스트
-- 공식 계정이 아닌 트위터/X 게시물
-- 24시간 이전 콘텐츠
-- AI 생성으로 보이는 요약/번역 사이트 (bleepingcomputer·techtimes 류 3차 요약 사이트)
+| 카테고리 | 시간 창 |
+|---------|--------|
+| A (공식 릴리즈) | KST 어제 09:00 ~ 오늘 09:00 (24h) |
+| B (해외 속보 미디어) | 최근 48h — 공식 릴리즈보다 느리게 커버되므로 여유 허용 |
+| C (커뮤니티·노하우) | 최근 72h — 실무 포스트는 당일 이후에도 가치 있음 |
+| D (한국어 GeekNews) | 최근 48h |
 
 ---
 
-## 작업 절차
+## Step 1 — 병렬 수집
 
-### Step 1 — 병렬 수집 (가능한 모든 소스 동시 fetch)
+### 1-A. GitHub Atom 피드 (WebFetch ✅ 직접)
 
-아래를 한 번에 병렬 실행:
 ```
-A1: WebFetch https://github.com/anthropics/claude-code/releases.atom
-A2: WebFetch https://github.com/openai/codex/releases.atom
-B1: WebFetch https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md
-B2: WebFetch https://code.claude.com/docs/en/changelog
-B3: WebFetch https://registry.npmjs.org/@anthropic-ai/claude-code
-B4: WebFetch https://code.claude.com/docs/en/best-practices   ← 팁 섹션 상시 소스
-C1: WebSearch "site:anthropic.com (오늘날짜 OR 어제날짜) 2026"
-C2: WebSearch "site:openai.com codex (오늘날짜 OR 어제날짜) 2026"
-D1: WebSearch "site:simonwillison.net claude (오늘날짜 OR 어제날짜) 2026"
-E1: WebSearch "site:news.ycombinator.com claude code 2026" (최근 24h 필터)
+WebFetch: https://github.com/anthropics/claude-code/releases.atom
+  → <published> 기준 48h 이내 항목 추출
+WebFetch: https://github.com/openai/codex/releases.atom
+  → <published> 기준 48h 이내 항목 추출
 ```
 
-### Step 2 — 24시간 필터
+### 1-B. Claude Code 공식 문서 (WebFetch ✅ 직접)
 
-각 항목에 대해:
-1. 날짜 필드가 있으면 직접 확인 (Atom `<updated>`, npm `time`, CHANGELOG 헤더)
-2. 검색 스니펫만 있으면 스니펫의 날짜 표기 신뢰 (구글 검색결과 날짜)
-3. 날짜를 확인할 수 없으면 **제외**
-4. (오늘 KST 00:00 − 24시간) 이전 항목 **제외**
-
-### Step 3 — 내용 검증
-
-통과한 항목에 대해:
-- Atom/CHANGELOG 항목: 내용 직접 사용
-- 검색 스니펫 항목: URL을 WebFetch로 재시도 → 성공 시 본문 사용, 실패(403) 시 스니펫 사용 (스니펫 출처 명시)
-- "내부 인프라 개선만" (no user-facing changes) 항목: **제외**
-- ⚙️ 팁 섹션: 24시간 필터 **불필요** — `code.claude.com/docs/en/best-practices` 에서 실무 팁 2-3건 상시 추출 가능
-
-### Step 4 — 메시지 구성 및 분할 전송
-
-> ⚠️ KakaotalkChat-MemoChat 1회 전송 최대 **200자** 제한.
-> 내용이 있으면 섹션별로 분할해 **순차 전송**한다.
-
-#### 항상 전송 (신규 소식 유무 무관)
-
-**메시지 1 — 헤더 + 릴리즈 상태** (~200자)
 ```
-📅 [날짜] Claude Code 브리핑
-🔥 신규 릴리즈: [버전 + 날짜] 또는 "없음 (최신 v?.?.? / 날짜)"
-출처: github.com/anthropics/claude-code/releases.atom
+WebFetch: https://code.claude.com/docs/en/changelog
+  → 가장 최신 버전 1-2개 확인
+WebFetch: https://code.claude.com/docs/en/whats-new
+  → 이번 주 What's New 확인
+WebFetch: https://code.claude.com/docs/en/best-practices
+  → 실무 팁 2건 추출 (날짜 무관, 항상 전송)
 ```
 
-#### 신규 소식이 있을 때 추가 전송
+### 1-C. 공식 뉴스 — WebSearch 우회
 
-**메시지 2 — 핵심 업데이트** (~200자, 건당 1메시지)
 ```
-🔥 [제목]
-요약: (2줄 이내)
-출처: [URL]
+WebSearch: anthropic claude code announcement "May [어제] OR [오늘]" 2026
+WebSearch: site:anthropic.com "May [어제] OR [오늘]" 2026
+WebSearch: openai codex release update "May [어제] OR [오늘]" 2026
 ```
 
-#### 상시 전송 (공식 문서 팁 — 매일 2건)
+### 1-D. 해외 속보 미디어 — WebSearch (48h 창)
 
-**메시지 3 — 팁 #1** (~200자)
+아래 쿼리를 **순서대로** 시도 (결과 나오면 중단):
+
 ```
-⚙️ 팁N: [명령/기능명]
-[1-2줄 설명 + 예시]
+# 1순위: 타겟 미디어 직접 검색
+WebSearch: "claude code" OR "anthropic" site:techcrunch.com OR site:venturebeat.com OR site:infoq.com 2026 May
+
+# 2순위: 보안 이슈 (BleepingComputer, CyberSecurityNews)
+WebSearch: anthropic claude code security site:bleepingcomputer.com OR site:cybersecuritynews.com 2026 May
+
+# 3순위: Simon Willison 최신 포스트
+WebSearch: site:simonwillison.net "May [어제] OR [오늘]" 2026
+
+# 4순위: Hacker News 트렌딩 항목
+WebSearch: site:news.ycombinator.com "claude" OR "codex" OR "agentic coding" 2026
+```
+
+**수집 대상 미디어:**
+- ✅ 신뢰: TechCrunch, MIT Technology Review, InfoQ, VentureBeat, Ars Technica, The Verge
+- ✅ 보안 한정: BleepingComputer, CyberSecurityNews  
+- ✅ 개인 인사이트: Simon Willison (simonwillison.net)
+- ✅ 커뮤니티: Hacker News (news.ycombinator.com)
+- ❌ 제외: Medium(비공식), TechTimes, 3차 요약 블로그, Reddit
+
+### 1-E. 한국어 — GeekNews (WebSearch, 48h 창)
+
+```
+WebSearch: site:news.hada.io claude OR anthropic OR codex 2026
+→ 스니펫에서 날짜 확인 → 48h 이내 항목만 선별
+```
+
+---
+
+## Step 2 — 날짜 필터
+
+각 항목:
+1. Atom/CHANGELOG: `<published>` 또는 버전 헤더 날짜 직접 확인
+2. WebSearch 스니펫: Google 날짜 표시 ("3 hours ago", "May 26" 등) 신뢰
+3. URL 패턴: `/2026/05/25/` 또는 `20260525` 포함 시 해당 날짜로 간주
+4. 날짜 확인 불가 → **제외**
+5. 해당 카테고리 시간 창 초과 → **제외**
+
+---
+
+## Step 3 — 내용 선별 기준
+
+### 🟦 OFFICIAL (공식 릴리즈)
+- 조건: Claude Code 또는 Codex의 공식 릴리즈/공식 발표  
+- 소스: Atom 피드, CHANGELOG, 공식 Anthropic·OpenAI 도메인
+- "내부 인프라 개선만(no user-facing changes)" → **제외**
+
+### 🟧 NEWS (속보 미디어)
+- 조건: 신뢰 미디어(TechCrunch, VentureBeat, BleepingComputer 등)에서 48h 이내 발행
+- 내용: Claude Code, Codex, 주요 AI 코딩 도구의 새 기능/보안/생태계 확장
+- 단순 모델 비교, 광고성, 추측성 분석 → **제외**
+
+### 🟩 PATTERN (실무 노하우)
+- 조건: 72h 이내 발행 / Claude Code·AI 코딩 도구 사용 방식·설정·워크플로
+- 소스: Simon Willison, Hacker News 상위 스레드, 공식 Best Practices
+- ⚙️ 팁 2건은 **날짜 무관 항상 전송** (code.claude.com/docs/en/best-practices)
+
+### 🟨 KR (한국어)
+- 조건: GeekNews(news.hada.io) 48h 이내 항목 중 위 카테고리 관련
+
+---
+
+## Step 4 — 메시지 구성 및 순차 전송
+
+> ⚠️ KakaotalkChat-MemoChat **1회 200자 제한** — 섹션별 분할 전송
+
+**항상 전송 (내용 유무 무관):**
+
+**메시지 1 — 헤더 + 릴리즈 상태** (~150자)
+```
+📅 [YYYY-MM-DD] Claude Code 브리핑
+🔖 최신 릴리즈: [버전] ([날짜]) / Codex [버전] ([날짜])
+```
+
+**메시지 2~3 — 팁 (항상 전송)**
+```
+⚙️ 팁: [기능명]
+[설명 1-2줄]
 출처: code.claude.com/docs/en/best-practices
 ```
 
-**메시지 4 — 팁 #2** (~200자)
+**소식이 있을 때 추가 전송 (각 항목당 1메시지):**
+
 ```
-⚙️ 팁N: [명령/기능명]
-[1-2줄 설명]
-출처: code.claude.com/docs/en/best-practices
+🟦 OFFICIAL / 🟧 NEWS / 🟩 PATTERN / 🟨 KR
+[제목] / 출처: [URL]
+[요약 2줄]
+[실무 영향 또는 핵심 주장 1줄]
 ```
 
-**메시지 5 — MCP·생태계 소식** (있을 때만, ~200자)
-```
-🔗 [내용] / [URL]
-```
+**아무 소식도 없을 때:**  
+→ 헤더 + 팁 2건만 전송 (절대 "오늘 새 소식 없음" 단독 전송 금지)
 
 ---
 
 ## 엄격한 규칙
+
 - 출처 URL 없는 항목 금지
-- 1차 출처에서 직접 확인되지 않은 정보 금지 (WebSearch 스니펫 활용 시 스니펫 근거 명시)
-- "~인 것 같다", "~할 가능성" 같은 추측 표현 금지
-- 각 메시지 **200자 이하** (카카오톡 제한)
+- 날짜 미확인 항목 전송 금지
+- 추측성·가능성 표현 금지 ("~할 수도", "~인 것 같다")
+- WebSearch 스니펫만 있을 때: "요약 출처: [미디어명] 스니펫" 명시
+- 각 메시지 **200자 이하**
 - 한국어로만 작성
-- bleepingcomputer, techtimes, medium 등 3차 요약 사이트 항목 금지
+- TechTimes·3차 요약 블로그·비공식 Medium 포스트 항목 금지
 
 ---
 
-## 빠른 참고: 소스 접근 상태 요약
+## 빠른 참고: 소스 접근 상태
 
 ```
-✅ 직접 접근 가능
+✅ WebFetch 직접
   github.com/anthropics/claude-code/releases.atom
   github.com/openai/codex/releases.atom
   raw.githubusercontent.com/.../CHANGELOG.md
-  code.claude.com/docs/en/changelog
-  code.claude.com/docs/en/whats-new
-  registry.npmjs.org/@anthropic-ai/claude-code
+  code.claude.com/docs/en/*
 
-⚠️ WebSearch → 개별 URL 재시도
-  anthropic.com/news/*
-  simonwillison.net/*
-  news.ycombinator.com/item?id=*
-  openai.com/index/*
-  developers.openai.com/codex/changelog
+⚠️ WebSearch 전용 (WebFetch 403)
+  anthropic.com, claude.com/blog
+  simonwillison.net
+  techcrunch.com, venturebeat.com, theverge.com
+  bleepingcomputer.com, cybersecuritynews.com
+  news.hada.io (GeekNews)
+  news.ycombinator.com
+
+❌ 완전 차단 (대안 없음)
+  reddit.com
+  hn.algolia.com API
 ```
