@@ -19,7 +19,7 @@
 3. `https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md`
 4. `https://code.claude.com/docs/en/changelog`
 5. `https://code.claude.com/docs/en/whats-new`
-6. `https://registry.npmjs.org/@anthropic-ai/claude-code` ← `time` 필드로 날짜 확인
+6. `https://registry.npmjs.org/@anthropic-ai/claude-code/latest` ← 버전명 확인용 (날짜는 불안정 → Atom 피드 날짜 우선)
 7. `https://code.claude.com/docs/en/best-practices` ← ⚙️ 팁 섹션 상시 소스 (공식 문서, 날짜 무관)
 
 **[C] 검색 우회 (WebSearch → 스니펫 날짜 검증 → 개별 URL 재시도)**
@@ -68,7 +68,7 @@ A1: WebFetch https://github.com/anthropics/claude-code/releases.atom
 A2: WebFetch https://github.com/openai/codex/releases.atom
 B1: WebFetch https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md
 B2: WebFetch https://code.claude.com/docs/en/changelog
-B3: WebFetch https://registry.npmjs.org/@anthropic-ai/claude-code
+B3: WebFetch https://registry.npmjs.org/@anthropic-ai/claude-code/latest
 B4: WebFetch https://code.claude.com/docs/en/best-practices   ← 팁 섹션 상시 소스
 C1: WebSearch "site:anthropic.com (오늘날짜 OR 어제날짜) 2026"
 C2: WebSearch "site:openai.com codex (오늘날짜 OR 어제날짜) 2026"
