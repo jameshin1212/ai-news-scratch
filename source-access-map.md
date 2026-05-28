@@ -1,6 +1,6 @@
 # 출처별 접근 방법 맵
 
-> 마지막 검증일: 2026-05-26  
+> 마지막 검증일: 2026-05-28  
 > ✅ = WebFetch 직접 접근 가능 | ⚠️ = 우회 필요 | ❌ = 차단됨
 
 ---
@@ -27,6 +27,32 @@
 | 릴리즈 목록 | `https://github.com/openai/codex/releases.atom` | ✅ | WebFetch 직접 |
 | Codex 뉴스 인덱스 | `https://openai.com/index/` | ❌ | WebSearch fallback |
 | Developer changelog | `https://developers.openai.com/codex/changelog` | ❌ | WebSearch fallback |
+
+---
+
+---
+
+## 한국어 커뮤니티 출처 (🟨 KR 섹션)
+
+### GeekNews (news.hada.io)
+
+| 용도 | URL | 상태 | 접근 방법 |
+|------|-----|------|-----------|
+| 최신 글 목록 | `https://news.hada.io/new` | ❌ | WebSearch fallback |
+| RSS 피드 | `https://news.hada.io/rss` | ❌ | WebSearch fallback |
+| Atom 피드 | `https://news.hada.io/atom` | ❌ | WebSearch fallback |
+| 개별 토픽 | `https://news.hada.io/topic?id=N` | ❌ | WebSearch fallback |
+| 지난 소식 | `https://news.hada.io/past?day=YYYY-MM-DD` | ❌ | WebSearch fallback |
+
+**접근 전략 (우선순위순)**
+
+1. `WebSearch "news.hada.io" claude code OR AI 코딩 OR anthropic "날짜"`
+2. 사용자가 Slack(#technews 채널)에서 붙여넣은 GeekNews 내용 직접 처리
+3. 원본 출처 URL(HN, 원문 블로그 등)을 대신 사용
+
+**필터 기준**
+- 포함: Claude Code, AI 코딩 도구, Anthropic, OpenAI Codex 관련 항목
+- 제외: 폰트, CEO 뉴스, 구독 조언, 레드팀/보안, 무관 스타트업 뉴스 등
 
 ---
 

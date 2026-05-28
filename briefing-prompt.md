@@ -28,6 +28,10 @@
 
 ### 2차 실무 출처 (검증된 작성자만)
 
+> **GeekNews 인풋이 제공된 경우**: 브리핑 실행 시 사용자가 GeekNews 항목을 붙여넣으면
+> 제공된 내용에서 Claude Code / AI 코딩 관련 항목을 필터링하여 🟨 KR 섹션에 포함.
+> hada.io 개별 topic URL이 없으면 원본 출처 URL을 대신 사용.
+
 **[D] Simon Willison**
 - `WebSearch site:simonwillison.net claude 2026` 로 최신 항목 발견
 - 발견된 URL을 WebFetch로 재시도 (개별 기사는 가끔 성공)
@@ -38,6 +42,13 @@
 
 **[F] Anthropic Engineering / OpenAI Engineering 블로그**
 - `WebSearch site:anthropic.com engineering "날짜"` 또는 `site:openai.com research "날짜"`
+
+**[G] GeekNews (한국어 커뮤니티 — 🟨 KR 섹션 소스)**
+- 우선: `WebFetch https://news.hada.io/new` (→ 403 시 아래 fallback)
+- Fallback 1: `WebSearch "news.hada.io" claude code OR AI 코딩 "오늘날짜"`
+- Fallback 2: 브리핑 실행 시 사용자가 Slack에서 붙여넣은 GeekNews 내용 사용
+- 필터: **Claude Code / AI 코딩 도구 관련 항목만** 포함 (픽셀폰트·구독조언·CEO 사임 등 무관 항목 제외)
+- URL 규칙: hada.io topic URL 우선, 없으면 원본 출처 URL 사용 (URL 없으면 항목 제외)
 
 ### 제외 대상
 - 익명/저신뢰 Medium·블로그 포스트
@@ -63,6 +74,7 @@ C1: WebSearch "site:anthropic.com (오늘날짜 OR 어제날짜) 2026"
 C2: WebSearch "site:openai.com codex (오늘날짜 OR 어제날짜) 2026"
 D1: WebSearch "site:simonwillison.net claude (오늘날짜 OR 어제날짜) 2026"
 E1: WebSearch "site:news.ycombinator.com claude code 2026" (최근 24h 필터)
+G1: WebFetch https://news.hada.io/new  → 실패 시 WebSearch "news.hada.io claude code AI 코딩 (오늘날짜)"
 ```
 
 ### Step 2 — 24시간 필터
@@ -125,6 +137,15 @@ E1: WebSearch "site:news.ycombinator.com claude code 2026" (최근 24h 필터)
 🔗 [내용] / [URL]
 ```
 
+**메시지 6 — 🟨 KR (GeekNews 한국어 커뮤니티)** (항목 있을 때만, 항목당 1메시지)
+```
+🟨 KR — GeekNews 픽
+• [제목]
+[원본 URL 또는 hada.io topic URL]
+요약: (1-2줄, Claude Code/AI 코딩 관련성 중심)
+```
+항목이 없으면: `🟨 KR — 오늘 관련 한국어 글 없음`
+
 ---
 
 ## 엄격한 규칙
@@ -154,4 +175,9 @@ E1: WebSearch "site:news.ycombinator.com claude code 2026" (최근 24h 필터)
   news.ycombinator.com/item?id=*
   openai.com/index/*
   developers.openai.com/codex/changelog
+
+❌ 직접 접근 불가 — WebSearch fallback 또는 사용자 수동 입력
+  news.hada.io (GeekNews) — RSS/Atom/직접 접근 모두 403
+    → WebSearch "news.hada.io [topic] [날짜]" 또는
+    → 사용자가 Slack에서 붙여넣은 GeekNews 내용 처리
 ```
