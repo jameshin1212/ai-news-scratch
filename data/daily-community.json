@@ -1,0 +1,267 @@
+{
+  "collected_at": "2026-06-30T08:04:03.162626+00:00",
+  "cutoff": "2026-06-29T08:04:03.162626+00:00",
+  "sources": {
+    "reddit_ClaudeAI": {
+      "label": "Reddit r/ClaudeAI",
+      "items": [
+        {
+          "title": "Context size",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujixsk/context_size/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Is there any chrome extension or way to know context size of on going chat. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Glittering_Island289\"> /u/Glittering_Island289 </a> <br/> <span><a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujixsk/context_size/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r",
+          "date": "2026-06-30T08:02:05+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Would it be possible to use Claude as me?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujioxj/would_it_be_possible_to_use_claude_as_me/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Would it be technically feasible to upload a data of messages from me to other people into Claude and use it to learn my personally and how I talk and type to message and speak to other people. For example having it talk to new coworkers as me. Also giving it the ability to change the type of person you are, for example, make me more inpatient. This would be a coo",
+          "date": "2026-06-30T07:47:58+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "GTmetrix MCP - Analyze web performance and Core Web Vitals directly in Claude",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujiowo/gtmetrix_mcp_analyze_web_performance_and_core_web/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I work at GTmetrix and we released an official MCP server that lets you run web performance tests, analyze data and metrics, and generate code fixes all within Claude.</p> <p><strong>What it does</strong></p> <ul> <li><strong>Runs full web performance tests:</strong> Start GTmetrix tests for any public URL; define location, device, connection speeds in natural lan",
+          "date": "2026-06-30T07:47:55+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "v2.1.196 configures \"Auto-compact window: auto (500k tokens)\" automatically",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujim21/v21196_configures_autocompact_window_auto_500k/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Anyone run into the following issue in the recently released v2.1.196? </p> <p>I had one session open that was still on v2.1.195 sitting around ~600k contex used. I opened a separate terminal session to start working on something else in parallel when the autocompact triggered at around ~500k token window usage. Couldn&#39;t understand what was happening. I looked",
+          "date": "2026-06-30T07:43:09+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Anthropic embedded spyware in Claude Code — and attempted to hide it from you",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujila1/anthropic_embedded_spyware_in_claude_code_and/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>tl;dr:</strong> Since version 2.1.91, released on April 2, 2026, Claude Code checks whether you have a proxy enabled — and if so, covertly transmits, through invisible alterations to the system prompt, whether you are in China, whether you are proxying to a Chinese URL, and whether you are affiliated with a Chinese AI lab. Anthropic further attempted to ob",
+          "date": "2026-06-30T07:41:56+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Is it better to click \"Retry\" or tell Claude to continue? Does it affect the length of the conversation?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujiivl/is_it_better_to_click_retry_or_tell_claude_to/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujiivl/is_it_better_to_click_retry_or_tell_claude_to/\"> <img src=\"https://preview.redd.it/dg8wl1nrgdah1.png?width=140&amp;height=16&amp;auto=webp&amp;s=8b9669ee88f09ea82052671838aa371688f601cc\" alt=\"Is it better to click &quot;Retry&quot; or tell Claude to continue? Does it affect the length of the conversation?\" title=\"Is it be",
+          "date": "2026-06-30T07:38:01+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "The BIG Secret About Vibe Coding",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujii78/the_big_secret_about_vibe_coding/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>After months of lurking in this forum I finally cracked it!</p> <p>Vibe coding isn’t about building apps anymore, it’s a closed loop. You vibe code a tool that tracks your token usage, then you vibe code a dashboard for the tracker, then you find an old PC fan and three LEDs in a drawer and vibe code a driver so the dashboard can blink at you in real time, ideally",
+          "date": "2026-06-30T07:36:54+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Do you lose track of what your teammates' Claude Code sessions figured out?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujhv3n/do_you_lose_track_of_what_your_teammates_claude/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Something that keeps biting my team: a teammate spends an hour with Claude Code working out a fix or a decision — why they picked X over Y, what they ruled out and that reasoning just... evaporates.</p> <p>And before anyone says &quot;that&#39;s what GitHub/CLAUDE.md are for&quot; — that&#39;s exactly the gap I kept hitting:</p> <p>- GitHub only has the final comm",
+          "date": "2026-06-30T07:00:18+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Being funny, helps?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujhqbx/being_funny_helps/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>So, quite a strange thing I have seen over the past few nights. I am building a few applications right now, same processes, same design and specification steps, identical memory management and documentation styles, but one of the applications has &quot;humor&quot; at its core (a personality, voice, and tone that is meant to be funny and add non-standard messages f",
+          "date": "2026-06-30T06:52:40+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Image generatio",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujhq4w/image_generatio/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>Using Claude Max Plan.</p> <p>Looking for the best way to create / generate images / infographics to be published along with my LInkedin posts.</p> <p>Is there a specific skill / MCP / cli which i can use?</p> <p>Also should i use it in Cowork or in Code?</p> <p>TIA</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/C",
+          "date": "2026-06-30T06:52:20+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Is it just me or Code seems smarter than Chat?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujhq4d/is_it_just_me_or_code_seems_smarter_than_chat/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m a marketer, with a project and people management background, but with close to nill tech know how. I treat Claude as my (better) skillful colleague who can execute my creative ideas, which funny enough end up in small teach pieces that support marketing.<br/> So, as a new specie of &quot;martecher&quot; I find Code waaaay smarter and easy to use vs Chat (o",
+          "date": "2026-06-30T06:52:19+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Introducing Donnyclaude - Prompt, context, harness, and loop engineering for Claude Code all in one config",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujho5h/introducing_donnyclaude_prompt_context_harness/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujho5h/introducing_donnyclaude_prompt_context_harness/\"> <img src=\"https://preview.redd.it/hc1indz0adah1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=184f7da1372b9a818cc6e4ecd65f547f64c625b5\" alt=\"Introducing Donnyclaude - Prompt, context, harness, and loop engineering for Claude Code all in one config\" title=\"Introducing Do",
+          "date": "2026-06-30T06:49:15+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Found a plugin that optimize claude code from its mistakes",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujhkqq/found_a_plugin_that_optimize_claude_code_from_its/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujhkqq/found_a_plugin_that_optimize_claude_code_from_its/\"> <img src=\"https://external-preview.redd.it/eXFrOWZqODM5ZGFoMewaxIhrIC6gHFfd3m5uzPKWE_IzXqC3GlysAaTZy0ln.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e697873facd5a55545eef88e42164fefdd36b8e\" alt=\"Found a plugin that optimize claude code from its mistakes\" title=\"Fou",
+          "date": "2026-06-30T06:43:49+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Claude code Cowork tab no conversations clickable ever",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujh5dl/claude_code_cowork_tab_no_conversations_clickable/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I switched from Antigravity to Claude Code and was excited until I started a conversation. I saw a flashing indicator saying it&#39;s &quot;Active&quot; and when I click on the &quot;Active&quot; nothing happened. After about a minute, it finished processing my request, and the conversation stopped flashing in the sidebar. However, even after the conversation stop",
+          "date": "2026-06-30T06:19:32+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Claude creativity experiments",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujh4yh/claude_creativity_experiments/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujh4yh/claude_creativity_experiments/\"> <img src=\"https://preview.redd.it/m13ntsfp4dah1.jpg?width=140&amp;height=93&amp;auto=webp&amp;s=d6a8ef503e055c38e7fcdc4b047e8b46c9c6a4d8\" alt=\"Claude creativity experiments\" title=\"Claude creativity experiments\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>When Opus 4.6 first came o",
+          "date": "2026-06-30T06:18:53+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Why is Claude breaking my perfect token chart",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujh4h9/why_is_claude_breaking_my_perfect_token_chart/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujh4h9/why_is_claude_breaking_my_perfect_token_chart/\"> <img src=\"https://preview.redd.it/dis87q0b4dah1.png?width=140&amp;height=61&amp;auto=webp&amp;s=4a5943b919e1c22e80d511d4499d5239b18d244e\" alt=\"Why is Claude breaking my perfect token chart\" title=\"Why is Claude breaking my perfect token chart\" /> </a> </td><td> <!-- SC_OFF ",
+          "date": "2026-06-30T06:18:06+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Neverending Disk and Network Usage???",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujgtm1/neverending_disk_and_network_usage/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujgtm1/neverending_disk_and_network_usage/\"> <img src=\"https://preview.redd.it/j0t003t21dah1.png?width=140&amp;height=70&amp;auto=webp&amp;s=91514c26594c29b4d1a5e46c568d920db89309d4\" alt=\"Neverending Disk and Network Usage???\" title=\"Neverending Disk and Network Usage???\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a hr",
+          "date": "2026-06-30T06:01:29+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "What small Claude workflow actually improved your daily work?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujgp90/what_small_claude_workflow_actually_improved_your/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am curious about small Claude / Claude Code workflows people keep using in real life.</p> <p>Not big launches or polished demos, just the simple habit that saves time again and again.</p> <p>For me, one useful pattern is:</p> <p>clear goal → ask Claude to make a checklist → run one step → paste only the error/output → fix one thing → repeat</p> <p>It works much ",
+          "date": "2026-06-30T05:54:52+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "What's your current workflow when using AI agents on a real codebase?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujgje1/whats_your_current_workflow_when_using_ai_agents/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m curious how experienced developers are actually using AI agents today.</p> <p>When you&#39;re working in an existing project, do you:</p> <ul> <li>Ask questions about the codebase first? </li> <li>Generate an implementation plan? </li> <li>Let the agent make changes immediately?</li> </ul> <p>I&#39;ve found that the answer depends a lot on the size and ris",
+          "date": "2026-06-30T05:45:43+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "How do I give the design that claude design created to claude code for it to build it ?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujgfwp/how_do_i_give_the_design_that_claude_design/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just created a design for a flutter app i want to create using claude design, now I want claude code to actually build it, but idk how to feed it what claude design created, i searched on yt and couldn&#39;t find a tutorial.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/idkuschoose\"> /u/idkuschoose </a> <br/> <span><a hre",
+          "date": "2026-06-30T05:40:18+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Claude skills as previews",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujgdwd/claude_skills_as_previews/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>There are so many GitHub repos full of skills for Claude now. But they&#39;re all dense and assume you&#39;re technical. </p> <p>There&#39;s gotta be a more visual way to do this and definitely a way to try a skill out before you install it.</p> <p>Does something like this already exist?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit",
+          "date": "2026-06-30T05:37:07+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Why doesn't my Claude Code have the /design command?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujg9oa/why_doesnt_my_claude_code_have_the_design_command/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Why doesn&#39;t my Claude Code have the /design command? I&#39;ve already updated Claude Code to version 2.1.196, but there&#39;s only a design-sync command and no design command. Is this command in a gradual rollout/A-B testing phase?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/UnlikelyPrint3276\"> /u/UnlikelyPrint3276 </",
+          "date": "2026-06-30T05:30:43+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Claude openly mocks white baby names then justifies it because “it’s ok to punch up at privileged groups.”",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujg8cp/claude_openly_mocks_white_baby_names_then/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujg8cp/claude_openly_mocks_white_baby_names_then/\"> <img src=\"https://preview.redd.it/4gere4vrvcah1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=31a79c12457534e80b6f3e74a5848b247fae3a15\" alt=\"Claude openly mocks white baby names then justifies it because “it’s ok to punch up at privileged groups.”\" title=\"",
+          "date": "2026-06-30T05:28:50+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "You have 12 hours until weekly reset and 0% usage for the week. What are you doing?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujfr5a/you_have_12_hours_until_weekly_reset_and_0_usage/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>You have Claude Pro. Your weekly usage resets in 12 hours. You’ve just gotten back from a week-long disastrous, tech-free, Survivor-inspired retreat in Honduras, didn’t win, and you are sitting at 0% usage for the week. </p> <p>Now that you’ve showered and rejoined society, what’s the most productive way to burn through the full tank before reset? </p> </div><!-- ",
+          "date": "2026-06-30T05:03:42+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "CC constant access requests these days?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujfptm/cc_constant_access_requests_these_days/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been getting permissions requests randomly from claude code these days. </p> <p>&quot;2.1.196&quot; would like to access files in your desktop &quot;2.1.196&quot; would like to control terminal &quot;2.1.197&quot; would like to access chrome</p> <p>It&#39;s seemingly unconnected to the task at hand, it sometimes happens well after all turns have completed",
+          "date": "2026-06-30T05:01:52+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "How many AI subscriptions do you actually pay for at home — and which ones?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujflow/how_many_ai_subscriptions_do_you_actually_pay_for/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’d like to know whats genuinely worth paying for out of my own pocket for AI usage. I prefer Claude for most tasks but for personal usage, cost is something to keep an eye on.</p> <p>So I’m curious what everyone else is doing:</p> <ol> <li>How many AI subscriptions do you stack personally? Is one enough, or do you bounce between a few?<br/></li> <li>Any family sh",
+          "date": "2026-06-30T04:56:09+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Enterprise Claude Cowork",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujfgqq/enterprise_claude_cowork/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Enterprise Claude Cowork</p> <p>Anyone here actually rolled out Claude Enterprise in your org? Looking for war stories from the IT side before I walk into this.</p> <p>Context: Around 500 staff and students. Our security stack is basically a firewall and EDR. No CASB, no real DLP, no SIEM beyond what comes baked in. And now leadership wants multimodal agentic AI r",
+          "date": "2026-06-30T04:49:10+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Fable return, identity verification requirement (from CC strings)",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujfd11/fable_return_identity_verification_requirement/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>String searches in CC found that Fable credits are dependent upon identification. (The probably included-in-plan-credits for limited usage.)</p> <p>This might also be related to the US/non-US issue. Though that is speculation. Still very sad discussion for all non-US. Might also just be against Chinese distillation, there have been news on Alibaby heavily querying",
+          "date": "2026-06-30T04:43:50+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "I built a free iOS app to read the Markdown files Claude & Claude Code generate, right on your phone",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujfbsw/i_built_a_free_ios_app_to_read_the_markdown_files/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Claude and Claude Code constantly hand you .md files — plans, specs, READMEs, writeups. On a Mac that&#39;s fine, but open one on your iPhone and iOS just shows raw text with no rendering. It bugged me enough that I made a small, free viewer specifically for this.</p> <p>Md Preview renders Claude&#39;s Markdown properly, on-device:</p> <p>• GitHub-Flavored Markdow",
+          "date": "2026-06-30T04:42:06+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "What is the actual \"value\" of credits? $100 is \"best value\"....but what am I going to actually get?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujev5e/what_is_the_actual_value_of_credits_100_is_best/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujev5e/what_is_the_actual_value_of_credits_100_is_best/\"> <img src=\"https://preview.redd.it/29s6tx12jcah1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=71acbca3b941f25ab513194f7c2eb92a3f04a4fb\" alt=\"What is the actual &quot;value&quot; of credits? $100 is &quot;best value&quot;....but what am I going to actually get?\" title=\"",
+          "date": "2026-06-30T04:18:31+00:00",
+          "source": "Reddit r/ClaudeAI"
+        }
+      ]
+    },
+    "reddit_LocalLLaMA": {
+      "error": "fetch_failed",
+      "items": []
+    },
+    "hn_frontpage": {
+      "label": "Hacker News",
+      "items": [
+        {
+          "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+          "url": "https://github.com/deepreinforce-ai/Ornith-1",
+          "summary": "Comments",
+          "date": "2026-06-29T17:16:17+00:00",
+          "source": "Hacker News"
+        }
+      ]
+    },
+    "simonwillison": {
+      "label": "Simon Willison",
+      "items": [
+        {
+          "title": "HTML table extractor",
+          "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
+          "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/html-table-extractor\">HTML table extractor</a></p>\n        <p>Yet another in my growing collection of paste-conversion tools. This one accepts pasted rich text from browsers (with embedded HTML tables) and converts every detected table into HTML, Markdown, CSV, TSV, or JSON.</p>\n<p>Try it out by selecting everything on the Wikipedi",
+          "date": "2026-06-29T23:38:21+00:00",
+          "source": "Simon Willison"
+        },
+        {
+          "title": "Count the number of Safari tabs",
+          "url": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything",
+          "summary": "<p>Tiniest TIL, using AppleScript to count the number of open browser tabs in Safari:</p>\n<pre><code>osascript -e 'tell application \"Safari\" to count tabs of every window'\n</code></pre>\n<p><img alt=\"I ran it in a terminal window and got back 370.\" src=\"https://static.simonwillison.net/static/2026/tab-shame.jpg\" /></p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/safari\">safari</a>, <a hre",
+          "date": "2026-06-29T18:36:18+00:00",
+          "source": "Simon Willison"
+        },
+        {
+          "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+          "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
+          "summary": "<p><strong><a href=\"https://deep-reinforce.com/ornith_1_0.html\">Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding</a></strong></p>\nThis is an interesting new open weights (MIT licensed) model, the first model release from DeepReinforce.</p>\n<blockquote>\n<p>[...] with variants including 9B Dense, 31B Dense, 35B MoE, and 397B MoE. Built on top of pretrained Gemma 4 and Qwen 3.5, it achieves state",
+          "date": "2026-06-29T16:17:59+00:00",
+          "source": "Simon Willison"
+        }
+      ]
+    },
+    "hada_io": {
+      "error": "fetch_failed",
+      "items": []
+    }
+  }
+}
