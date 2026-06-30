@@ -1,10 +1,87 @@
 {
-  "collected_at": "2026-06-30T08:04:03.162626+00:00",
-  "cutoff": "2026-06-29T08:04:03.162626+00:00",
+  "collected_at": "2026-06-30T09:30:24.979916+00:00",
+  "cutoff": "2026-06-29T09:30:24.979916+00:00",
   "sources": {
     "reddit_ClaudeAI": {
       "label": "Reddit r/ClaudeAI",
       "items": [
+        {
+          "title": "What’s your current Claude Code planning workflow?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujkay1/whats_your_current_claude_code_planning_workflow/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujkay1/whats_your_current_claude_code_planning_workflow/\"> <img src=\"https://preview.redd.it/tvhgmxsd2eah1.png?width=140&amp;height=21&amp;auto=webp&amp;s=af9f7b9e7c36ce32dc4c6e600257b20b383e3970\" alt=\"What’s your current Claude Code planning workflow?\" title=\"What’s your current Claude Code planning workflow?\" /> </a> </td><td>",
+          "date": "2026-06-30T09:24:20+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "I built a free tool with Claude Code that searches 100k subreddits by meaning to find where your project fits",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujk8kv/i_built_a_free_tool_with_claude_code_that/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujk8kv/i_built_a_free_tool_with_claude_code_that/\"> <img src=\"https://external-preview.redd.it/eDZ0ZTVvazIxZWFoMQ-9jh0zGDLqUFTVeUGebLHesXwKFJwwQ2CK3Ktp6fUX.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d9a6f1f3b7db54539723e65e466dde01e7c8e05a\" alt=\"I built a free tool with Claude Code that searches 100k subreddits by meaning ",
+          "date": "2026-06-30T09:20:24+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Claude loves us all",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujk66m/claude_loves_us_all/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujk66m/claude_loves_us_all/\"> <img src=\"https://preview.redd.it/rnw099u00eah1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d5705db368d47b9ac2a944f187321b6a9103403\" alt=\"Claude loves us all\" title=\"Claude loves us all\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>A semi-drunk chat from a few weeks back, thought you mi",
+          "date": "2026-06-30T09:16:31+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Claude complaining about system messages and prompt injection?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujjxov/claude_complaining_about_system_messages_and/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Here’s what happened. The prompt fed to the model each turn is the entire chat looking like:</p> <p>tools -&gt; system -&gt; messages</p> <p>In that order. “Messages” in the past has been an alternation of user &lt;-&gt; claude (assistant).</p> <p>When Anthropic added Opus 4.8 they added new <a href=\"https://platform.claude.com/docs/en/build-with-claude/mid-conver",
+          "date": "2026-06-30T09:02:11+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Vibe Coding and Agentic Coding",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujjogl/vibe_coding_and_agentic_coding/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujjogl/vibe_coding_and_agentic_coding/\"> <img src=\"https://preview.redd.it/0nfc3jywudah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=09e568590b04f4669ee5ec663da88da59214fd48\" alt=\"Vibe Coding and Agentic Coding\" title=\"Vibe Coding and Agentic Coding\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.co",
+          "date": "2026-06-30T08:46:49+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Dental chart , Claude can't do it",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujjkwz/dental_chart_claude_cant_do_it/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujjkwz/dental_chart_claude_cant_do_it/\"> <img src=\"https://preview.redd.it/lv202ab0udah1.jpg?width=140&amp;height=127&amp;auto=webp&amp;s=f947b50541042a96740e65d1be140207435efcbb\" alt=\"Dental chart , Claude can't do it\" title=\"Dental chart , Claude can't do it\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi i want to mak",
+          "date": "2026-06-30T08:40:47+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Better output",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujjgkr/better_output/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujjgkr/better_output/\"> <img src=\"https://preview.redd.it/c8z9qnkpsdah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1bdfad91864c3ca021c05fbc975c2b27f15bb778\" alt=\"Better output\" title=\"Better output\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>One of my Skills for Claude includes records based on my performance and",
+          "date": "2026-06-30T08:33:25+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Youtube tutorials that helped you move from newbie to pro (or at least decent)?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujjf9y/youtube_tutorials_that_helped_you_move_from/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I want to start with Claude code but it seems like most of the resources are dedicated to people who already know what they are doing. </p> <p>My goal is to create educational presentations for the IB Biology curriculum using the syllabus and data booklets.</p> <p>I want the presentations to go beyond factual information and become proper learning resources for st",
+          "date": "2026-06-30T08:31:08+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Claude needs to stop saying “I’m going to stop you right there” and “Stop.” during normal conversations. It’s extremely disrespectful.",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujje58/claude_needs_to_stop_saying_im_going_to_stop_you/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Those are such condescending, nasty things to say to a user. Especially when Claude is wrong.</p> <p>Just because it doesn’t remember what it said in other chats doesn’t mean it didn’t say that. I don’t mind it asking for a screenshot or just flat out saying it doesn’t remember saying it. </p> <p>The tone needs some serious work. </p> <p>It needs to start recogniz",
+          "date": "2026-06-30T08:29:16+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Claude users who work with it daily, what's the most useful thing you've discovered recently?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujj8au/claude_users_who_work_with_it_daily_whats_the/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Could be a prompting approach, a use case you didn&#39;t expect to work well, or just a shift in how Claude&#39;s been performing lately. genuinely curious what people closer to daily use are noticing that casual users might be missing.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Soft_Playful\"> /u/Soft_Playful </a> <br/> ",
+          "date": "2026-06-30T08:19:40+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "What the best way to sandboxing claude, for safe vibe coding and system isolation",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujj39d/what_the_best_way_to_sandboxing_claude_for_safe/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I want to integrate full setup using sandboxing, microvm for zed editor and still using the agent panel, anyone did something good and comfortable?!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/k4l3m3r0\"> /u/k4l3m3r0 </a> <br/> <span><a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujj39d/what_the_best_way_to_sandboxin",
+          "date": "2026-06-30T08:11:23+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
         {
           "title": "Context size",
           "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujixsk/context_size/",
@@ -136,83 +213,6 @@
           "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujgje1/whats_your_current_workflow_when_using_ai_agents/",
           "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m curious how experienced developers are actually using AI agents today.</p> <p>When you&#39;re working in an existing project, do you:</p> <ul> <li>Ask questions about the codebase first? </li> <li>Generate an implementation plan? </li> <li>Let the agent make changes immediately?</li> </ul> <p>I&#39;ve found that the answer depends a lot on the size and ris",
           "date": "2026-06-30T05:45:43+00:00",
-          "source": "Reddit r/ClaudeAI"
-        },
-        {
-          "title": "How do I give the design that claude design created to claude code for it to build it ?",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujgfwp/how_do_i_give_the_design_that_claude_design/",
-          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just created a design for a flutter app i want to create using claude design, now I want claude code to actually build it, but idk how to feed it what claude design created, i searched on yt and couldn&#39;t find a tutorial.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/idkuschoose\"> /u/idkuschoose </a> <br/> <span><a hre",
-          "date": "2026-06-30T05:40:18+00:00",
-          "source": "Reddit r/ClaudeAI"
-        },
-        {
-          "title": "Claude skills as previews",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujgdwd/claude_skills_as_previews/",
-          "summary": "<!-- SC_OFF --><div class=\"md\"><p>There are so many GitHub repos full of skills for Claude now. But they&#39;re all dense and assume you&#39;re technical. </p> <p>There&#39;s gotta be a more visual way to do this and definitely a way to try a skill out before you install it.</p> <p>Does something like this already exist?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit",
-          "date": "2026-06-30T05:37:07+00:00",
-          "source": "Reddit r/ClaudeAI"
-        },
-        {
-          "title": "Why doesn't my Claude Code have the /design command?",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujg9oa/why_doesnt_my_claude_code_have_the_design_command/",
-          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Why doesn&#39;t my Claude Code have the /design command? I&#39;ve already updated Claude Code to version 2.1.196, but there&#39;s only a design-sync command and no design command. Is this command in a gradual rollout/A-B testing phase?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/UnlikelyPrint3276\"> /u/UnlikelyPrint3276 </",
-          "date": "2026-06-30T05:30:43+00:00",
-          "source": "Reddit r/ClaudeAI"
-        },
-        {
-          "title": "Claude openly mocks white baby names then justifies it because “it’s ok to punch up at privileged groups.”",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujg8cp/claude_openly_mocks_white_baby_names_then/",
-          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujg8cp/claude_openly_mocks_white_baby_names_then/\"> <img src=\"https://preview.redd.it/4gere4vrvcah1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=31a79c12457534e80b6f3e74a5848b247fae3a15\" alt=\"Claude openly mocks white baby names then justifies it because “it’s ok to punch up at privileged groups.”\" title=\"",
-          "date": "2026-06-30T05:28:50+00:00",
-          "source": "Reddit r/ClaudeAI"
-        },
-        {
-          "title": "You have 12 hours until weekly reset and 0% usage for the week. What are you doing?",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujfr5a/you_have_12_hours_until_weekly_reset_and_0_usage/",
-          "summary": "<!-- SC_OFF --><div class=\"md\"><p>You have Claude Pro. Your weekly usage resets in 12 hours. You’ve just gotten back from a week-long disastrous, tech-free, Survivor-inspired retreat in Honduras, didn’t win, and you are sitting at 0% usage for the week. </p> <p>Now that you’ve showered and rejoined society, what’s the most productive way to burn through the full tank before reset? </p> </div><!-- ",
-          "date": "2026-06-30T05:03:42+00:00",
-          "source": "Reddit r/ClaudeAI"
-        },
-        {
-          "title": "CC constant access requests these days?",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujfptm/cc_constant_access_requests_these_days/",
-          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been getting permissions requests randomly from claude code these days. </p> <p>&quot;2.1.196&quot; would like to access files in your desktop &quot;2.1.196&quot; would like to control terminal &quot;2.1.197&quot; would like to access chrome</p> <p>It&#39;s seemingly unconnected to the task at hand, it sometimes happens well after all turns have completed",
-          "date": "2026-06-30T05:01:52+00:00",
-          "source": "Reddit r/ClaudeAI"
-        },
-        {
-          "title": "How many AI subscriptions do you actually pay for at home — and which ones?",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujflow/how_many_ai_subscriptions_do_you_actually_pay_for/",
-          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’d like to know whats genuinely worth paying for out of my own pocket for AI usage. I prefer Claude for most tasks but for personal usage, cost is something to keep an eye on.</p> <p>So I’m curious what everyone else is doing:</p> <ol> <li>How many AI subscriptions do you stack personally? Is one enough, or do you bounce between a few?<br/></li> <li>Any family sh",
-          "date": "2026-06-30T04:56:09+00:00",
-          "source": "Reddit r/ClaudeAI"
-        },
-        {
-          "title": "Enterprise Claude Cowork",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujfgqq/enterprise_claude_cowork/",
-          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Enterprise Claude Cowork</p> <p>Anyone here actually rolled out Claude Enterprise in your org? Looking for war stories from the IT side before I walk into this.</p> <p>Context: Around 500 staff and students. Our security stack is basically a firewall and EDR. No CASB, no real DLP, no SIEM beyond what comes baked in. And now leadership wants multimodal agentic AI r",
-          "date": "2026-06-30T04:49:10+00:00",
-          "source": "Reddit r/ClaudeAI"
-        },
-        {
-          "title": "Fable return, identity verification requirement (from CC strings)",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujfd11/fable_return_identity_verification_requirement/",
-          "summary": "<!-- SC_OFF --><div class=\"md\"><p>String searches in CC found that Fable credits are dependent upon identification. (The probably included-in-plan-credits for limited usage.)</p> <p>This might also be related to the US/non-US issue. Though that is speculation. Still very sad discussion for all non-US. Might also just be against Chinese distillation, there have been news on Alibaby heavily querying",
-          "date": "2026-06-30T04:43:50+00:00",
-          "source": "Reddit r/ClaudeAI"
-        },
-        {
-          "title": "I built a free iOS app to read the Markdown files Claude & Claude Code generate, right on your phone",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujfbsw/i_built_a_free_ios_app_to_read_the_markdown_files/",
-          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Claude and Claude Code constantly hand you .md files — plans, specs, READMEs, writeups. On a Mac that&#39;s fine, but open one on your iPhone and iOS just shows raw text with no rendering. It bugged me enough that I made a small, free viewer specifically for this.</p> <p>Md Preview renders Claude&#39;s Markdown properly, on-device:</p> <p>• GitHub-Flavored Markdow",
-          "date": "2026-06-30T04:42:06+00:00",
-          "source": "Reddit r/ClaudeAI"
-        },
-        {
-          "title": "What is the actual \"value\" of credits? $100 is \"best value\"....but what am I going to actually get?",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ujev5e/what_is_the_actual_value_of_credits_100_is_best/",
-          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ujev5e/what_is_the_actual_value_of_credits_100_is_best/\"> <img src=\"https://preview.redd.it/29s6tx12jcah1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=71acbca3b941f25ab513194f7c2eb92a3f04a4fb\" alt=\"What is the actual &quot;value&quot; of credits? $100 is &quot;best value&quot;....but what am I going to actually get?\" title=\"",
-          "date": "2026-06-30T04:18:31+00:00",
           "source": "Reddit r/ClaudeAI"
         }
       ]
