@@ -51,18 +51,33 @@
 
 ### Step 1 — 병렬 수집 (가능한 모든 소스 동시 fetch)
 
-아래를 한 번에 병렬 실행:
+> ⚠️ 이 브리핑은 원격 클라우드 환경에서 실행되며, SNS·커뮤니티 도메인은
+> 보안 egress 정책으로 WebFetch 차단됨. 해당 소스는 WebSearch만 사용.
+> 상세 접근 상태는 `source-access-map.md` 참고.
+
+아래를 한 번에 병렬 실행 (오늘=YYYY-MM-DD, 어제=YYYY-MM-DD 형식으로 치환):
 ```
+[WebFetch — 직접 접근 가능 소스]
 A1: WebFetch https://github.com/anthropics/claude-code/releases.atom
 A2: WebFetch https://github.com/openai/codex/releases.atom
-B1: WebFetch https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md
-B2: WebFetch https://code.claude.com/docs/en/changelog
-B3: WebFetch https://registry.npmjs.org/@anthropic-ai/claude-code
-B4: WebFetch https://code.claude.com/docs/en/best-practices   ← 팁 섹션 상시 소스
-C1: WebSearch "site:anthropic.com (오늘날짜 OR 어제날짜) 2026"
-C2: WebSearch "site:openai.com codex (오늘날짜 OR 어제날짜) 2026"
-D1: WebSearch "site:simonwillison.net claude (오늘날짜 OR 어제날짜) 2026"
-E1: WebSearch "site:news.ycombinator.com claude code 2026" (최근 24h 필터)
+A3: WebFetch https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md
+A4: WebFetch https://code.claude.com/docs/en/changelog
+A5: WebFetch https://platform.claude.com/docs/en/release-notes/overview
+A6: WebFetch https://registry.npmjs.org/@anthropic-ai/claude-code
+A7: WebFetch https://code.claude.com/docs/en/best-practices   ← 팁 상시 소스
+
+[WebSearch — 프록시 차단 소스 우회]
+S1: WebSearch 'site:anthropic.com "오늘날짜영문" OR "어제날짜영문" 2026'
+    → 예: 'site:anthropic.com "June 29" OR "June 28" 2026'
+S2: WebSearch 'site:support.claude.com release notes "June 2026"'
+    → Claude Apps 릴리즈 노트 (Trusted Devices 등 앱 기능 별도 트래킹)
+S3: WebSearch 'Claude Code update release "오늘날짜영문" OR "어제날짜영문" 2026'
+S4: WebSearch 'site:openai.com codex "오늘날짜영문" OR "어제날짜영문" 2026'
+S5: WebSearch 'site:simonwillison.net claude "오늘날짜영문" OR "어제날짜영문" 2026'
+    → 결과 없으면 재시도: 'simonwillison.net claude code june 2026'
+S6: WebSearch 'site:news.ycombinator.com claude code 2026-오늘날짜 OR 2026-어제날짜'
+S7: WebSearch 'site:reddit.com/r/ClaudeAI claude code "오늘날짜영문" OR "어제날짜영문" 2026'
+S8: WebSearch 'site:news.hada.io claude anthropic june 2026'
 ```
 
 ### Step 2 — 24시간 필터
