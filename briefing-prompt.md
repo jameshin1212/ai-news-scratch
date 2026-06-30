@@ -26,17 +26,24 @@
 7. Anthropic 뉴스: `WebSearch site:anthropic.com news "오늘날짜 or 어제날짜"`
 8. OpenAI Codex: `WebSearch site:openai.com codex "오늘날짜 or 어제날짜"`
 
-### 2차 실무 출처 (검증된 작성자만)
+### 2차 실무 출처 — GitHub Actions 사전 수집 데이터 (우선)
 
-**[D] Simon Willison**
-- `WebSearch site:simonwillison.net claude 2026` 로 최신 항목 발견
-- 발견된 URL을 WebFetch로 재시도 (개별 기사는 가끔 성공)
+> GitHub Actions(매일 08:30 KST)가 커뮤니티 소스를 먼저 수집해 파일로 저장.
+> Claude Code Routine은 이 파일을 읽어 사용. 파일이 없거나 오래됐으면 WebSearch 폴백.
 
-**[E] Hacker News**
-- `WebSearch site:news.ycombinator.com "claude code" OR "codex"` + 날짜 필터
-- 스니펫에서 날짜·요점 추출 후 항목 URL WebFetch 재시도
+**[D] 사전 수집 데이터 파일 (WebFetch 직접 — raw.githubusercontent.com 허용)**
+- `https://raw.githubusercontent.com/jameshin1212/ai-news-scratch/main/data/daily-community.json`
+- JSON 구조: `{ "collected_at": "...", "cutoff": "...", "sources": { "reddit_ClaudeAI": {...}, ... } }`
+- `collected_at` 이 현재 시각 기준 2시간 이내면 신선한 데이터로 사용
+- `collected_at` 이 2시간 초과면 "GitHub Actions 미실행" — WebSearch 폴백 사용
 
-**[F] Anthropic Engineering / OpenAI Engineering 블로그**
+**[E] WebSearch 폴백 (D 데이터가 없거나 오래된 경우)**
+- `WebSearch site:simonwillison.net claude 오늘날짜영문 OR 어제날짜영문 2026`
+- `WebSearch site:news.ycombinator.com claude code 2026` (최근 24h 필터)
+- `WebSearch site:reddit.com/r/ClaudeAI claude code 오늘날짜 OR 어제날짜`
+- `WebSearch site:news.hada.io claude anthropic june 2026`
+
+**[G] Anthropic Engineering / OpenAI Engineering 블로그**
 - `WebSearch site:anthropic.com engineering "날짜"` 또는 `site:openai.com research "날짜"`
 
 ### 제외 대상
@@ -51,18 +58,33 @@
 
 ### Step 1 — 병렬 수집 (가능한 모든 소스 동시 fetch)
 
-아래를 한 번에 병렬 실행:
+> ⚠️ 이 브리핑은 원격 클라우드 환경에서 실행되며, SNS·커뮤니티 도메인은
+> 보안 egress 정책으로 WebFetch 차단됨. 해당 소스는 WebSearch만 사용.
+> 상세 접근 상태는 `source-access-map.md` 참고.
+
+아래를 한 번에 병렬 실행 (오늘=YYYY-MM-DD, 어제=YYYY-MM-DD 형식으로 치환):
 ```
+[WebFetch — 직접 접근 가능 소스]
 A1: WebFetch https://github.com/anthropics/claude-code/releases.atom
 A2: WebFetch https://github.com/openai/codex/releases.atom
-B1: WebFetch https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md
-B2: WebFetch https://code.claude.com/docs/en/changelog
-B3: WebFetch https://registry.npmjs.org/@anthropic-ai/claude-code
-B4: WebFetch https://code.claude.com/docs/en/best-practices   ← 팁 섹션 상시 소스
-C1: WebSearch "site:anthropic.com (오늘날짜 OR 어제날짜) 2026"
-C2: WebSearch "site:openai.com codex (오늘날짜 OR 어제날짜) 2026"
-D1: WebSearch "site:simonwillison.net claude (오늘날짜 OR 어제날짜) 2026"
-E1: WebSearch "site:news.ycombinator.com claude code 2026" (최근 24h 필터)
+A3: WebFetch https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md
+A4: WebFetch https://code.claude.com/docs/en/changelog
+A5: WebFetch https://platform.claude.com/docs/en/release-notes/overview
+A6: WebFetch https://registry.npmjs.org/@anthropic-ai/claude-code
+A7: WebFetch https://code.claude.com/docs/en/best-practices   ← 팁 상시 소스
+
+[WebSearch — 프록시 차단 소스 우회]
+S1: WebSearch 'site:anthropic.com "오늘날짜영문" OR "어제날짜영문" 2026'
+    → 예: 'site:anthropic.com "June 29" OR "June 28" 2026'
+S2: WebSearch 'site:support.claude.com release notes "June 2026"'
+    → Claude Apps 릴리즈 노트 (Trusted Devices 등 앱 기능 별도 트래킹)
+S3: WebSearch 'Claude Code update release "오늘날짜영문" OR "어제날짜영문" 2026'
+S4: WebSearch 'site:openai.com codex "오늘날짜영문" OR "어제날짜영문" 2026'
+S5: WebSearch 'site:simonwillison.net claude "오늘날짜영문" OR "어제날짜영문" 2026'
+    → 결과 없으면 재시도: 'simonwillison.net claude code june 2026'
+S6: WebSearch 'site:news.ycombinator.com claude code 2026-오늘날짜 OR 2026-어제날짜'
+S7: WebSearch 'site:reddit.com/r/ClaudeAI claude code "오늘날짜영문" OR "어제날짜영문" 2026'
+S8: WebSearch 'site:news.hada.io claude anthropic june 2026'
 ```
 
 ### Step 2 — 24시간 필터

@@ -1,0 +1,36 @@
+name: Collect Community News
+
+on:
+  schedule:
+    # 매일 08:30 KST = 23:30 UTC (Claude Code Routine 30분 전)
+    - cron: "30 23 * * *"
+  workflow_dispatch: # 수동 실행 가능
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect community news
+        run: |
+          mkdir -p data
+          python scripts/collect_community_news.py
+
+      - name: Commit collected data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/daily-community.json
+          git diff --staged --quiet || git commit -m "chore: daily community news data $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
