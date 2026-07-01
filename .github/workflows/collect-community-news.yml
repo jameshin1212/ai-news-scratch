@@ -2,8 +2,9 @@ name: Collect Community News
 
 on:
   schedule:
-    # 6회/일, 4시간 간격 (UTC 기준) = KST 08/12/16/20/00/04시
-    - cron: "0 23,3,7,11,15,19 * * *"
+    # 매시간 정각(UTC). Claude Routine이 매시간 이 데이터를 읽어 노트화하므로,
+    # RSS 수집도 매시간 갱신해 신선도를 맞춘다. (GitHub Actions cron은 지연 있을 수 있음)
+    - cron: "0 * * * *"
   workflow_dispatch: # 수동 실행 가능
 
 permissions:

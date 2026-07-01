@@ -31,14 +31,15 @@
 
 ### 2차 실무 출처 — GitHub Actions 사전 수집 데이터 (우선)
 
-> GitHub Actions(매일 08:30 KST)가 커뮤니티 소스를 먼저 수집해 파일로 저장.
+> GitHub Actions(매시간 정각 UTC)가 커뮤니티 소스를 먼저 수집해 파일로 저장.
 > Claude Code Routine은 이 파일을 읽어 사용. 파일이 없거나 오래됐으면 WebSearch 폴백.
 
 **[D] 사전 수집 데이터 파일 (WebFetch 직접 — raw.githubusercontent.com 허용)**
 - `https://raw.githubusercontent.com/jameshin1212/ai-news-scratch/main/data/daily-community.json`
 - JSON 구조: `{ "collected_at": "...", "cutoff": "...", "sources": { "reddit_ClaudeAI": {...}, ... } }`
-- `collected_at` 이 현재 시각 기준 2시간 이내면 신선한 데이터로 사용
-- `collected_at` 이 2시간 초과면 "GitHub Actions 미실행" — WebSearch 폴백 사용
+- `collected_at` 이 현재 시각 기준 90분 이내면 신선한 데이터로 사용
+- `collected_at` 이 90분 초과면 "GitHub Actions 지연/미실행" — WebSearch 폴백 사용
+  (GitHub Actions cron은 수 분~수십 분 지연될 수 있어 60분이 아닌 90분 여유)
 
 **[E] WebSearch 폴백 (D 데이터가 없거나 오래된 경우)**
 - `WebSearch site:simonwillison.net claude 오늘날짜영문 OR 어제날짜영문 2026`
