@@ -1,12 +1,21 @@
 {
-  "collected_at": "2026-07-01T09:12:33.932290+00:00",
-  "cutoff": "2026-06-30T09:12:33.932290+00:00",
+  "collected_at": "2026-07-01T09:16:38.040934+00:00",
+  "cutoff": "2026-06-30T09:16:38.040934+00:00",
   "sources": {
     "reddit_ClaudeAI": {
       "label": "Reddit r/ClaudeAI",
       "tier": "community",
       "category": "AI",
       "items": [
+        {
+          "title": "I made a game where you coach a soccer team by giving tactics in plain English.",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukgkfl/i_made_a_game_where_you_coach_a_soccer_team_by/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ukgkfl/i_made_a_game_where_you_coach_a_soccer_team_by/\"> <img src=\"https://external-preview.redd.it/cXVjZjhvaHE0bGFoMV02LOHSvD8IwJn1HHPuO8UWveELjxl3Xi05VtR4PN4S.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c3a3c4d75e2dc7aae2f2cf9348368c9963b39a6a\" alt=\"I made a game where you coach a soccer team by giving tactics in plain En",
+          "date": "2026-07-01T09:13:55+00:00",
+          "source": "Reddit r/ClaudeAI",
+          "tier": "community",
+          "category": "AI"
+        },
         {
           "title": "13.4 Billion Input Tokens In 30 Days",
           "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukgas7/134_billion_input_tokens_in_30_days/",
@@ -264,15 +273,6 @@
           "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukd5xo/i_walk_around_smiling_at_people_again/",
           "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ukd5xo/i_walk_around_smiling_at_people_again/\"> <img src=\"https://preview.redd.it/n7j6d6ue5kah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d0a9a239bc66cbaf825dd0ce2af4f6cafd720d38\" alt=\"I walk around smiling at people again\" title=\"I walk around smiling at people again\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"",
           "date": "2026-07-01T05:55:19+00:00",
-          "source": "Reddit r/ClaudeAI",
-          "tier": "community",
-          "category": "AI"
-        },
-        {
-          "title": "The world's most anticipated model returns with enhanced security measures.",
-          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukd569/the_worlds_most_anticipated_model_returns_with/",
-          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ukd569/the_worlds_most_anticipated_model_returns_with/\"> <img src=\"https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ee66c64f45d8b66dc3163d3dd6898176780fc61\" alt=\"The world's most anticipated model returns with enhanced security measures.\" title=\"The w",
-          "date": "2026-07-01T05:54:05+00:00",
           "source": "Reddit r/ClaudeAI",
           "tier": "community",
           "category": "AI"
@@ -754,7 +754,7 @@
         {
           "title": "The first early human eggs from stem cells",
           "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
-          "summary": "Article URL: https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells\nComments URL: https://news.ycombinator.com/item?id=48742483\nPoints: 103\n# Comments: 55",
+          "summary": "Article URL: https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells\nComments URL: https://news.ycombinator.com/item?id=48742483\nPoints: 104\n# Comments: 60",
           "date": "2026-07-01T05:09:30+00:00",
           "source": "Hacker News (100+ points)",
           "tier": "community",
@@ -765,6 +765,15 @@
           "url": "https://www.anthropic.com/news/redeploying-fable-5",
           "summary": "Article URL: https://www.anthropic.com/news/redeploying-fable-5\nComments URL: https://news.ycombinator.com/item?id=48741853\nPoints: 112\n# Comments: 34",
           "date": "2026-07-01T03:11:40+00:00",
+          "source": "Hacker News (100+ points)",
+          "tier": "community",
+          "category": "IT·Tech"
+        },
+        {
+          "title": "ArXiv's Next Chapter",
+          "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+          "summary": "Article URL: https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/\nComments URL: https://news.ycombinator.com/item?id=48741748\nPoints: 102\n# Comments: 37",
+          "date": "2026-07-01T02:51:36+00:00",
           "source": "Hacker News (100+ points)",
           "tier": "community",
           "category": "IT·Tech"
@@ -781,7 +790,7 @@
         {
           "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
           "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-          "summary": "Article URL: https://twitter.com/AnthropicAI/status/2072106151890809341\nComments URL: https://news.ycombinator.com/item?id=48740771\nPoints: 664\n# Comments: 378",
+          "summary": "Article URL: https://twitter.com/AnthropicAI/status/2072106151890809341\nComments URL: https://news.ycombinator.com/item?id=48740771\nPoints: 670\n# Comments: 384",
           "date": "2026-06-30T23:55:12+00:00",
           "source": "Hacker News (100+ points)",
           "tier": "community",
@@ -790,7 +799,7 @@
         {
           "title": "Google copybara: moving code between repositories",
           "url": "https://github.com/google/copybara",
-          "summary": "Article URL: https://github.com/google/copybara\nComments URL: https://news.ycombinator.com/item?id=48740698\nPoints: 203\n# Comments: 32",
+          "summary": "Article URL: https://github.com/google/copybara\nComments URL: https://news.ycombinator.com/item?id=48740698\nPoints: 204\n# Comments: 32",
           "date": "2026-06-30T23:45:39+00:00",
           "source": "Hacker News (100+ points)",
           "tier": "community",
@@ -799,7 +808,7 @@
         {
           "title": "From brain waves to words: a new path to communication without surgery",
           "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
-          "summary": "Article URL: https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1\nComments URL: https://news.ycombinator.com/item?id=48739466\nPoints: 156\n# Comments: 81",
+          "summary": "Article URL: https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1\nComments URL: https://news.ycombinator.com/item?id=48739466\nPoints: 156\n# Comments: 82",
           "date": "2026-06-30T21:29:13+00:00",
           "source": "Hacker News (100+ points)",
           "tier": "community",
@@ -808,7 +817,7 @@
         {
           "title": "I ported Kubernetes to the browser",
           "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-          "summary": "https://github.com/ngrok/weberneteshttps://webernetes-demo.ngrok.app/\n\nComments URL: https://news.ycombinator.com/item?id=48738985\nPoints: 260\n# Comments: 78",
+          "summary": "https://github.com/ngrok/weberneteshttps://webernetes-demo.ngrok.app/\n\nComments URL: https://news.ycombinator.com/item?id=48738985\nPoints: 260\n# Comments: 79",
           "date": "2026-06-30T20:48:36+00:00",
           "source": "Hacker News (100+ points)",
           "tier": "community",
@@ -817,7 +826,7 @@
         {
           "title": "Leanstral 1.5",
           "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
-          "summary": "Article URL: https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06\nComments URL: https://news.ycombinator.com/item?id=48738938\nPoints: 213\n# Comments: 65",
+          "summary": "Article URL: https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06\nComments URL: https://news.ycombinator.com/item?id=48738938\nPoints: 216\n# Comments: 65",
           "date": "2026-06-30T20:44:56+00:00",
           "source": "Hacker News (100+ points)",
           "tier": "community",
@@ -826,7 +835,7 @@
         {
           "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
           "url": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
-          "summary": "Article URL: https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/\nComments URL: https://news.ycombinator.com/item?id=48738262\nPoints: 130\n# Comments: 28",
+          "summary": "Article URL: https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/\nComments URL: https://news.ycombinator.com/item?id=48738262\nPoints: 133\n# Comments: 28",
           "date": "2026-06-30T19:47:24+00:00",
           "source": "Hacker News (100+ points)",
           "tier": "community",
@@ -853,7 +862,7 @@
         {
           "title": "Claude Sonnet 5",
           "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "summary": "Article URL: https://www.anthropic.com/news/claude-sonnet-5\nComments URL: https://news.ycombinator.com/item?id=48736605\nPoints: 1112\n# Comments: 651",
+          "summary": "Article URL: https://www.anthropic.com/news/claude-sonnet-5\nComments URL: https://news.ycombinator.com/item?id=48736605\nPoints: 1114\n# Comments: 660",
           "date": "2026-06-30T17:59:52+00:00",
           "source": "Hacker News (100+ points)",
           "tier": "community",
@@ -862,7 +871,7 @@
         {
           "title": "I built a mmWave material classification radar (2025)",
           "url": "https://gauthier-lechevalier.com/radar",
-          "summary": "Article URL: https://gauthier-lechevalier.com/radar\nComments URL: https://news.ycombinator.com/item?id=48736137\nPoints: 180\n# Comments: 48",
+          "summary": "Article URL: https://gauthier-lechevalier.com/radar\nComments URL: https://news.ycombinator.com/item?id=48736137\nPoints: 181\n# Comments: 48",
           "date": "2026-06-30T17:29:36+00:00",
           "source": "Hacker News (100+ points)",
           "tier": "community",
@@ -871,7 +880,7 @@
         {
           "title": "Claude Science",
           "url": "https://claude.com/product/claude-science",
-          "summary": "Article URL: https://claude.com/product/claude-science\nComments URL: https://news.ycombinator.com/item?id=48735770\nPoints: 484\n# Comments: 145",
+          "summary": "Article URL: https://claude.com/product/claude-science\nComments URL: https://news.ycombinator.com/item?id=48735770\nPoints: 484\n# Comments: 146",
           "date": "2026-06-30T17:07:41+00:00",
           "source": "Hacker News (100+ points)",
           "tier": "community",
@@ -880,7 +889,7 @@
         {
           "title": "We Are the Last People Who Know How It Works",
           "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
-          "summary": "Article URL: https://unix.foo/posts/last-people-who-know-how-it-works/\nComments URL: https://news.ycombinator.com/item?id=48735633\nPoints: 305\n# Comments: 251",
+          "summary": "Article URL: https://unix.foo/posts/last-people-who-know-how-it-works/\nComments URL: https://news.ycombinator.com/item?id=48735633\nPoints: 306\n# Comments: 252",
           "date": "2026-06-30T16:59:00+00:00",
           "source": "Hacker News (100+ points)",
           "tier": "community",
@@ -889,7 +898,7 @@
         {
           "title": "Xsnow \"protestware\" in Debian",
           "url": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
-          "summary": "Article URL: https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/\nComments URL: https://news.ycombinator.com/item?id=48735554\nPoints: 123\n# Comments: 110",
+          "summary": "Article URL: https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/\nComments URL: https://news.ycombinator.com/item?id=48735554\nPoints: 123\n# Comments: 113",
           "date": "2026-06-30T16:54:41+00:00",
           "source": "Hacker News (100+ points)",
           "tier": "community",
@@ -898,7 +907,7 @@
         {
           "title": "Nano Banana 2 Lite",
           "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-          "summary": "Article URL: https://deepmind.google/models/gemini-image/flash-lite/\nComments URL: https://news.ycombinator.com/item?id=48735444\nPoints: 373\n# Comments: 149",
+          "summary": "Article URL: https://deepmind.google/models/gemini-image/flash-lite/\nComments URL: https://news.ycombinator.com/item?id=48735444\nPoints: 374\n# Comments: 149",
           "date": "2026-06-30T16:48:37+00:00",
           "source": "Hacker News (100+ points)",
           "tier": "community",
@@ -916,17 +925,8 @@
         {
           "title": "EU commissioners shut down air conditioning for employees, leave theirs on",
           "url": "https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/",
-          "summary": "Article URL: https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/\nComments URL: https://news.ycombinator.com/item?id=48734940\nPoints: 135\n# Comments: 137",
+          "summary": "Article URL: https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/\nComments URL: https://news.ycombinator.com/item?id=48734940\nPoints: 135\n# Comments: 138",
           "date": "2026-06-30T16:19:51+00:00",
-          "source": "Hacker News (100+ points)",
-          "tier": "community",
-          "category": "IT·Tech"
-        },
-        {
-          "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
-          "url": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
-          "summary": "Article URL: https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/\nComments URL: https://news.ycombinator.com/item?id=48734699\nPoints: 400\n# Comments: 178",
-          "date": "2026-06-30T16:05:46+00:00",
           "source": "Hacker News (100+ points)",
           "tier": "community",
           "category": "IT·Tech"
@@ -939,109 +939,10 @@
       "category": "New App",
       "items": [
         {
-          "title": "Gemini Omni Flash",
-          "url": "https://www.producthunt.com/products/gemini-omni-flash",
-          "summary": "<p>\n            High-quality video generation and conversational editing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gemini-omni-flash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184938?app_id=339\">Link</a>\n  ",
-          "date": "2026-07-01T02:14:25-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Adam CAD Copilot",
-          "url": "https://www.producthunt.com/products/adam-cad-copilot",
-          "summary": "<p>\n            AI CAD inside Onshape and Fusion\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/adam-cad-copilot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184924?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:24-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Get Transparent Pricing on Labs",
-          "url": "https://www.producthunt.com/products/mito-health",
-          "summary": "<p>\n            The right tests. The real price. Nothing extra.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mito-health?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184301?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:24-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Sequence Agentic",
-          "url": "https://www.producthunt.com/products/sequence",
-          "summary": "<p>\n            Money movement for AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sequence?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1183031?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:24-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Loot",
-          "url": "https://www.producthunt.com/products/loot-6",
-          "summary": "<p>\n            Collect your favorite things in real life\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/loot-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184638?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:24-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Humalike",
-          "url": "https://www.producthunt.com/products/humalike-2",
-          "summary": "<p>\n            Give your AI agents the social intelligence they're missing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1168382?app_id=339\">Link</a>\n      ",
-          "date": "2026-07-01T02:14:24-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "AI Usage, Under Control",
-          "url": "https://www.producthunt.com/products/stigg",
-          "summary": "<p>\n            Stigg 2.0 - The Usage Runtime for AI Products\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/stigg?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184058?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:23-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "RunInfra",
-          "url": "https://www.producthunt.com/products/runinfra",
-          "summary": "<p>\n            Describe the AI model you need and get an optimized AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/runinfra?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127206?app_id=339\">Link</a>\n          </p",
-          "date": "2026-07-01T02:14:23-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Folderly Lens",
-          "url": "https://www.producthunt.com/products/folderly",
-          "summary": "<p>\n            Domain health analysis for high performance email campaigns\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/folderly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169569?app_id=339\">Link</a>\n        ",
-          "date": "2026-07-01T02:14:23-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Livinity",
-          "url": "https://www.producthunt.com/products/livinity",
-          "summary": "<p>\n            Open-source homeserver OS with a built-in AI agent\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/livinity?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184253?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:22-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Acti",
-          "url": "https://www.producthunt.com/products/acti-2",
-          "summary": "<p>\n            Agentic keyboard for mobile commands and search\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/acti-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1177976?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:22-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Fuser Apps",
-          "url": "https://www.producthunt.com/products/fuser",
-          "summary": "<p>\n            Vibecode apps, sites, & games on everyone's favorite canvas\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fuser?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1178752?app_id=339\">Link</a>\n          <",
-          "date": "2026-07-01T02:14:22-07:00",
+          "title": "Modelence Mobile Builder",
+          "url": "https://www.producthunt.com/products/modelence-app-builder",
+          "summary": "<p>\n            Build mobile apps by chatting with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/modelence-app-builder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1179515?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:18:28-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
@@ -1050,115 +951,7 @@
           "title": "Browser Notes",
           "url": "https://www.producthunt.com/products/browser-notes",
           "summary": "<p>\n            Your ideas, organized - not uploaded\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/browser-notes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1180665?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:22-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "MailAdept by mailwarm",
-          "url": "https://www.producthunt.com/products/mailadept-by-mailwarm-yc-s20",
-          "summary": "<p>\n            AI Agents & Email deliverability experts on your team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mailadept-by-mailwarm-yc-s20?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1144256?app_id=339\">Lin",
-          "date": "2026-07-01T02:13:40-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Dump Memory",
-          "url": "https://www.producthunt.com/products/dump-4",
-          "summary": "<p>\n            We fix your memory\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dump-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1174311?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:13:52-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Tabstack Browser Automation",
-          "url": "https://www.producthunt.com/products/tabstack",
-          "summary": "<p>\n            Automate the web in your app or agent, no browser to host\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tabstack?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1173357?app_id=339\">Link</a>\n          ",
-          "date": "2026-07-01T02:13:49-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Clusy",
-          "url": "https://www.producthunt.com/products/clusy",
-          "summary": "<p>\n            AI notebook platform for modern data science\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clusy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184840?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:00-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "LightTwist",
-          "url": "https://www.producthunt.com/products/lighttwist",
-          "summary": "<p>\n            Record & stream your show in a realistic virtual studio\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lighttwist?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184051?app_id=339\">Link</a>\n          ",
-          "date": "2026-07-01T02:14:13-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "OASIS 1 Ring",
-          "url": "https://www.producthunt.com/products/oasis-ring",
-          "summary": "<p>\n            Whisper to write and touch to edit\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/oasis-ring?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1168995?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:14-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Aruki",
-          "url": "https://www.producthunt.com/products/aruki-japanese-walking",
-          "summary": "<p>\n            The Japanese walking method, coached on your iPhone\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/aruki-japanese-walking?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184689?app_id=339\">Link</a>\n  ",
-          "date": "2026-07-01T02:14:14-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Bamboo",
-          "url": "https://www.producthunt.com/products/bamboo-ai-markdown-notes",
-          "summary": "<p>\n            Markdown notes with AI under your control\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bamboo-ai-markdown-notes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184386?app_id=339\">Link</a>\n          ",
-          "date": "2026-07-01T02:14:15-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Mark by Airtop",
-          "url": "https://www.producthunt.com/products/airtop",
-          "summary": "<p>\n            Vibe automation for solo marketers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/airtop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1181925?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:15-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Claude Science",
-          "url": "https://www.producthunt.com/products/claude-for-desktop",
-          "summary": "<p>\n            Your research partner for rigorous science\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-for-desktop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184881?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:16-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Metal",
-          "url": "https://www.producthunt.com/products/metal-2",
-          "summary": "<p>\n            AI-driven operating system for raising venture rounds \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/metal-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1182274?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:17-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Modelence Mobile Builder",
-          "url": "https://www.producthunt.com/products/modelence-app-builder",
-          "summary": "<p>\n            Build mobile apps by chatting with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/modelence-app-builder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1179515?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:17-07:00",
+          "date": "2026-07-01T02:18:27-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
@@ -1167,16 +960,52 @@
           "title": "Saldor",
           "url": "https://www.producthunt.com/products/saldor",
           "summary": "<p>\n            Speed up procurement and AP.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/saldor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1185179?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:17-07:00",
+          "date": "2026-07-01T02:18:27-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
         },
         {
-          "title": "N71",
-          "url": "https://www.producthunt.com/products/n71",
-          "summary": "<p>\n            Give all your AI agents one shared context\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/n71?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1179347?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:17-07:00",
+          "title": "Acti",
+          "url": "https://www.producthunt.com/products/acti-2",
+          "summary": "<p>\n            Agentic keyboard for mobile commands and search\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/acti-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1177976?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:18:27-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Folderly Lens",
+          "url": "https://www.producthunt.com/products/folderly",
+          "summary": "<p>\n            Domain health analysis for high performance email campaigns\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/folderly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169569?app_id=339\">Link</a>\n        ",
+          "date": "2026-07-01T02:18:26-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Gemini Omni Flash",
+          "url": "https://www.producthunt.com/products/gemini-omni-flash",
+          "summary": "<p>\n            High-quality video generation and conversational editing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gemini-omni-flash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184938?app_id=339\">Link</a>\n  ",
+          "date": "2026-07-01T02:18:26-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "RunInfra",
+          "url": "https://www.producthunt.com/products/runinfra",
+          "summary": "<p>\n            Describe the AI model you need and get an optimized AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/runinfra?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1127206?app_id=339\">Link</a>\n          </p",
+          "date": "2026-07-01T02:18:25-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Humalike",
+          "url": "https://www.producthunt.com/products/humalike-2",
+          "summary": "<p>\n            Give your AI agents the social intelligence they're missing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1168382?app_id=339\">Link</a>\n      ",
+          "date": "2026-07-01T02:18:25-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
@@ -1185,7 +1014,34 @@
           "title": "Claude Sonnet 5",
           "url": "https://www.producthunt.com/products/claude",
           "summary": "<p>\n            AI that plans, acts, and gets work done\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184883?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:20-07:00",
+          "date": "2026-07-01T02:18:24-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Tabstack Browser Automation",
+          "url": "https://www.producthunt.com/products/tabstack",
+          "summary": "<p>\n            Automate the web in your app or agent, no browser to host\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tabstack?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1173357?app_id=339\">Link</a>\n          ",
+          "date": "2026-07-01T02:18:24-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Metal",
+          "url": "https://www.producthunt.com/products/metal-2",
+          "summary": "<p>\n            AI-driven operating system for raising venture rounds \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/metal-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1182274?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:18:23-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "N71",
+          "url": "https://www.producthunt.com/products/n71",
+          "summary": "<p>\n            Give all your AI agents one shared context\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/n71?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1179347?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:18:23-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
@@ -1194,7 +1050,43 @@
           "title": "Ciaro Pro",
           "url": "https://www.producthunt.com/products/ciaro-pro",
           "summary": "<p>\n            AI filmmaking for visual storytellers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ciaro-pro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184698?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:20-07:00",
+          "date": "2026-07-01T02:18:22-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Fuser Apps",
+          "url": "https://www.producthunt.com/products/fuser",
+          "summary": "<p>\n            Vibecode apps, sites, & games on everyone's favorite canvas\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fuser?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1178752?app_id=339\">Link</a>\n          <",
+          "date": "2026-07-01T02:18:22-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Sequence Agentic",
+          "url": "https://www.producthunt.com/products/sequence",
+          "summary": "<p>\n            Money movement for AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sequence?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1183031?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:18:21-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Adam CAD Copilot",
+          "url": "https://www.producthunt.com/products/adam-cad-copilot",
+          "summary": "<p>\n            AI CAD inside Onshape and Fusion\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/adam-cad-copilot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184924?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:18:20-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Bamboo",
+          "url": "https://www.producthunt.com/products/bamboo-ai-markdown-notes",
+          "summary": "<p>\n            Markdown notes with AI under your control\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bamboo-ai-markdown-notes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184386?app_id=339\">Link</a>\n          ",
+          "date": "2026-07-01T02:18:19-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
@@ -1203,16 +1095,115 @@
           "title": "Wins 3.4 — Snap Island for Mac",
           "url": "https://www.producthunt.com/products/wins-2",
           "summary": "<p>\n            Snap, switch, and arrange Mac windows from the notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wins-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184625?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:14:21-07:00",
+          "date": "2026-07-01T02:18:18-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
         },
         {
-          "title": "Justwrite",
-          "url": "https://www.producthunt.com/products/justwrite",
-          "summary": "<p>\n            A private, local-first writing space that works offline\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/justwrite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1183546?app_id=339\">Link</a>\n          <",
-          "date": "2026-07-01T02:09:36-07:00",
+          "title": "Get Transparent Pricing on Labs",
+          "url": "https://www.producthunt.com/products/mito-health",
+          "summary": "<p>\n            The right tests. The real price. Nothing extra.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mito-health?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184301?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:18:16-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Loot",
+          "url": "https://www.producthunt.com/products/loot-6",
+          "summary": "<p>\n            Collect your favorite things in real life\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/loot-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184638?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:18:16-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Aruki",
+          "url": "https://www.producthunt.com/products/aruki-japanese-walking",
+          "summary": "<p>\n            The Japanese walking method, coached on your iPhone\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/aruki-japanese-walking?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184689?app_id=339\">Link</a>\n  ",
+          "date": "2026-07-01T02:18:15-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "AI Usage, Under Control",
+          "url": "https://www.producthunt.com/products/stigg",
+          "summary": "<p>\n            Stigg 2.0 - The Usage Runtime for AI Products\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/stigg?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184058?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:18:14-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Dump Memory",
+          "url": "https://www.producthunt.com/products/dump-4",
+          "summary": "<p>\n            We fix your memory\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dump-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1174311?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:17:55-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Claude Science",
+          "url": "https://www.producthunt.com/products/claude-for-desktop",
+          "summary": "<p>\n            Your research partner for rigorous science\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-for-desktop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184881?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:17:57-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Livinity",
+          "url": "https://www.producthunt.com/products/livinity",
+          "summary": "<p>\n            Open-source homeserver OS with a built-in AI agent\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/livinity?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184253?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:18:03-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "MailAdept by mailwarm",
+          "url": "https://www.producthunt.com/products/mailadept-by-mailwarm-yc-s20",
+          "summary": "<p>\n            AI Agents & Email deliverability experts on your team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mailadept-by-mailwarm-yc-s20?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1144256?app_id=339\">Lin",
+          "date": "2026-07-01T02:18:05-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Mark by Airtop",
+          "url": "https://www.producthunt.com/products/airtop",
+          "summary": "<p>\n            Vibe automation for solo marketers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/airtop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1181925?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:18:13-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "OASIS 1 Ring",
+          "url": "https://www.producthunt.com/products/oasis-ring",
+          "summary": "<p>\n            Whisper to write and touch to edit\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/oasis-ring?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1168995?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:18:13-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Clusy",
+          "url": "https://www.producthunt.com/products/clusy",
+          "summary": "<p>\n            AI notebook platform for modern data science\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clusy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184840?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:18:14-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "LightTwist",
+          "url": "https://www.producthunt.com/products/lighttwist",
+          "summary": "<p>\n            Record & stream your show in a realistic virtual studio\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lighttwist?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184051?app_id=339\">Link</a>\n          ",
+          "date": "2026-07-01T02:18:14-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
@@ -1221,7 +1212,7 @@
           "title": "Brain2Qwerty v2",
           "url": "https://www.producthunt.com/products/meta",
           "summary": "<p>\n            Decode sentences directly from non-invasive brain signals\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/meta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184247?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:09:58-07:00",
+          "date": "2026-07-01T02:15:42-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
@@ -1230,25 +1221,7 @@
           "title": "Tinkerfont",
           "url": "https://www.producthunt.com/products/tinkerfont",
           "summary": "<p>\n            Free font playground for live websites\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tinkerfont?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1183800?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:09:43-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Dayflow",
-          "url": "https://www.producthunt.com/products/dayflow-4",
-          "summary": "<p>\n            Open source tools that help you get promoted\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dayflow-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1179591?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:09:50-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Supafax",
-          "url": "https://www.producthunt.com/products/supafax",
-          "summary": "<p>\n            Email-native assistant that learns how you work\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/supafax?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1153385?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:09:35-07:00",
+          "date": "2026-07-01T02:17:08-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
@@ -1263,37 +1236,10 @@
           "category": "New App"
         },
         {
-          "title": "Skills Marketplace by Databox",
-          "url": "https://www.producthunt.com/products/databox",
-          "summary": "<p>\n            Ready-made AI analytics skills for your business data\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/databox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1178152?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:09:17-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "DropK",
-          "url": "https://www.producthunt.com/products/dropk",
-          "summary": "<p>\n            The tray that doesn't pretend\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dropk?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169659?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:10:15-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
           "title": "Midway Chat",
           "url": "https://www.producthunt.com/products/midway-chat",
           "summary": "<p>\n            Real-time member chat for Memberstack and Webflow sites\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/midway-chat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1183566?app_id=339\">Link</a>\n         ",
           "date": "2026-07-01T02:08:54-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "iVox",
-          "url": "https://www.producthunt.com/products/ivox",
-          "summary": "<p>\n            The first app dedicated to 1980s tape-edit effects.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ivox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184031?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:07:56-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
@@ -1317,28 +1263,37 @@
           "category": "New App"
         },
         {
-          "title": "Load Nova",
-          "url": "https://www.producthunt.com/products/load-nova",
-          "summary": "<p>\n            An AI co-pilot and dashboard built for dispatcher speed\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/load-nova?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1172045?app_id=339\">Link</a>\n          <",
-          "date": "2026-07-01T02:09:13-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
           "title": "AgentPeek",
           "url": "https://www.producthunt.com/products/agentpeek",
           "summary": "<p>\n            Claude Code & Codex in your Mac notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentpeek?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184157?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:09:10-07:00",
+          "date": "2026-07-01T02:18:09-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
         },
         {
-          "title": "Pluno",
-          "url": "https://www.producthunt.com/products/pluno",
-          "summary": "<p>\n            Browser agent that’s 10x faster than Claude\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pluno?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1183935?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:09:04-07:00",
+          "title": "Skills Marketplace by Databox",
+          "url": "https://www.producthunt.com/products/databox",
+          "summary": "<p>\n            Ready-made AI analytics skills for your business data\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/databox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1178152?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:09:17-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Load Nova",
+          "url": "https://www.producthunt.com/products/load-nova",
+          "summary": "<p>\n            An AI co-pilot and dashboard built for dispatcher speed\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/load-nova?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1172045?app_id=339\">Link</a>\n          <",
+          "date": "2026-07-01T02:18:02-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "iVox",
+          "url": "https://www.producthunt.com/products/ivox",
+          "summary": "<p>\n            The first app dedicated to 1980s tape-edit effects.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ivox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184031?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:17:41-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
@@ -1347,7 +1302,16 @@
           "title": "Clade",
           "url": "https://www.producthunt.com/products/cleo-4",
           "summary": "<p>\n            AI COO that runs your team in tools you already use\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cleo-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1180392?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:08:11-07:00",
+          "date": "2026-07-01T02:17:37-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Supafax",
+          "url": "https://www.producthunt.com/products/supafax",
+          "summary": "<p>\n            Email-native assistant that learns how you work\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/supafax?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1153385?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:17:03-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
@@ -1356,16 +1320,7 @@
           "title": "Foresight by Lightning Rod",
           "url": "https://www.producthunt.com/products/training-data-generator",
           "summary": "<p>\n            Predict anything with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/training-data-generator?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1178224?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:09:56-07:00",
-          "source": "Product Hunt",
-          "tier": "community",
-          "category": "New App"
-        },
-        {
-          "title": "Akiflow",
-          "url": "https://www.producthunt.com/products/akiflow",
-          "summary": "<p>\n            Manage tasks and calendars from Claude, ChatGPT or Cursor\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/akiflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1181514?app_id=339\">Link</a>\n          <",
-          "date": "2026-07-01T02:08:31-07:00",
+          "date": "2026-07-01T02:16:57-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
@@ -1374,16 +1329,61 @@
           "title": "Cursor for iOS",
           "url": "https://www.producthunt.com/products/cursor",
           "summary": "<p>\n            Build with coding agents from anywhere\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cursor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184233?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:09:41-07:00",
+          "date": "2026-07-01T02:16:54-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
         },
         {
-          "title": "Intelli",
-          "url": "https://www.producthunt.com/products/intelli",
-          "summary": "<p>\n            Convert leads into customers with AI conversations\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/intelli?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1179811?app_id=339\">Link</a>\n          </p>",
-          "date": "2026-07-01T02:09:37-07:00",
+          "title": "Pluno",
+          "url": "https://www.producthunt.com/products/pluno",
+          "summary": "<p>\n            Browser agent that’s 10x faster than Claude\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pluno?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1183935?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:16:50-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Akiflow",
+          "url": "https://www.producthunt.com/products/akiflow",
+          "summary": "<p>\n            Manage tasks and calendars from Claude, ChatGPT or Cursor\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/akiflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1181514?app_id=339\">Link</a>\n          <",
+          "date": "2026-07-01T02:16:36-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "DropK",
+          "url": "https://www.producthunt.com/products/dropk",
+          "summary": "<p>\n            The tray that doesn't pretend\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dropk?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169659?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:16:35-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Dayflow",
+          "url": "https://www.producthunt.com/products/dayflow-4",
+          "summary": "<p>\n            Open source tools that help you get promoted\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dayflow-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1179591?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:15:56-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Justwrite",
+          "url": "https://www.producthunt.com/products/justwrite",
+          "summary": "<p>\n            A private, local-first writing space that works offline\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/justwrite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1183546?app_id=339\">Link</a>\n          <",
+          "date": "2026-07-01T02:15:35-07:00",
+          "source": "Product Hunt",
+          "tier": "community",
+          "category": "New App"
+        },
+        {
+          "title": "Crest",
+          "url": "https://www.producthunt.com/products/crest-3",
+          "summary": "<p>\n            System stats and translation on your Mac's notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/crest-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1183216?app_id=339\">Link</a>\n          </p>",
+          "date": "2026-07-01T02:09:28-07:00",
           "source": "Product Hunt",
           "tier": "community",
           "category": "New App"
@@ -3637,278 +3637,7 @@
       "label": "Google News AI (한국어)",
       "tier": "official",
       "category": "AI",
-      "items": [
-        {
-          "title": "AI 에이전트 시대 본격화... MIT \"생성형 AI 넘어 스스로 행동하는 인공지능 온다\" - 테크데일리",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54ZzBMXzlZU2JiUHlzZ0c2YXBYWmZuYmpMR1JEaWJOaGVfalo1VXpYbng3al9aMUhYTmg5S3d2WmVWZDRRS0F4SWlVTTU1bmpzYkNzTXhuc2J0ekxsNUM1d0FoSWlaQUM3REMtNUJ3?oc=5",
-          "summary": "AI 에이전트 시대 본격화... MIT \"생성형 AI 넘어 스스로 행동하는 인공지능 온다\"&nbsp;&nbsp;테크데일리",
-          "date": "2026-06-30T19:54:49+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "AI 에이전트부터 데이터센터까지…KRG, 'AI 산업 백서' 발간 - 뉴시스",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yX3ozMHpuRGVYVjVRNEtsMXV3Tl9oNGhFaTUzZXdnUkFHT0FkcElnQVdTY3NvdTUwZm55emRfLWluRjBmUXllZ2pOOFlWbW85bWduMmFmY2VzeVl0dl92QVlwZkxXaURjUlo0MWNINi1jbE9jYmtFU9IBeEFVX3lxTE4yX3ozMHpuRGVYVjVRNEtsMXV3Tl9oNGhFaTUzZXdnUkFHT0FkcElnQVdTY3NvdTUwZm55emRfLWluRjBmUXllZ2pOOFlWbW85bWduMmFmY2VzeVl0dl92QVlwZkxXaURjUlo0MWNINi1jbE9jYmtFUw?oc=5",
-          "summary": "AI 에이전트부터 데이터센터까지…KRG, 'AI 산업 백서' 발간&nbsp;&nbsp;뉴시스",
-          "date": "2026-07-01T06:30:40+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "KRG, '2026 대한민국 인공지능 산업 백서' 발간 - v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tRE9mNFVMQ0NjR2NFc2owQW5mUUZBOHFhRDA0dS1WR2c0VnowVGZLUEpNVDRaWGVJM3VYanpkMG1kcG9UZ2FVWndkNHdxZ3M?oc=5",
-          "summary": "KRG, '2026 대한민국 인공지능 산업 백서' 발간&nbsp;&nbsp;v.daum.net",
-          "date": "2026-07-01T06:53:03+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "[기획]생성형 AI 이식하는 기업들…업무 방식의 진화 - 매일일보",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYTThMLTNSMjYzbmZUUzdiWExXbnV2YkZtcXRoUVJTckhBWGtMY192cW9oSVFIWWhUY25rSjVNdjREZmFvUVV4YmJJVEJzb1F4LTVYLVBoc2p3WUl3bzFzQU03U2M?oc=5",
-          "summary": "[기획]생성형 AI 이식하는 기업들…업무 방식의 진화&nbsp;&nbsp;매일일보",
-          "date": "2026-07-01T06:08:41+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "생성형 AI 넘어 AI 에이전트 시대… 뉴스투데이, '2026 AI혁신전략포럼' 개최 - 시큐리티팩트",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80RzdVcjdCODc2OEFiWkpwcmFTOElkdUJ0NTZraWQ4RTRsNFFKMmZpWWNRVUduT3VEYUFRaG9WcUxoZGRTZmppQWdNMm9UWGVpQjFIY0hfeGJpUkdROXpxOA?oc=5",
-          "summary": "생성형 AI 넘어 AI 에이전트 시대… 뉴스투데이, '2026 AI혁신전략포럼' 개최&nbsp;&nbsp;시큐리티팩트",
-          "date": "2026-06-30T22:36:00+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "[ISEC 2026 미리보기] 이스트시큐리티, 에이전틱 AI·제로트러스트 기반 차세대 보안 플랫폼 대거 공개 - 보안뉴스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KczMxanpKNzREejAxTVFjTS1weGIydjNET3d3LVQxRHpZbVdvWlAwS1RSZ003UGhRWkF3c2JId1pzMjNoVWN6RkY1LXIyQ3FOekFxX1JIaDM1VlJKOWxkMWdINzdac3hZdnpqc2wzVWc?oc=5",
-          "summary": "[ISEC 2026 미리보기] 이스트시큐리티, 에이전틱 AI·제로트러스트 기반 차세대 보안 플랫폼 대거 공개&nbsp;&nbsp;보안뉴스",
-          "date": "2026-07-01T07:54:00+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "AI가 먼저 행동 제안한다…네이버, 실행형 AI 고도화 - 위키리크스한국",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TQXZ0c1BXaXBXZklTa21MRk50RmRSclBkVHprTkEwanFXaDVwRk1XLWJtZ0l3N1hBalJyTFNQYWNjN2lDV2FDSGRRWEJrZF9jTzU1RWw4RFVuMXBCa2JRUzFLa1ZJcDUzZUtmM3IwTQ?oc=5",
-          "summary": "AI가 먼저 행동 제안한다…네이버, 실행형 AI 고도화&nbsp;&nbsp;위키리크스한국",
-          "date": "2026-07-01T05:52:33+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "쓰리빌리언, ICML 2026 워크숍 논문 채택 - 청년의사",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84Q01Td1U4TW5fZERYUnI4S2VZbWtxNWhoZG1kd1NLUjRKSXlYNDQ3WDE1NkNXMDlNLWY3TlR0TlV2WEJ5ZWxVZy1tV19LR3ZoM2Q2MVkyQkpuVDJfU1c4TVNmSnhQZG1QUm9uVkRRUGZpclHSAXNBVV95cUxPOENNU3dVOE1uX2REWFJyOEtlWW1rcTVoaGRtZHdTS1I0Skl5WDQ0N1gxNTZDVzA5TS1mN05UdE5VdlhCeWVsVWctbVdfS0d2aDNkNjFZMkJKblQyX1NXOE1TZkp4UGRtUFJvblZEUVBmaXJR?oc=5",
-          "summary": "쓰리빌리언, ICML 2026 워크숍 논문 채택&nbsp;&nbsp;청년의사",
-          "date": "2026-06-30T21:48:27+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "KRG, ‘2026 대한민국 인공지능 산업 백서’ 발간 - 디지털경제뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83ZUtId09IWVRNRTZON2w0MWdfajZMNFIwUHNDdW4zLTRfWnU5ZHJuOUNrV0sySzBTRVFnNk41S0JyUG1IV0gwekFFakpENkt0RnJyVmlMdjV5b1pFOXlaNHhuTTNLNTE4ZGc?oc=5",
-          "summary": "KRG, ‘2026 대한민국 인공지능 산업 백서’ 발간&nbsp;&nbsp;디지털경제뉴스",
-          "date": "2026-07-01T07:36:13+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "앤트로픽 “AI 활용, 대화 넘어 에이전트 시대”…업무 자동화·협업 방식 변화 - 테크월드",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DS1VBbU1HMWY4MXd0aTNvTUlhWU9xMXdHcml5OUJkcy1ha1B6Rk56T0EtWnBkV0tReTRVaWZNYVlaWjh0bzlCUGI2WUxlRWRBQ3JWRTh0ekZSM1F6OVlLRFNCVzNiVWJa?oc=5",
-          "summary": "앤트로픽 “AI 활용, 대화 넘어 에이전트 시대”…업무 자동화·협업 방식 변화&nbsp;&nbsp;테크월드",
-          "date": "2026-07-01T06:40:00+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "스마트인재개발원, 이달 말 '피지컬AI·AI 에이전트·데이터분석 과정' 개강…AX·DX 인재 양성 - 전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QVmc2a0NSY3ByTXdfT0x3WVZONkxlLWR3UmxXa2FFcGtlYVZvb1FoLTRNdXBjRmNvMWROSlBuUHhrN1lqTVpicFRvUXZaQQ?oc=5",
-          "summary": "스마트인재개발원, 이달 말 '피지컬AI·AI 에이전트·데이터분석 과정' 개강…AX·DX 인재 양성&nbsp;&nbsp;전자신문",
-          "date": "2026-07-01T02:32:55+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "카드업계 AI에이전트, 결제부터 사내 업무까지 전면전 - 데이터뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iQXdrSzdoeEZFSjF1X1pLWW5LRk1TRFNfcVJILXBIeEYwekdEYXBhdTU3YVdkbGVmMlRqdWNVQ3VjNEdrMFVfSHFDXzhrWUctMFQ0Vk51eC1KQmc1Nkw0?oc=5",
-          "summary": "카드업계 AI에이전트, 결제부터 사내 업무까지 전면전&nbsp;&nbsp;데이터뉴스",
-          "date": "2026-06-30T23:46:12+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "뱅크웨어글로벌, 금융권 AI 보안 게이트웨이 'BX 가드 브릿지' 출시 - 더스탁(The Stock)",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5eGNlalBFb01wcWMtNElzRlZmN2lpTUxDUVV4cUgxa3g4ZC11QUo4NlFaYVpNcXdQNGE4eFh6VllSbDd0QTh5Y0ROaE0zbVpKNjB4SEZELXZJQ3d4NmJOSGtxSGZ4M0VPQUE?oc=5",
-          "summary": "뱅크웨어글로벌, 금융권 AI 보안 게이트웨이 'BX 가드 브릿지' 출시&nbsp;&nbsp;더스탁(The Stock)",
-          "date": "2026-07-01T07:37:34+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "[솔루션] 플러스제로, 생성형 AI 맞춤형 엔진 ‘VTC 에이전트’ 개발 - 리뷰타임스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzeHdhTXRxdlF4c0dvOGlSQW5iWE9zTHpBS19uNDVVY1FTRno1c25JWWdMRGI5eTdoejdxMXpkMGZ2eEpqRzBqTW85dUtVUGo5Q2N6TUNGU21LQUdGUUxEZXpNZDdNdFRqMktHbUlmX3o?oc=5",
-          "summary": "[솔루션] 플러스제로, 생성형 AI 맞춤형 엔진 ‘VTC 에이전트’ 개발&nbsp;&nbsp;리뷰타임스",
-          "date": "2026-06-30T23:49:36+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "[의료 AI 2.0 시대①] 영상 판독 넘어 의료 ‘에이전트’…의료 AI 패러다임 전환 - 더바이오",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14TzdRR0lfYUk2aEZDVVlVSWhPYm5idkhLWjljRGoyaUdpd3BkMEFrTXJFUVE0bjFaTE5aOG51eVRLeFc0Zmc2REpSXzBLWTdic3JjdzBBVDJNay1QQzVsMEJQY0tIbk5WUEhNZmRnZlfSAXBBVV95cUxNeE83UUdJX2FJNmhGQ1VZVUloT2JuYnZIS1o5Y0RqMmlHaXdwZDBBa01yRVFRNG4xWkxOWjhudXlUS3hXNGZnNkRKUl8wS1k3YnNyY3cwQVQyTWstUEM1bDBCUGNLSG5OVlBITWZkZ2ZX?oc=5",
-          "summary": "[의료 AI 2.0 시대①] 영상 판독 넘어 의료 ‘에이전트’…의료 AI 패러다임 전환&nbsp;&nbsp;더바이오",
-          "date": "2026-06-30T21:23:27+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "프로텐, ‘2026 AX 바우처 지원사업’ 선정… 컨슈머인사이트와 AI 리서치 플랫폼 구축 - 아이티데일리",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00QXdfdFN5ZWVrQVdzZ2l4UGU3LWJiMTZqLXJCcmVpS0JCVkQwSVZZam5YakVfSnF0T2tHS1JjOFBnN3YzMzJEekN3emdjQllsQUk4QlB0NzBmUlZfRHZhblFjUXlQbGs?oc=5",
-          "summary": "프로텐, ‘2026 AX 바우처 지원사업’ 선정… 컨슈머인사이트와 AI 리서치 플랫폼 구축&nbsp;&nbsp;아이티데일리",
-          "date": "2026-07-01T02:52:03+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "앤쌤, 법률 박람회서 '리걸 AI·GovTech 플랫폼' 공개…“법률·행정 AI 전환 선도” - 전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yR2QyY2piZGhISnV0Z0NnYzd0R05PZEx1cDlSaEtKX1lybmpQcTl0VTh0TGx4d3g1UGpwMzcyQ3o5dm5kMWZfQm1rbGdZUQ?oc=5",
-          "summary": "앤쌤, 법률 박람회서 '리걸 AI·GovTech 플랫폼' 공개…“법률·행정 AI 전환 선도”&nbsp;&nbsp;전자신문",
-          "date": "2026-07-01T00:47:25+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "AI가 공격하고 AI를 노린다...사이버보안 새 화두 된 'AI 위협 분류' - 테크데일리",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yNllraFREdWtHSlgxSTJvS0FBTl8wbk9wYWNfb3NWQVRtU19BdzBlbElOYVdXQ3hwY2JYSmRMS2xPOEVCbnlTZllZN3g2X2t3VnhUN05HRTJyYlNfczBCTkxRbEpRREVvMTJwSnhDd1JiUdIBckFVX3lxTE9yNllraFREdWtHSlgxSTJvS0FBTl8wbk9wYWNfb3NWQVRtU19BdzBlbElOYVdXQ3hwY2JYSmRMS2xPOEVCbnlTZllZN3g2X2t3VnhUN05HRTJyYlNfczBCTkxRbEpRREVvMTJwSnhDd1JiUQ?oc=5",
-          "summary": "AI가 공격하고 AI를 노린다...사이버보안 새 화두 된 'AI 위협 분류'&nbsp;&nbsp;테크데일리",
-          "date": "2026-06-30T21:14:56+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "플러스제로, 생성형 AI 맞춤형 엔진 'VTC 에이전트' 개발 - 보드나라",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VelhOZDNBUkQtNFpvSmU3blo1YW9ON3BfNkJjX0RaYklteGRmQUQ5bTVvX3JXemxrU243bzRGZVNMRFI1VEpYeXoxSVp0Xzk1V09XS3dJa1lnaXBlbE9ybzhLSQ?oc=5",
-          "summary": "플러스제로, 생성형 AI 맞춤형 엔진 'VTC 에이전트' 개발&nbsp;&nbsp;보드나라",
-          "date": "2026-07-01T07:05:26+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "농협, 하반기 생성형 AI 전면 도입 - 주간한국",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SeFdoOXl6dTJxTzR5QzBUVUFUQXZ6SnR1dEdsSlVFbGw4THRSMzRtODVBcXpQTkpSMVVCdkhWbnQ5YlpUYV9zTU02cW1XOXJKS1FPTGdwM2p0YWx4V3EtUjREN29YUGtiX1VJS3phYnVsTjhH0gF0QVVfeXFMT1J4V2g5eXp1MnFPNHlDMFRVQVRBdnpKdHV0R2xKVUVsbDhMdFIzNG04NUFxelBOSlIxVUJ2SFZudDliWlRhX3NNTTZxbVc5ckpLUU9MZ3AzanRhbHhXcS1SNEQ3b1hQa2JfVUlLemFidWxOOEc?oc=5",
-          "summary": "농협, 하반기 생성형 AI 전면 도입&nbsp;&nbsp;주간한국",
-          "date": "2026-06-30T20:18:12+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "플러스제로, AI GEO 신기술 'VTC 에이전트' 개발 - 통신일보",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SUU9zSjN3Snh1UXhiTzhfejlFbk4xU1BIRXdndlY4TXZkanY3NThCTDVmVUlsZmYtLUJvei1pUVlqb2xtWEVYbGdzcUN6Vk1rMnlCd0YzdjBKU3VseE5MT2Z2aWs5U3RvQkJv?oc=5",
-          "summary": "플러스제로, AI GEO 신기술 'VTC 에이전트' 개발&nbsp;&nbsp;통신일보",
-          "date": "2026-07-01T01:25:09+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "\"코딩 없이 AI 비서 만든다\"…해시드·부이 해커톤 7월 개최 - 뉴스에이",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CU0l6Z1JCUTkwMExDYzU5OGhRMVNveUstOUNaLTlwQWwwUzJQRTZNS2VFMTlIMnpHV0YwWkdTS3BWRWhVZDBrWHNwQmNRS05PNVlCeTZIb2tNaGhkRlY3YTJhMVhVUnN6eFE?oc=5",
-          "summary": "\"코딩 없이 AI 비서 만든다\"…해시드·부이 해커톤 7월 개최&nbsp;&nbsp;뉴스에이",
-          "date": "2026-06-30T17:55:26+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "생성형 AI 업무 활용 확산…비개발자 대상 실전 교육 확대 - 핀포인트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80ekd0TmVVcG41cURxd3pvSnMzVVo4LXZEY1NKYXlrOXV3TkxvUEFvRm1yMHNiUW9mblBoSFFpWWdqZk8yem1JcnVyRDQtVi12RkE1bnpXTEZQdlNXdUU5N0xPVUZJZnU0MWxrRjZPMXZzYkXSAXdBVV95cUxOOFRPMjd5UDluVERHSllZQlZGcU1tUDRYb0hQNnhQUG9MMDJTenNQS2VBN1Z1S3hNODEtRF9WZ3FYRmhyZ1ZVZXo1ZXJYNEJRX2hTR1N6a3VsU3VSZ0tOY19Cc1FVVi1oQzl3OXhVSXdMbjZadUt2QQ?oc=5",
-          "summary": "생성형 AI 업무 활용 확산…비개발자 대상 실전 교육 확대&nbsp;&nbsp;핀포인트뉴스",
-          "date": "2026-06-30T22:10:00+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "로그프레소·퓨리오사AI, NPU 기반 에이전틱 SOC 공동 개발…글로벌 AI 보안 시장 공략 - 데일리시큐",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93RkV2MW55WVVhZDFsR211NXAzRVptTTZiYm9kcVY3ZnJQcUh5YzF6OHlQcXEwTFUzVmZuejNkempzMlhxdVc0Zm5IZWRQdGx6Q3RqZzFXb0FmU1dnTWFhdi1pcjY3S2phRm11OA?oc=5",
-          "summary": "로그프레소·퓨리오사AI, NPU 기반 에이전틱 SOC 공동 개발…글로벌 AI 보안 시장 공략&nbsp;&nbsp;데일리시큐",
-          "date": "2026-07-01T00:50:57+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "뱅크웨어글로벌, 금융권 AI 보안 게이트웨이 솔루션 출시 - 뉴시스",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40ZlFTQmYzOHJWd1A4X3FvNU4zbnVWemJIQlNFUzFwYy1NNzFWWWdMUDNiaERHUlBnU2QtaXpsdlVfYnE3MVI4cnUxSUJBbmFNWWQ0MnE0UkxpRzZmUG54ZnlwTS1nWkt6TnpNMm1JWDRpYUJVVExVatIBeEFVX3lxTE40ZlFTQmYzOHJWd1A4X3FvNU4zbnVWemJIQlNFUzFwYy1NNzFWWWdMUDNiaERHUlBnU2QtaXpsdlVfYnE3MVI4cnUxSUJBbmFNWWQ0MnE0UkxpRzZmUG54ZnlwTS1nWkt6TnpNMm1JWDRpYUJVVExVag?oc=5",
-          "summary": "뱅크웨어글로벌, 금융권 AI 보안 게이트웨이 솔루션 출시&nbsp;&nbsp;뉴시스",
-          "date": "2026-06-30T23:36:56+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "에이전트AI \"AI 신약 플랫폼 '몰포지' 엔비디아 인셉션 선정\" - 뉴시스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hdDduQWw2SnNwRThKTWwxRDBUelVIUkZOUHg4eDg0bEwzQXJadWViVGhTTTNWMU1aUmcxTC1wWWVRNlViVHNNMG1uUUJMa2ZObU9XWWpJMUloTVpGTlRsbNIBeEFVX3lxTE1tZTkzWGNGYjFoY1dmbXBTbzRBR0w1ek5lMGpxWDlCbEU4MDZzUE40WFdHOF9FZUQ1TTZUd1BpWmNsdlBCR1U3ZGpLek14bzN0TEJPZEVndjdSdV82UF9iay1kVUhBbFRiRzhPaWVycDlHenRQNU5USw?oc=5",
-          "summary": "에이전트AI \"AI 신약 플랫폼 '몰포지' 엔비디아 인셉션 선정\"&nbsp;&nbsp;뉴시스",
-          "date": "2026-06-30T23:36:32+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "에이전트AI 자회사 디지털바이올로지, ‘엔비디아 인셉션’ 선정 - 이투데이",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFVFJLRmZqT3M3bGdsWjFXVTBWYkc2ZnlIX0pnUk9LVkt4eGhTNlF2MGVueDZwdzhjWkFjRVpwWVhhMERUUXlaalBTWDZUdlVXSEROdw?oc=5",
-          "summary": "에이전트AI 자회사 디지털바이올로지, ‘엔비디아 인셉션’ 선정&nbsp;&nbsp;이투데이",
-          "date": "2026-07-01T00:11:00+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "화상회의 넘어 에이전트로… 줌, AI 플랫폼 기업으로 체질 개선 - IT조선",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CV1JQZE5WeXN3dXkweEt0WFJvVW9TbUlDekdWWGNUQkFBMlFSX2VxdGI0Z1h3anRPemhOcWpIZF81Mkx4eEx2MEs0dk9BNHh0bHA5dl93Rm9GUmFYWTlaZmU1WDQ0RW9XUzZIUHZvaElLTFVa0gF0QVVfeXFMTkJXUlBkTlZ5c3d1eTB4S3RYUm9Vb1NtSUN6R1ZYY1RCQUEyUVJfZXF0YjRnWHdqdE96aE5xakhkXzUyTHh4THYwSzR2T0E0eHRscDl2X3dGb0ZSYVhZOVpmZTVYNDRFb1dTNkhQdm9oSUtMVVo?oc=5",
-          "summary": "화상회의 넘어 에이전트로… 줌, AI 플랫폼 기업으로 체질 개선&nbsp;&nbsp;IT조선",
-          "date": "2026-06-30T09:27:21+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "스카이월드와이드·TSID, AI DB 보안 동맹…고신뢰 인증 솔루션 공동 개발 - 스타트업엔",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfZ3pneEpMVE1DUWhpb0g0bzVrbEo1d3YyM1Rhd2lRb1NUajVDZ05EZnl0RTVrVDl1LUxUTmJzbE9RUTJPR1FlbnRZUTdtWXZUdHFNMDRlb2x1bzZrbE15NE14dWNXTXdKVVpZd9IBbEFVX3lxTFBfZ3pneEpMVE1DUWhpb0g0bzVrbEo1d3YyM1Rhd2lRb1NUajVDZ05EZnl0RTVrVDl1LUxUTmJzbE9RUTJPR1FlbnRZUTdtWXZUdHFNMDRlb2x1bzZrbE15NE14dWNXTXdKVVpZdw?oc=5",
-          "summary": "스카이월드와이드·TSID, AI DB 보안 동맹…고신뢰 인증 솔루션 공동 개발&nbsp;&nbsp;스타트업엔",
-          "date": "2026-06-30T10:31:07+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        },
-        {
-          "title": "구글 Gemini, 맞춤형 AI 이미지 생성 기능 미국서 무료 개방 - AI넷",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5mMU02LWJ5NGoyYjB4dWhTSG1DYnlxdmJvSE1qRy0zTEY1RDZRS3V5cHkxek5FeUR2N3I1ekgtUEY?oc=5",
-          "summary": "구글 Gemini, 맞춤형 AI 이미지 생성 기능 미국서 무료 개방&nbsp;&nbsp;AI넷",
-          "date": "2026-06-30T16:01:00+00:00",
-          "source": "Google News AI (한국어)",
-          "tier": "official",
-          "category": "AI"
-        }
-      ]
+      "items": []
     },
     "gnews_ent_kr": {
       "label": "Google News 연예 (한국어)",
@@ -3961,6 +3690,15 @@
           "category": "연예"
         },
         {
+          "title": "책·영화·체험으로 채우는 금천구 도서관 여름방학 - 마을신문 금천in",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uVzYtWHJQZm9DeXZ2MVp5Q3NiMkdHRWttNkFPUlB1RGI2V2sxM0kzZUtuQ2pqMGhjRXFUZTFIU3A0ZzZPLTVPYUM1ZWg1OXA0SzFZNkx3Q2hEX1lUTFYxdm5KVU9ocENjZXc?oc=5",
+          "summary": "책·영화·체험으로 채우는 금천구 도서관 여름방학&nbsp;&nbsp;마을신문 금천in",
+          "date": "2026-07-01T07:14:48+00:00",
+          "source": "Google News 연예 (한국어)",
+          "tier": "official",
+          "category": "연예"
+        },
+        {
           "title": "`김부장` 딸 바보 소지섭 반전 액션 서사 드라마 - 매일신문",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpbjdmZU9NV3NWTmU5eHdzRVBiVWhheWI0VGZpMDk0VzlRMHNoc0pSWTlxdG1tV1NCZzMtLUZtcjlSRnpsZ295b2c3WnhxdkJRXy1FSk83bUJuWGI2V2VtdUNR?oc=5",
           "summary": "`김부장` 딸 바보 소지섭 반전 액션 서사 드라마&nbsp;&nbsp;매일신문",
@@ -3997,15 +3735,6 @@
           "category": "연예"
         },
         {
-          "title": "요즘 금융은 드라마로 배운다며? - 스트레이트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xVW52TzZXZ2c0cU1mNUFZUDRzUjJ0TzlJTnMzeHhaX0M3dkhnc3JXWlZVMHNlM1k3LUU5djM4Tll5V2dBYXZhRVR0bW0tWkljSGxnY0oxajZNNGdxTDJ1VWE1SGF4TlZwV3NxNzJFZmNySW_SAXdBVV95cUxQQmp5VTVQb2FNOHJuZDJRODg0T3BJajA5Y3BVczVhdDN3c1d0R0RGX2d1WTRPVWpHRFRCbVdVbjBOTlpidF9YZjNQaUM4QmgwUWFOOEx1UW9INEhtSjhLNmhpdDF6VDc3WWE4T3ZlTC1aczgyd2Jwcw?oc=5",
-          "summary": "요즘 금융은 드라마로 배운다며?&nbsp;&nbsp;스트레이트뉴스",
-          "date": "2026-07-01T06:44:44+00:00",
-          "source": "Google News 연예 (한국어)",
-          "tier": "official",
-          "category": "연예"
-        },
-        {
           "title": "영화 ‘접속’부터 ‘파묘’, 쇼트폼까지…서른 살 부천영화제의 파격 변신 - 한겨레",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JQUJLc041WUxnS0cycFlEcTZobTJqSk9TelhVaTgyaDVTYmhNd2lmTVFUU0t3N2xSQVVWMG85Sy1jU2lVOG42MnNPRWtqWHBiTzBYbW5EVjJSenBXNnhtbFlqbXdTYjh0bW1yRW1XWTBfZw?oc=5",
           "summary": "영화 ‘접속’부터 ‘파묘’, 쇼트폼까지…서른 살 부천영화제의 파격 변신&nbsp;&nbsp;한겨레",
@@ -4015,19 +3744,19 @@
           "category": "연예"
         },
         {
-          "title": "[TN 현장] 드라마 ‘참교육’ 신드롬이 남긴 숙제…“응징보다 교육적 해결” - 투데이신문",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmU29jcmN3bHNleWdTRnVZaHlzY0lyVVBPR1pJTmRoSHVXcExBaW9FamlTNmc2enZWSWg3V0trUldiRUptaUE3WVBQblRUT0VQNGw4S3EySm01bERZWTd5bnNITnVyTTFLRklR0gFvQVVfeXFMTUlqUVloU1dPWmt5bUxFMy1odXctZ1B1MTJsV1ZoLXJnY3FIR2VZZ0tCb1BiSzJYUDAtNUJoWHJHTDdTTUVHTC0tSlR3ZHFEMEhqaDVxdmZvWmtsRUlrQVVmTkxuTTdQR0lNN1J3MnpV?oc=5",
-          "summary": "[TN 현장] 드라마 ‘참교육’ 신드롬이 남긴 숙제…“응징보다 교육적 해결”&nbsp;&nbsp;투데이신문",
-          "date": "2026-07-01T05:38:27+00:00",
+          "title": "요즘 금융은 드라마로 배운다며? - 스트레이트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCanlVNVBvYU04cm5kMlE4ODRPcElqMDljcFVzNWF0M3dzV3RHREZfZ3VZNE9VakdEVEJtV1VuME5OWmJ0X1hmM1BpQzhCaDBRYU44THVRb0g0SG1KOEs2aGl0MXpUNzdZYThPdmVMLVpzODJ3YnBz0gF3QVVfeXFMUEJqeVU1UG9hTThybmQyUTg4NE9wSWowOWNwVXM1YXQzd3NXdEdERl9ndVk0T1VqR0RUQm1XVW4wTk5aYnRfWGYzUGlDOEJoMFFhTjhMdVFvSDRIbUo4SzZoaXQxelQ3N1lhOE92ZUwtWnM4MndicHM?oc=5",
+          "summary": "요즘 금융은 드라마로 배운다며?&nbsp;&nbsp;스트레이트뉴스",
+          "date": "2026-07-01T06:47:56+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
         },
         {
-          "title": "책·영화·체험으로 채우는 금천구 도서관 여름방학 - 마을신문 금천in",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uVzYtWHJQZm9DeXZ2MVp5Q3NiMkdHRWttNkFPUlB1RGI2V2sxM0kzZUtuQ2pqMGhjRXFUZTFIU3A0ZzZPLTVPYUM1ZWg1OXA0SzFZNkx3Q2hEX1lUTFYxdm5KVU9ocENjZXc?oc=5",
-          "summary": "책·영화·체험으로 채우는 금천구 도서관 여름방학&nbsp;&nbsp;마을신문 금천in",
-          "date": "2026-07-01T07:14:48+00:00",
+          "title": "[TN 현장] 드라마 ‘참교육’ 신드롬이 남긴 숙제…“응징보다 교육적 해결” - 투데이신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmU29jcmN3bHNleWdTRnVZaHlzY0lyVVBPR1pJTmRoSHVXcExBaW9FamlTNmc2enZWSWg3V0trUldiRUptaUE3WVBQblRUT0VQNGw4S3EySm01bERZWTd5bnNITnVyTTFLRklR0gFvQVVfeXFMTUlqUVloU1dPWmt5bUxFMy1odXctZ1B1MTJsV1ZoLXJnY3FIR2VZZ0tCb1BiSzJYUDAtNUJoWHJHTDdTTUVHTC0tSlR3ZHFEMEhqaDVxdmZvWmtsRUlrQVVmTkxuTTdQR0lNN1J3MnpV?oc=5",
+          "summary": "[TN 현장] 드라마 ‘참교육’ 신드롬이 남긴 숙제…“응징보다 교육적 해결”&nbsp;&nbsp;투데이신문",
+          "date": "2026-07-01T05:38:27+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
@@ -4132,6 +3861,15 @@
           "category": "연예"
         },
         {
+          "title": "한석규 정유미 주연 드라마 '스피킹 데드', 해외서 먼저 알아봤다 - 머니투데이 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tSnJweHF5VEJNOGFxUUxJa1BIanBGaEttVEVjbnVJS3B5enR1UEtDWnpHbEpXeVJidFhhLXVxSzhUdm5pYndneDVIbE9BMWZDd0Q3Wm1hZDhWWDZGWGhtUjVtZmRLc0pDdmNvd1FmRDRJWTBFRjlrTtIBeEFVX3lxTE9tSnJweHF5VEJNOGFxUUxJa1BIanBGaEttVEVjbnVJS3B5enR1UEtDWnpHbEpXeVJidFhhLXVxSzhUdm5pYndneDVIbE9BMWZDd0Q3Wm1hZDhWWDZGWGhtUjVtZmRLc0pDdmNvd1FmRDRJWTBFRjlrTg?oc=5",
+          "summary": "한석규 정유미 주연 드라마 '스피킹 데드', 해외서 먼저 알아봤다 - 머니투데이&nbsp;&nbsp;머니투데이",
+          "date": "2026-07-01T07:25:16+00:00",
+          "source": "Google News 연예 (한국어)",
+          "tier": "official",
+          "category": "연예"
+        },
+        {
           "title": "세종사이버대 경찰학과, 영화 ‘추격자’ 통해 연쇄살인사건 분석 토론회 연다 - 에너지경제신문",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVmhELWttWG93Qmo0Q25lQ0VDSUNkanVLbHNGQ25fQ3lPTzRmR09jcHZsWGg0MDRZQm04bzY3SFJHQTBFcE1rSUppS1p5MTAxaG5zNGtSM1Bzcms?oc=5",
           "summary": "세종사이버대 경찰학과, 영화 ‘추격자’ 통해 연쇄살인사건 분석 토론회 연다&nbsp;&nbsp;에너지경제신문",
@@ -4141,19 +3879,19 @@
           "category": "연예"
         },
         {
-          "title": "‘결혼의완성’ 남궁민 “‘우리영화’ 이후 고민…쉽고 편안한 작품 하고팠다” - 동아일보",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DN3BTLVBkbkFyWnhBc1VFNFNTZXR5alA2aExuUTJvWjllWXMyU3pna1I0aWdVVS16N3VvM1N5TWNPOTZPTmRFX0oyRVhvR2ZqTHhiNU9qc1luUnoxc0h3b0hxRTdJZ9IBZkFVX3lxTE1DN3BTLVBkbkFyWnhBc1VFNFNTZXR5alA2aExuUTJvWjllWXMyU3pna1I0aWdVVS16N3VvM1N5TWNPOTZPTmRFX0oyRVhvR2ZqTHhiNU9qc1luUnoxc0h3b0hxRTdJZw?oc=5",
-          "summary": "‘결혼의완성’ 남궁민 “‘우리영화’ 이후 고민…쉽고 편안한 작품 하고팠다”&nbsp;&nbsp;동아일보",
-          "date": "2026-07-01T05:56:26+00:00",
+          "title": "[공식] 스테이씨 윤, 숏드라마 '사랑하는 죽음' 주연 캐스팅 - starnewskorea.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORDFRbVpxTHlDQ1RBeGluMVZ4VE5MOUNrcUpxa3hsUXdmRGJEZUxjRnl5Vi1FTXRqT0k5ZTZXTzFUQ1lsdjFiZ2stdXlrUEZkekNmblNTYWVvczRjM0t4OTNnQmlfQ2RTSTdaSmlBZ0xkcWFNb3NDMVVZSFVvdGtmNHNn?oc=5",
+          "summary": "[공식] 스테이씨 윤, 숏드라마 '사랑하는 죽음' 주연 캐스팅&nbsp;&nbsp;starnewskorea.com",
+          "date": "2026-07-01T09:02:44+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
         },
         {
-          "title": "[공식] 스테이씨 윤, 숏드라마 '사랑하는 죽음' 주연 캐스팅 - starnewskorea.com",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORDFRbVpxTHlDQ1RBeGluMVZ4VE5MOUNrcUpxa3hsUXdmRGJEZUxjRnl5Vi1FTXRqT0k5ZTZXTzFUQ1lsdjFiZ2stdXlrUEZkekNmblNTYWVvczRjM0t4OTNnQmlfQ2RTSTdaSmlBZ0xkcWFNb3NDMVVZSFVvdGtmNHNn?oc=5",
-          "summary": "[공식] 스테이씨 윤, 숏드라마 '사랑하는 죽음' 주연 캐스팅&nbsp;&nbsp;starnewskorea.com",
-          "date": "2026-07-01T09:02:44+00:00",
+          "title": "‘결혼의완성’ 남궁민 “‘우리영화’ 이후 고민…쉽고 편안한 작품 하고팠다” - 동아일보",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DN3BTLVBkbkFyWnhBc1VFNFNTZXR5alA2aExuUTJvWjllWXMyU3pna1I0aWdVVS16N3VvM1N5TWNPOTZPTmRFX0oyRVhvR2ZqTHhiNU9qc1luUnoxc0h3b0hxRTdJZ9IBZkFVX3lxTE1DN3BTLVBkbkFyWnhBc1VFNFNTZXR5alA2aExuUTJvWjllWXMyU3pna1I0aWdVVS16N3VvM1N5TWNPOTZPTmRFX0oyRVhvR2ZqTHhiNU9qc1luUnoxc0h3b0hxRTdJZw?oc=5",
+          "summary": "‘결혼의완성’ 남궁민 “‘우리영화’ 이후 고민…쉽고 편안한 작품 하고팠다”&nbsp;&nbsp;동아일보",
+          "date": "2026-07-01T05:56:26+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
@@ -4222,19 +3960,19 @@
           "category": "연예"
         },
         {
-          "title": "3년 중단된 대종상영화제 새 주인 찾아…\"이르면 내년 2월 개최\" - 연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Md0dvcm1hUnVEMUxGTnlKSTc4ZkpJUTZlMTUxTW82TkFJVk9PdHVNSFJMbUN4cE1mMTVtRHZLMGFGM3RYNHctUklxandGanhxNU5Ka2M2eXdLVlZBaFZrLdIBYEFVX3lxTE1Md0dvcm1hUnVEMUxGTnlKSTc4ZkpJUTZlMTUxTW82TkFJVk9PdHVNSFJMbUN4cE1mMTVtRHZLMGFGM3RYNHctUklxandGanhxNU5Ka2M2eXdLVlZBaFZrLQ?oc=5",
-          "summary": "3년 중단된 대종상영화제 새 주인 찾아…\"이르면 내년 2월 개최\"&nbsp;&nbsp;연합뉴스",
-          "date": "2026-07-01T02:25:42+00:00",
+          "title": "판타지오, 글라인과 ‘고분고분한 킬러’ 공동제작…드라마 제작 확대 - 이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU0cyV2NUVEtFa3lFYUxERm9hUkRCcEJDUGhDb0RoT2t1ckxMU2RNb0pFNFMxTGlYZHhON0Y5NVUtMnFrcUNuMXU2U0tpZlNNSkVpZTFwaXBMMFp1SEV3aUlCSUFqTFpDeEJ0NmhVbHBCT2pGT2htaVg1aFFBSzM4WQ?oc=5",
+          "summary": "판타지오, 글라인과 ‘고분고분한 킬러’ 공동제작…드라마 제작 확대&nbsp;&nbsp;이데일리",
+          "date": "2026-07-01T05:13:55+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
         },
         {
-          "title": "판타지오, 글라인과 ‘고분고분한 킬러’ 공동제작…드라마 제작 확대 - 이데일리",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU0cyV2NUVEtFa3lFYUxERm9hUkRCcEJDUGhDb0RoT2t1ckxMU2RNb0pFNFMxTGlYZHhON0Y5NVUtMnFrcUNuMXU2U0tpZlNNSkVpZTFwaXBMMFp1SEV3aUlCSUFqTFpDeEJ0NmhVbHBCT2pGT2htaVg1aFFBSzM4WQ?oc=5",
-          "summary": "판타지오, 글라인과 ‘고분고분한 킬러’ 공동제작…드라마 제작 확대&nbsp;&nbsp;이데일리",
-          "date": "2026-07-01T05:13:55+00:00",
+          "title": "3년 중단된 대종상영화제 새 주인 찾아…\"이르면 내년 2월 개최\" - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Md0dvcm1hUnVEMUxGTnlKSTc4ZkpJUTZlMTUxTW82TkFJVk9PdHVNSFJMbUN4cE1mMTVtRHZLMGFGM3RYNHctUklxandGanhxNU5Ka2M2eXdLVlZBaFZrLdIBYEFVX3lxTE1Md0dvcm1hUnVEMUxGTnlKSTc4ZkpJUTZlMTUxTW82TkFJVk9PdHVNSFJMbUN4cE1mMTVtRHZLMGFGM3RYNHctUklxandGanhxNU5Ka2M2eXdLVlZBaFZrLQ?oc=5",
+          "summary": "3년 중단된 대종상영화제 새 주인 찾아…\"이르면 내년 2월 개최\"&nbsp;&nbsp;연합뉴스",
+          "date": "2026-07-01T02:25:42+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
@@ -4258,10 +3996,10 @@
           "category": "연예"
         },
         {
-          "title": "영화진흥위원회 신임 사무국장에 장광수 씨 - 연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jcUpoLWFveEpzTlhmSmlGV0p1RExaeTdnWXdXdWloQy1VaFluVm5DOTdvYkxEX1otM2lNZ0JSWGtDUEh3SE1tcXRrWmYzNWJ4MzRsZXFzRTR5LWfSAWBBVV95cUxNaEVuT2hlb2dpZHZheld6SWltbEp2VHRtZ0h4OGR3VjVjQnVPSHBoeXpTelRVZGYySWZ1QnY2d2xKWEoxM0Z4Tmd6MTh1SnQtQmJfbEhTcnZOV2taRGpqVDk?oc=5",
-          "summary": "영화진흥위원회 신임 사무국장에 장광수 씨&nbsp;&nbsp;연합뉴스",
-          "date": "2026-07-01T01:00:09+00:00",
+          "title": "[방송소식] CJ ENM, 한국 IP 원작 태국 드라마 6편 인도 수출 - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54TDBKOW5KSmVHbW5hdW42SXVyVnQybnZTTjFQSGJJRlpXOXptLUE4U0llYlNqSnh1ZkcxcEptcUk5eHVaZnJESFQwQWh1RGtvdHFDZU1zeWJ3TVHSAWBBVV95cUxOQ1JLbG0tOG12RHVxdF9iLV8yVmc1eWxYSk1oYUxaWGlWQ2czWi1BQXRyZU5hai1hUlEwMUNzdHpqR0FDclg2TjREYU9YblJiekNyeXVRbXdMUFlaVWhJbVo?oc=5",
+          "summary": "[방송소식] CJ ENM, 한국 IP 원작 태국 드라마 6편 인도 수출&nbsp;&nbsp;연합뉴스",
+          "date": "2026-07-01T01:04:30+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
@@ -4285,10 +4023,10 @@
           "category": "연예"
         },
         {
-          "title": "[방송소식] CJ ENM, 한국 IP 원작 태국 드라마 6편 인도 수출 - 연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54TDBKOW5KSmVHbW5hdW42SXVyVnQybnZTTjFQSGJJRlpXOXptLUE4U0llYlNqSnh1ZkcxcEptcUk5eHVaZnJESFQwQWh1RGtvdHFDZU1zeWJ3TVHSAWBBVV95cUxOQ1JLbG0tOG12RHVxdF9iLV8yVmc1eWxYSk1oYUxaWGlWQ2czWi1BQXRyZU5hai1hUlEwMUNzdHpqR0FDclg2TjREYU9YblJiekNyeXVRbXdMUFlaVWhJbVo?oc=5",
-          "summary": "[방송소식] CJ ENM, 한국 IP 원작 태국 드라마 6편 인도 수출&nbsp;&nbsp;연합뉴스",
-          "date": "2026-07-01T01:04:30+00:00",
+          "title": "영화진흥위원회 신임 사무국장에 장광수 씨 - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jcUpoLWFveEpzTlhmSmlGV0p1RExaeTdnWXdXdWloQy1VaFluVm5DOTdvYkxEX1otM2lNZ0JSWGtDUEh3SE1tcXRrWmYzNWJ4MzRsZXFzRTR5LWfSAWBBVV95cUxNaEVuT2hlb2dpZHZheld6SWltbEp2VHRtZ0h4OGR3VjVjQnVPSHBoeXpTelRVZGYySWZ1QnY2d2xKWEoxM0Z4Tmd6MTh1SnQtQmJfbEhTcnZOV2taRGpqVDk?oc=5",
+          "summary": "영화진흥위원회 신임 사무국장에 장광수 씨&nbsp;&nbsp;연합뉴스",
+          "date": "2026-07-01T01:00:09+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
@@ -4321,6 +4059,24 @@
           "category": "연예"
         },
         {
+          "title": "이예준, 장마송 '우산 없는 밤'으로 컴백 - 이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT1dZVkt5d1gyMFNiQVFYUG9ZSEl0NFhWQVBYcjVaQjNOQlp6VHBhNGVmenNORXBiMWlQMWRtOXZZUnZnRnZaQTB0blpCd2FJekMtT0VmUkRZTUhXWTkzcFpvLXpXVms3TnByUHpHcVM1UGJvd3UwUVdiR29pQ2lJTg?oc=5",
+          "summary": "이예준, 장마송 '우산 없는 밤'으로 컴백&nbsp;&nbsp;이데일리",
+          "date": "2026-07-01T08:49:51+00:00",
+          "source": "Google News 연예 (한국어)",
+          "tier": "official",
+          "category": "연예"
+        },
+        {
+          "title": "'7월 컴백' 아이들, 모래 위 기댄 로맨틱 분위기…노을빛 비주얼 - 아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5maW5zbWJFMkpwWU84REZWa19kREF5VjhWN0xOZ1F2bmQ0akhYNXdfdkpPZThVOVlzQnliYUxtMHVmeFZESE5oSVFCSQ?oc=5",
+          "summary": "'7월 컴백' 아이들, 모래 위 기댄 로맨틱 분위기…노을빛 비주얼&nbsp;&nbsp;아이뉴스24",
+          "date": "2026-07-01T07:01:48+00:00",
+          "source": "Google News 연예 (한국어)",
+          "tier": "official",
+          "category": "연예"
+        },
+        {
           "title": "한양대 연극영화학과, 창작 연극 '우화' 7월 개막… “기억과 망각 사이, 잃어버린 목소리 찾는다” - 뉴스H",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KYnAtNEFYVTBMa05NUDRReXlqTFZOWjBPZS1YRnNfbzJTekpZVVR6UU9kbS1vamg1dTFfRDVabnhaUmlmZE9rUXVvT2poUlFteGJidGczcUlrZlZzWXBjMkdKYzZLTWR6UGMw?oc=5",
           "summary": "한양대 연극영화학과, 창작 연극 '우화' 7월 개막… “기억과 망각 사이, 잃어버린 목소리 찾는다”&nbsp;&nbsp;뉴스H",
@@ -4339,10 +4095,10 @@
           "category": "연예"
         },
         {
-          "title": "“판자촌 살며 버텨”…연수입 20만원에서 ‘글로벌 1위 드라마’ 주연된 배우 - 서울신문",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbkE4NE42YmtsTlVMekxoUVVGbC0zVzVsOHlDb052MlhnRGx6LVNwZlZUdHhXeDFTS3g5SHAwTE5aYndOaGdqQkotTERxWWtySWdzY1JYN3U0R2ozQUJmVWJoNV9iX25MbkswOTQ4ZG5GdHRVUEVQcDFKRkZDNURoX2ZOcUFadw?oc=5",
-          "summary": "“판자촌 살며 버텨”…연수입 20만원에서 ‘글로벌 1위 드라마’ 주연된 배우&nbsp;&nbsp;서울신문",
-          "date": "2026-07-01T04:59:34+00:00",
+          "title": "'결혼의완성' 남궁민 \"'우리영화' 이후 고민…쉽고 편안한 작품 하고팠다\" - 뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RVWViajFJWk9UOWNyRmcyaWNoekc5c21Sa1ZLaFBDVTNwd2x0UzdFNmtGQ28tbVU1TldjYXA2b05DUlljcHZIUFE2UllJdTQyY0QxZmZCZl9mLVBkd2p1Sg?oc=5",
+          "summary": "'결혼의완성' 남궁민 \"'우리영화' 이후 고민…쉽고 편안한 작품 하고팠다\"&nbsp;&nbsp;뉴스1",
+          "date": "2026-07-01T05:47:23+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
@@ -4357,10 +4113,10 @@
           "category": "연예"
         },
         {
-          "title": "이예준, 장마송 '우산 없는 밤'으로 컴백 - 이데일리",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT1dZVkt5d1gyMFNiQVFYUG9ZSEl0NFhWQVBYcjVaQjNOQlp6VHBhNGVmenNORXBiMWlQMWRtOXZZUnZnRnZaQTB0blpCd2FJekMtT0VmUkRZTUhXWTkzcFpvLXpXVms3TnByUHpHcVM1UGJvd3UwUVdiR29pQ2lJTg?oc=5",
-          "summary": "이예준, 장마송 '우산 없는 밤'으로 컴백&nbsp;&nbsp;이데일리",
-          "date": "2026-07-01T08:49:51+00:00",
+          "title": "“판자촌 살며 버텨”…연수입 20만원에서 ‘글로벌 1위 드라마’ 주연된 배우 - 서울신문",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbkE4NE42YmtsTlVMekxoUVVGbC0zVzVsOHlDb052MlhnRGx6LVNwZlZUdHhXeDFTS3g5SHAwTE5aYndOaGdqQkotTERxWWtySWdzY1JYN3U0R2ozQUJmVWJoNV9iX25MbkswOTQ4ZG5GdHRVUEVQcDFKRkZDNURoX2ZOcUFadw?oc=5",
+          "summary": "“판자촌 살며 버텨”…연수입 20만원에서 ‘글로벌 1위 드라마’ 주연된 배우&nbsp;&nbsp;서울신문",
+          "date": "2026-07-01T04:59:34+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
@@ -4402,6 +4158,15 @@
           "category": "연예"
         },
         {
+          "title": "해양환경 이동교실 '파랑해(海)', 바다를 배우는 함평영화학교 - jngjedu.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aeDhXWW9mZWZnZS1nc2NpSHpucFhUNXRRZ0pzSUQ1d25PenVGUFNQVG94dEo5cFYwaGdJQVZKc2RkYVJ2aDJsNXdGTlJSdTFfRlFFY3hlb1hIWHRYLUV1RHJ2Y09YUdIBbEFVX3lxTFBMQXA3dm1RSEpsTlpZbm45ak02TG1IX19kN1c2WW1MTVJGaFJmVEIydTVvakowQ0hZWFVqTnJFWmVxLWZKbWVnTFdZeUZtV3Z0UE11OF96Mlp1c2pJM0l6WjZtRXlMRzU4QkpXWQ?oc=5",
+          "summary": "해양환경 이동교실 '파랑해(海)', 바다를 배우는 함평영화학교&nbsp;&nbsp;jngjedu.kr",
+          "date": "2026-07-01T05:42:15+00:00",
+          "source": "Google News 연예 (한국어)",
+          "tier": "official",
+          "category": "연예"
+        },
+        {
           "title": "아이들, 두 번째 컴백 포토 공개…나른하고 고혹적인 매력 - v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01Zk5kZk5DZHItZU4yV0dKaHBtWS1UTDhXckpkTnpLRXZhU2tvZWZkV01paE5HNHRhYlZwOUVXaVVpV2p2Mmx2SEczM2I2c0U?oc=5",
           "summary": "아이들, 두 번째 컴백 포토 공개…나른하고 고혹적인 매력&nbsp;&nbsp;v.daum.net",
@@ -4415,6 +4180,15 @@
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SNlJpdmxnZUhqVHIycjE0cGVyam9XM1YweU13bzFkdlBLaHdCaXFObUVXUFBhczZNSS0wYVFzaGxtb1k3Q0dFdTZpZjlGVjc0Vy1RRDEtc2xzbHZMcm1LTU5SUkc0aG5NdVM2aDdKRQ?oc=5",
           "summary": "소지섭, ‘김부장’에서 드러나는 소(小)간지&nbsp;&nbsp;엔터미디어",
           "date": "2026-07-01T05:48:37+00:00",
+          "source": "Google News 연예 (한국어)",
+          "tier": "official",
+          "category": "연예"
+        },
+        {
+          "title": "CLASSy社群貼文 - 라씨 컴백 추카🫶🫶🫶 - BOEUN - Weverse",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mR3ZNM0I1TXJNRDNNb0RrZzN3U3JNSm4zekJ4V2Z1ek5EUVoybnp3dVJteU9TUVdkWXYwa2NyYnFHX25SSEQxZ0ZIdnRTc3NaNkpKZ0JvSTFsSmdvRjlBOWpKQQ?oc=5",
+          "summary": "CLASSy社群貼文 - 라씨 컴백 추카🫶🫶🫶 - BOEUN&nbsp;&nbsp;Weverse",
+          "date": "2026-07-01T04:20:34+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
@@ -4438,6 +4212,15 @@
           "category": "연예"
         },
         {
+          "title": "세종사이버대 경찰학과, 영화 '추격자' 통해 유영철 사건 재조명 - 핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pZm1tN29KYWlOZHBjdUNKOG9MUjlGa2lMN000Slh4ckVGYWczaTNqaFRSX0VxYzM0MXNqd3NNajRaXy1DaGd1WHlFVDBLZ3AyeURGeW1zV0dEaXJVS29URVZibml0M0tGVmRmc3JyVkhPcGvSAXdBVV95cUxPakVJa0U4andpa2VKVnZjTWt2YmFianVvUkRKWWFpR3p2TDZvUWdkckU0cXV5M1k3M1RnV0E5ZXdaMGpZaF9TTS1JMnAzcElqb2tKNnF1R0ZDLUVLcnNLLVBvUU5wcjlfb2hWUU02LTl5Qk9MaU5tYw?oc=5",
+          "summary": "세종사이버대 경찰학과, 영화 '추격자' 통해 유영철 사건 재조명&nbsp;&nbsp;핀포인트뉴스",
+          "date": "2026-07-01T09:09:54+00:00",
+          "source": "Google News 연예 (한국어)",
+          "tier": "official",
+          "category": "연예"
+        },
+        {
           "title": "[포토Q] 남궁민 'KBS 드라마로 컴백' - 스포츠Q",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjU2F6YXFRN0ltQjkwT1l2N1I3UUtXYVM3cXRSX0RMaVlIc25ocG5yNW1kamxiT1A2ZUhJdHBDempETDRZTWlMck04ei1MTlpCbmszRGRfcUVHVHk2eHY3ZFotX244c04tLVIwbA?oc=5",
           "summary": "[포토Q] 남궁민 'KBS 드라마로 컴백'&nbsp;&nbsp;스포츠Q",
@@ -4456,6 +4239,15 @@
           "category": "연예"
         },
         {
+          "title": "제로베이스원, 8월 19일 日 컴백…'회귀러브' 포스터 공개 - SPOTV NEWS",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51QjFKU1RQcWFhZkNNeFItVm9HYnJPZmtXNXc3YVdQWHo3bm83enJqaDlPQlRMdzl1YVpkal9iRjRyX2cxT2FmUU04cnc0LWhiQnFXbkN6VzFrZUFnUWRQUkZLSkFiSjBFamlvZTNvWdIBc0FVX3lxTE1zQjNVVko1MjV3a3VMRkZLakZ3UDJLUDFfcEhPQW9JWUwtd1Mwd2h2OV9VN05hV3NIa1QyNm1XMFVoS0pKTTlHcktiYllVRGRmUmV5TENaVU1Fc2E5S0gtMXAwMXU5RGJYQ1piODNCb0J5Mjg?oc=5",
+          "summary": "제로베이스원, 8월 19일 日 컴백…'회귀러브' 포스터 공개&nbsp;&nbsp;SPOTV NEWS",
+          "date": "2026-07-01T07:43:25+00:00",
+          "source": "Google News 연예 (한국어)",
+          "tier": "official",
+          "category": "연예"
+        },
+        {
           "title": "CJ ENM, '김비서가 왜 그럴까' 태국 리메이크 드라마, 인도 수출...\"K콘텐츠 새로운 성장 국면\" - 파이낸셜뉴스",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VNHR3Ym1XNEoyNXJEOUUtSWxpYm56TXpOaG90RVJNOGhxMzA0UXNyc2hWbDhYZXVFSHZOZTJxTE9MUkFVMzZadGN0Uk9sNElJSWhIek1sZmZhZw?oc=5",
           "summary": "CJ ENM, '김비서가 왜 그럴까' 태국 리메이크 드라마, 인도 수출...\"K콘텐츠 새로운 성장 국면\"&nbsp;&nbsp;파이낸셜뉴스",
@@ -4465,19 +4257,10 @@
           "category": "연예"
         },
         {
-          "title": "CJ ENM, 한국 IP 원작 태국 드라마 인도 수출…\"韓 IP 확장성 입증\" - MTN 머니투데이방송",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tNm8wWUFBb29CT0otaGIzek02TGpUVDh0b2tsOC1jQlY1LVNkLVkwdnFESzI1Sy1DajNHWXhESmROTGxzR3dEU0VjV0lzZ3ZMNVc0S3BhNF8wRzBVV29xVGNvVEc?oc=5",
-          "summary": "CJ ENM, 한국 IP 원작 태국 드라마 인도 수출…\"韓 IP 확장성 입증\"&nbsp;&nbsp;MTN 머니투데이방송",
-          "date": "2026-07-01T01:50:18+00:00",
-          "source": "Google News 연예 (한국어)",
-          "tier": "official",
-          "category": "연예"
-        },
-        {
-          "title": "제로베이스원, 8월 19일 日 컴백…'회귀러브' 포스터 공개 - SPOTV NEWS",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51QjFKU1RQcWFhZkNNeFItVm9HYnJPZmtXNXc3YVdQWHo3bm83enJqaDlPQlRMdzl1YVpkal9iRjRyX2cxT2FmUU04cnc0LWhiQnFXbkN6VzFrZUFnUWRQUkZLSkFiSjBFamlvZTNvWdIBc0FVX3lxTE1zQjNVVko1MjV3a3VMRkZLakZ3UDJLUDFfcEhPQW9JWUwtd1Mwd2h2OV9VN05hV3NIa1QyNm1XMFVoS0pKTTlHcktiYllVRGRmUmV5TENaVU1Fc2E5S0gtMXAwMXU5RGJYQ1piODNCb0J5Mjg?oc=5",
-          "summary": "제로베이스원, 8월 19일 日 컴백…'회귀러브' 포스터 공개&nbsp;&nbsp;SPOTV NEWS",
-          "date": "2026-07-01T07:43:25+00:00",
+          "title": "[Culture] 누가 좀 알려줘요 이 영화 보고 안 웃을 방법...청량 발랄 중년 퀴어 귀향기 ‘이반리 장만옥’ - 매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzcWZ4ZkdaMlZnQ183S1prNm9yMk40RFZqM0NIUzVCRTVwRnBOeW9rUzhMaEozS1hLUUR4ZGpXX1lnV1dkUllPZ0REWV9WM1FoM3RvVA?oc=5",
+          "summary": "[Culture] 누가 좀 알려줘요 이 영화 보고 안 웃을 방법...청량 발랄 중년 퀴어 귀향기 ‘이반리 장만옥’&nbsp;&nbsp;매일경제",
+          "date": "2026-07-01T06:35:49+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
@@ -4510,15 +4293,6 @@
           "category": "연예"
         },
         {
-          "title": "조용히 잘나가는 ‘남편들’ 2주차 넷플릭스 비영어 영화 1위 - JTBC",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56ZjZzVzRhVmZ0SUFXSFJOX2JQeTFveFZlWG1IWld6ZDg4UWsxb2V0RVRJN0JBcTgxTmtIX29uMVFGeHlTdWxCblRUWXdfa3FqU2ttXw?oc=5",
-          "summary": "조용히 잘나가는 ‘남편들’ 2주차 넷플릭스 비영어 영화 1위&nbsp;&nbsp;JTBC",
-          "date": "2026-06-30T23:00:00+00:00",
-          "source": "Google News 연예 (한국어)",
-          "tier": "official",
-          "category": "연예"
-        },
-        {
           "title": "'직장인들' 스테이씨 윤, 본격 연기도전⋯숏드라마 '사랑하는 죽음' - 아이뉴스24",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZYS03eEhXM0hOeXprdFBYelV1d01ZeDBoLXU5NWJxNFZWbkY5MVdsWDBCYi1sZkg0cVNYQVI2djZVQzNXSm9DUFNWQQ?oc=5",
           "summary": "'직장인들' 스테이씨 윤, 본격 연기도전⋯숏드라마 '사랑하는 죽음'&nbsp;&nbsp;아이뉴스24",
@@ -4528,19 +4302,10 @@
           "category": "연예"
         },
         {
-          "title": "칸에서 기립 박수가 멈추지 않았던 이 한국 영화의 국내 개봉일이 드디어 정해졌다 - c3korea.net",
-          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQSG1fOHlGSjFMVkVjempycHlJb3RVck5HTElCMzJKRXdIdk5IWWpOd2pfQzVTNk02ZFlOcE0zaUpaLWdydk8zOVViaE5pZlVuVDRwbHFhR0ZYU2NsY19mcnhuUTY2Vlc1UHczWkdNeXJLaGt5T0tQYmNnRVJKTUN4V1pnSktuUjdaX3pWLW9nTVprbEhVZ0hOY2lmQnFtUlRQZWJWZFd6SE5xdXBsRDlxSkxNN20xb3NyVkYxT1hQVVVFVlZQYWNjN2tVZmtiT3lPR0dNWUc3WGRjTWlKcWNYTWdsWC1IdV9yV0pwM0NqSnhOcHhQSlpCUWhLVHpjSVFpdzFSU3IwS3FVcjk1amYzalFrUm9YMm9CQmdVeEQzMUJLeFFqSDVZN2t0MjIzdTZPWGZZNjE0WlV5ZVl6MjVuNEhyM2Y?oc=5",
-          "summary": "칸에서 기립 박수가 멈추지 않았던 이 한국 영화의 국내 개봉일이 드디어 정해졌다&nbsp;&nbsp;c3korea.net",
-          "date": "2026-07-01T06:03:13+00:00",
-          "source": "Google News 연예 (한국어)",
-          "tier": "official",
-          "category": "연예"
-        },
-        {
-          "title": "한석규 정유미 주연 드라마 '스피킹 데드', 해외서 먼저 알아봤다 - 머니투데이 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yaW9yX0YwOVJmQjhVWURjQ2tUaWxaZEs2Y05yRWhnUGF1ejJ5N3AyaG1pM2VaekhRWV9WWlU2Uk4yZEthaTNzRjZqNHRLTmx0dHc3U18zd3ljazN1SnUtOHZMdlRDNHlXYy0tajZhOHNCdmvSAXhBVV95cUxPbUpycHhxeVRCTThhcVFMSWtQSGpwRmhLbVRFY251SUtweXp0dVBLQ1p6R2xKV3lSYnRYYS11cUs4VHZuaWJ3Z3g1SGxPQTFmQ3dEN1ptYWQ4Vlg2RlhobVI1bWZkS3NKQ3Zjb3dRZkQ0SVkwRUY5a04?oc=5",
-          "summary": "한석규 정유미 주연 드라마 '스피킹 데드', 해외서 먼저 알아봤다 - 머니투데이&nbsp;&nbsp;머니투데이",
-          "date": "2026-07-01T07:25:16+00:00",
+          "title": "삼성동 랜드마크 'K-POP LIVE', 12K 초고화질로 새 단장 - 뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VYkdueFlQY1dINVFXQmx1QTVBcThBdTBPdXI3ZThaVmY1R0Y2R3AwQjRpLXNzSjF4aVJEQ3Qza1FaSjNhMUVhWlFiUzFfaWZEYjUyQllqZzNQTjl6ZEdrU1pkREVDSi1oSXVWaWdlU193X3pHWGhSV9IBeEFVX3lxTE5VYkdueFlQY1dINVFXQmx1QTVBcThBdTBPdXI3ZThaVmY1R0Y2R3AwQjRpLXNzSjF4aVJEQ3Qza1FaSjNhMUVhWlFiUzFfaWZEYjUyQllqZzNQTjl6ZEdrU1pkREVDSi1oSXVWaWdlU193X3pHWGhSVw?oc=5",
+          "summary": "삼성동 랜드마크 'K-POP LIVE', 12K 초고화질로 새 단장&nbsp;&nbsp;뉴시스",
+          "date": "2026-07-01T02:21:38+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
@@ -4555,10 +4320,28 @@
           "category": "연예"
         },
         {
+          "title": "칸에서 기립 박수가 멈추지 않았던 이 한국 영화의 국내 개봉일이 드디어 정해졌다 - c3korea.net",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQSG1fOHlGSjFMVkVjempycHlJb3RVck5HTElCMzJKRXdIdk5IWWpOd2pfQzVTNk02ZFlOcE0zaUpaLWdydk8zOVViaE5pZlVuVDRwbHFhR0ZYU2NsY19mcnhuUTY2Vlc1UHczWkdNeXJLaGt5T0tQYmNnRVJKTUN4V1pnSktuUjdaX3pWLW9nTVprbEhVZ0hOY2lmQnFtUlRQZWJWZFd6SE5xdXBsRDlxSkxNN20xb3NyVkYxT1hQVVVFVlZQYWNjN2tVZmtiT3lPR0dNWUc3WGRjTWlKcWNYTWdsWC1IdV9yV0pwM0NqSnhOcHhQSlpCUWhLVHpjSVFpdzFSU3IwS3FVcjk1amYzalFrUm9YMm9CQmdVeEQzMUJLeFFqSDVZN2t0MjIzdTZPWGZZNjE0WlV5ZVl6MjVuNEhyM2Y?oc=5",
+          "summary": "칸에서 기립 박수가 멈추지 않았던 이 한국 영화의 국내 개봉일이 드디어 정해졌다&nbsp;&nbsp;c3korea.net",
+          "date": "2026-07-01T06:03:13+00:00",
+          "source": "Google News 연예 (한국어)",
+          "tier": "official",
+          "category": "연예"
+        },
+        {
           "title": "CJ ENM '한국 IP드라마' 6편 인도 아마존에 공급 - 코리아리포트",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jX1lneXVKZGp3OUkyaVZ1bGM1bG5GX1VSTWhfMFRXRWFDNXhGeGRaRV9nLWtmZVg2Z2VVVk1xYlZSVWE4QWttWnQ1MC1yQ25JeVJLUmtGU1ZmYnZlRXFQaGIyVUNhWXNBZlVyX3JHdkY?oc=5",
           "summary": "CJ ENM '한국 IP드라마' 6편 인도 아마존에 공급&nbsp;&nbsp;코리아리포트",
           "date": "2026-07-01T02:16:55+00:00",
+          "source": "Google News 연예 (한국어)",
+          "tier": "official",
+          "category": "연예"
+        },
+        {
+          "title": "CJ ENM, 한국 IP 원작 태국 드라마 인도 수출…\"韓 IP 확장성 입증\" - MTN 머니투데이방송",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tNm8wWUFBb29CT0otaGIzek02TGpUVDh0b2tsOC1jQlY1LVNkLVkwdnFESzI1Sy1DajNHWXhESmROTGxzR3dEU0VjV0lzZ3ZMNVc0S3BhNF8wRzBVV29xVGNvVEc?oc=5",
+          "summary": "CJ ENM, 한국 IP 원작 태국 드라마 인도 수출…\"韓 IP 확장성 입증\"&nbsp;&nbsp;MTN 머니투데이방송",
+          "date": "2026-07-01T01:50:18+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
@@ -4573,24 +4356,6 @@
           "category": "연예"
         },
         {
-          "title": "백성현 논산시장 \"논산의 미래를 영화처럼\"... 민선9기 '국방·농업·관광' 대전환 선언 - 뉴데일리 충청세종",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hY2JDcDRfM1hzRmtlZlRjdTNWYzlsMk1CbHZaYTI0OUszQWRxWXpCNDhfcTZEOWdOUUsxTUh4cTJzVGZpMXBGai0tVEZEZXBjd2RiV1djMERxOVVITFFsb3FOd3VmWGo1QzlDZFB1RnZrX081U3NTenZR0gF_QVVfeXFMT3RSUXJVTXVWS0xwdTY2SmIxZWlZRFVsQ2ZUOE55bXZRTEZfWGhHd0ZWcEF4a2FacEk2bU9ndDc2c2kzeVJwU184MDg4RE9zcm5QRVdvUzlfclMtdnJnTDJFYTRpUmhPeHRQUEp1MUZRXzZ0ZzdydEhfR1lJM1hEVQ?oc=5",
-          "summary": "백성현 논산시장 \"논산의 미래를 영화처럼\"... 민선9기 '국방·농업·관광' 대전환 선언&nbsp;&nbsp;뉴데일리 충청세종",
-          "date": "2026-07-01T02:29:14+00:00",
-          "source": "Google News 연예 (한국어)",
-          "tier": "official",
-          "category": "연예"
-        },
-        {
-          "title": "KBS 토일드라마 '결혼의 완성' 김정현 감독[★포토] - starnewskorea.com",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjJTWTh0cnN1TWR0dlMwS3djQWdKQWdtVmtIcGxadkRQTkNsemlobVRnQUZ5YjJ5M3hIdzQ0M1RRUWI3OHJlN2cxc2JzYjl1UEtoWVRCdWl6ajc1QnBSSzdCeDQ2a0YtdjZmV2VjOWtvVm1wNUEzVGltYUZXU3kxaTZR?oc=5",
-          "summary": "KBS 토일드라마 '결혼의 완성' 김정현 감독[★포토]&nbsp;&nbsp;starnewskorea.com",
-          "date": "2026-07-01T05:34:55+00:00",
-          "source": "Google News 연예 (한국어)",
-          "tier": "official",
-          "category": "연예"
-        },
-        {
           "title": "[포토]KBS2 새 주말드라마 \\'결혼의 완성\\'-주연 배우들, 하트로 전한 기대감 - 해양레저신문",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50ejlLZVZlRjk5bVhFVVhISXFfMzc3TWJNUUVWRE8wSWRZMV9VODhGdzVxT2dVYUF1d1p6dEY0QTBVMzI5TVB1RzU2dzFKdnhGam51OEw0OA?oc=5",
           "summary": "[포토]KBS2 새 주말드라마 \\'결혼의 완성\\'-주연 배우들, 하트로 전한 기대감&nbsp;&nbsp;해양레저신문",
@@ -4600,10 +4365,10 @@
           "category": "연예"
         },
         {
-          "title": "[Culture] 누가 좀 알려줘요 이 영화 보고 안 웃을 방법...청량 발랄 중년 퀴어 귀향기 ‘이반리 장만옥’ - 매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzcWZ4ZkdaMlZnQ183S1prNm9yMk40RFZqM0NIUzVCRTVwRnBOeW9rUzhMaEozS1hLUUR4ZGpXX1lnV1dkUllPZ0REWV9WM1FoM3RvVA?oc=5",
-          "summary": "[Culture] 누가 좀 알려줘요 이 영화 보고 안 웃을 방법...청량 발랄 중년 퀴어 귀향기 ‘이반리 장만옥’&nbsp;&nbsp;매일경제",
-          "date": "2026-07-01T06:35:49+00:00",
+          "title": "KBS 토일드라마 '결혼의 완성' 김정현 감독[★포토] - starnewskorea.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjJTWTh0cnN1TWR0dlMwS3djQWdKQWdtVmtIcGxadkRQTkNsemlobVRnQUZ5YjJ5M3hIdzQ0M1RRUWI3OHJlN2cxc2JzYjl1UEtoWVRCdWl6ajc1QnBSSzdCeDQ2a0YtdjZmV2VjOWtvVm1wNUEzVGltYUZXU3kxaTZR?oc=5",
+          "summary": "KBS 토일드라마 '결혼의 완성' 김정현 감독[★포토]&nbsp;&nbsp;starnewskorea.com",
+          "date": "2026-07-01T05:34:55+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
@@ -4622,6 +4387,15 @@
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kVkZfX0N4Nm5RNmhQTzNaeG1EUE10Y05wSTRIY2xwMzJ2TFBtS1dXQ01Ja0N0bG9UbE91T1N4TkZrV0p5TmcyUVY4aUl3ZG80TTc2S3hMU215Z1IwMTQ4YkRMbnpfZGNwRjk3amMxSXFodw?oc=5",
           "summary": "영화 '호프', 개봉 앞두고 먼저 볼 수 있는 시사회 열린다…황정민→조인성 무대인사까지&nbsp;&nbsp;TopStarNews",
           "date": "2026-07-01T07:29:11+00:00",
+          "source": "Google News 연예 (한국어)",
+          "tier": "official",
+          "category": "연예"
+        },
+        {
+          "title": "현대백화점 중동점, 도심 속 영화 축제 ‘중동극장’ 개최 - 브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QejIzZlU5eF9QVVItdDhxMjBPbFIzaDdUMS1aaE44b193TzhzUzdNWFNDZWg2b0wxT0dxdl9KeXZadlNhTF9jaQ?oc=5",
+          "summary": "현대백화점 중동점, 도심 속 영화 축제 ‘중동극장’ 개최&nbsp;&nbsp;브레이크뉴스",
+          "date": "2026-07-01T05:26:00+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
@@ -4654,19 +4428,19 @@
           "category": "연예"
         },
         {
-          "title": "현대백화점 중동점, 도심 속 영화 축제 ‘중동극장’ 개최 - 브레이크뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QejIzZlU5eF9QVVItdDhxMjBPbFIzaDdUMS1aaE44b193TzhzUzdNWFNDZWg2b0wxT0dxdl9KeXZadlNhTF9jaQ?oc=5",
-          "summary": "현대백화점 중동점, 도심 속 영화 축제 ‘중동극장’ 개최&nbsp;&nbsp;브레이크뉴스",
-          "date": "2026-07-01T05:26:00+00:00",
+          "title": "스테이씨 윤, 숏드라마 ‘사랑하는 죽음’ 주연 - 스포츠경향",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSYU9wclc3RkFQd1hhWGpxVTZiaERwZFNwUXc5dWwxZHRUVzlNLVBsT1dhQUN4b2hKOU81V3hFakMzdnAyOE5BUS1Ma1NXN1dJakZZQzBxMEl4YlJVQXfSAWNBVV95cUxNbFpFbGxyN2xlTnNCNWh0dFQ1SjhLMnRGQmUwNTVvVzgwckUtRWtCVmFCWmlFenJjVnp5SHFlaU11bVRVbXFDM3ladXJGUlhrcXJROVVfNkdNSmpwd3g5elhtZlk?oc=5",
+          "summary": "스테이씨 윤, 숏드라마 ‘사랑하는 죽음’ 주연&nbsp;&nbsp;스포츠경향",
+          "date": "2026-07-01T05:59:00+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
         },
         {
-          "title": "스테이씨 윤, 숏드라마 ‘사랑하는 죽음’ 주연 - 스포츠경향",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSYU9wclc3RkFQd1hhWGpxVTZiaERwZFNwUXc5dWwxZHRUVzlNLVBsT1dhQUN4b2hKOU81V3hFakMzdnAyOE5BUS1Ma1NXN1dJakZZQzBxMEl4YlJVQXfSAWNBVV95cUxNbFpFbGxyN2xlTnNCNWh0dFQ1SjhLMnRGQmUwNTVvVzgwckUtRWtCVmFCWmlFenJjVnp5SHFlaU11bVRVbXFDM3ladXJGUlhrcXJROVVfNkdNSmpwd3g5elhtZlk?oc=5",
-          "summary": "스테이씨 윤, 숏드라마 ‘사랑하는 죽음’ 주연&nbsp;&nbsp;스포츠경향",
-          "date": "2026-07-01T05:59:00+00:00",
+          "title": "“軍백기가 뭔가요?” 정동원 영화, 5일만에 1만 넘었다 - 스포츠경향",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rcERia1ZmZnRuaDd0bXpMd0NNLXJlN1BBVks3UHVqckxuVDVxZUZ1c3luY2ZWc1pEbHJBdjVLUVh0LUxiT2xpalU5WlBfakxyTkk2d18xWWx0LVRuZlHSAWNBVV95cUxOZnlzRlN4bmxWblM0dWJYc0tpdHJySWV2SEJVOU1MdUdSc2FONXRxdGtiRWR3WEFra3c2Z1owUURWYkVKWTVrbmJsLTk3T1F2NHhBRHlJOUprOWJfeVVJdzFpXzQ?oc=5",
+          "summary": "“軍백기가 뭔가요?” 정동원 영화, 5일만에 1만 넘었다&nbsp;&nbsp;스포츠경향",
+          "date": "2026-07-01T05:22:00+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
@@ -4690,15 +4464,6 @@
           "category": "연예"
         },
         {
-          "title": "“軍백기가 뭔가요?” 정동원 영화, 5일만에 1만 넘었다 - 스포츠경향",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rcERia1ZmZnRuaDd0bXpMd0NNLXJlN1BBVks3UHVqckxuVDVxZUZ1c3luY2ZWc1pEbHJBdjVLUVh0LUxiT2xpalU5WlBfakxyTkk2d18xWWx0LVRuZlHSAWNBVV95cUxOZnlzRlN4bmxWblM0dWJYc0tpdHJySWV2SEJVOU1MdUdSc2FONXRxdGtiRWR3WEFra3c2Z1owUURWYkVKWTVrbmJsLTk3T1F2NHhBRHlJOUprOWJfeVVJdzFpXzQ?oc=5",
-          "summary": "“軍백기가 뭔가요?” 정동원 영화, 5일만에 1만 넘었다&nbsp;&nbsp;스포츠경향",
-          "date": "2026-07-01T05:22:00+00:00",
-          "source": "Google News 연예 (한국어)",
-          "tier": "official",
-          "category": "연예"
-        },
-        {
           "title": "CJ ENM, 한국 IP 원작 태국 드라마 6편 인도 수출 - 주간한국",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZdVFJWWNKcmkxTjlvbUsxenkzeGc1d2ZaWEhjcXVjR25OT3ZBN3FUTWJtaDhVVi1mRUI4eWRNci1CR0F4UFJEMFB3cVhqUWhHWEZ6NjZGY1JTR1F2OHFDRzdSNjBMcG9BMzFxWEEwR1dQZHhk0gF0QVVfeXFMT1l1UUlZY0pyaTFOOW9tSzF6eTN4ZzV3ZlpYSGNxdWNHbk5PdkE3cVRNYm1oOFVWLWZFQjh5ZE1yLUJHQXhQUkQwUHdxWGpRaEdYRno2NkZjUlNHUXY4cUNHN1I2MExwb0EzMXFYQTBHV1BkeGQ?oc=5",
           "summary": "CJ ENM, 한국 IP 원작 태국 드라마 6편 인도 수출&nbsp;&nbsp;주간한국",
@@ -4708,19 +4473,19 @@
           "category": "연예"
         },
         {
-          "title": "인도 OTT에 CJ 원작 태국 합작 드라마 6편 오른다 - 지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzOWdSb1Z3cEVFWmVMUzBOcUp4c013bzNJS0RqZEZWZjh5ZHJRcFhfNHRmWkJnZ2hIdXhnQ1ZCSGdlR3dFcHVZMzIxTE14ZzFTekdfcWl3?oc=5",
-          "summary": "인도 OTT에 CJ 원작 태국 합작 드라마 6편 오른다&nbsp;&nbsp;지디넷코리아",
-          "date": "2026-07-01T01:59:28+00:00",
+          "title": "CJ ENM, 한국 원작 기반 태국 드라마 6편 인도 플랫폼에 공급 - 로이슈",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FOVUwaXhZRjB3Q2pOckFQQ1phZFhLekFjX3BMOW5DY1c0WTdtWTBKSG9kRUpjS1lZTjFvNkRzaEt1MFo3ZUtRNWFLOUIySE5uX3UyZHRsbVdTOVBnT2MwbVpfV0w4ZmdOVkF4MHc4UXBaMFhQWTFfRA?oc=5",
+          "summary": "CJ ENM, 한국 원작 기반 태국 드라마 6편 인도 플랫폼에 공급&nbsp;&nbsp;로이슈",
+          "date": "2026-07-01T08:56:43+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
         },
         {
-          "title": "CJ ENM, 한국 원작 기반 태국 드라마 6편 인도 플랫폼에 공급 - 로이슈",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FOVUwaXhZRjB3Q2pOckFQQ1phZFhLekFjX3BMOW5DY1c0WTdtWTBKSG9kRUpjS1lZTjFvNkRzaEt1MFo3ZUtRNWFLOUIySE5uX3UyZHRsbVdTOVBnT2MwbVpfV0w4ZmdOVkF4MHc4UXBaMFhQWTFfRA?oc=5",
-          "summary": "CJ ENM, 한국 원작 기반 태국 드라마 6편 인도 플랫폼에 공급&nbsp;&nbsp;로이슈",
-          "date": "2026-07-01T08:56:43+00:00",
+          "title": "인도 OTT에 CJ 원작 태국 합작 드라마 6편 오른다 - 지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzOWdSb1Z3cEVFWmVMUzBOcUp4c013bzNJS0RqZEZWZjh5ZHJRcFhfNHRmWkJnZ2hIdXhnQ1ZCSGdlR3dFcHVZMzIxTE14ZzFTekdfcWl3?oc=5",
+          "summary": "인도 OTT에 CJ 원작 태국 합작 드라마 6편 오른다&nbsp;&nbsp;지디넷코리아",
+          "date": "2026-07-01T01:59:28+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
@@ -4744,6 +4509,15 @@
           "category": "연예"
         },
         {
+          "title": "고양시 마스코트 고양고양이, 드디어 컴백…“고양시 일 잘하네” - TopStarNews",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJRTluS2JDUjNLYWNRblJYZ1ZPRkNXUVlNLTJDWUkyby1kR0U2ZVFQM3MyMXhFMTVGcFZjajhLM01waXdtR1ZmelBiazhuQW92RlhSVGkyVzJ5dG1ybXBDR0s1R2loMF92eHRrTGhrMy1udw?oc=5",
+          "summary": "고양시 마스코트 고양고양이, 드디어 컴백…“고양시 일 잘하네”&nbsp;&nbsp;TopStarNews",
+          "date": "2026-07-01T08:18:49+00:00",
+          "source": "Google News 연예 (한국어)",
+          "tier": "official",
+          "category": "연예"
+        },
+        {
           "title": "영화진흥위원회, 신임 사무국장에 장광수 선임 - isplus.live.joins.com",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YUDc5RVhKS01fWGRHdlNFbjFUQUVFdGdVWGxrZW1tTWNjTzMteS1Ddk5VZW1xRGNkRXl0UWRHSWczSDFWVXhuMTNFZE4wUzZ1ZDJQX0tndlJ3dlBoMm1qTjd5RFkyZDN0?oc=5",
           "summary": "영화진흥위원회, 신임 사무국장에 장광수 선임&nbsp;&nbsp;isplus.live.joins.com",
@@ -4762,55 +4536,10 @@
           "category": "연예"
         },
         {
-          "title": "행성의 순간, 영화의 감각 - 교수신문",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IcUZfSnZxQUV2V3ZkNVpoZVVBbWxVWWdxM3EtY0FPUzA5RjJrZ2V2RG5YbUFQQ0ppYURyYUhaT01EeFRIaXhfeVpIMU5KVGx0VDFndGJ2VDgzc3M2QkJNTFJVcVFMdHc?oc=5",
-          "summary": "행성의 순간, 영화의 감각&nbsp;&nbsp;교수신문",
-          "date": "2026-07-01T00:23:18+00:00",
-          "source": "Google News 연예 (한국어)",
-          "tier": "official",
-          "category": "연예"
-        },
-        {
           "title": "적수 없다…'시청률 11.0%' 껑충→경쟁작 압도하며 일일극 '독주 체제' 굳힌 韓 드라마 ('기쁜우리') - v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Qd0hlNzhQbVRBNlRkUnp1aTZPR19wV1ZWMmNMYXJJWEwtcUVXWUxRVFdwX3lyTzdFUWd5Yll3bFNoM3pZODdwSjhBQUNxVk0?oc=5",
           "summary": "적수 없다…'시청률 11.0%' 껑충→경쟁작 압도하며 일일극 '독주 체제' 굳힌 韓 드라마 ('기쁜우리')&nbsp;&nbsp;v.daum.net",
           "date": "2026-07-01T06:15:51+00:00",
-          "source": "Google News 연예 (한국어)",
-          "tier": "official",
-          "category": "연예"
-        },
-        {
-          "title": "'7년 만의 컴백' 이소라, '유퀴즈' 출격…유재석과 만난다 - sportschosun.com",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVThyNm9nWDhyZ1Qza3ZYaVFpZWtEWWQxRVdKcjVtOWNaNjhfV294T0phUGp0aTJUMUd0R1BnTU56TzgwZlZTcXZJeDc0Q2ZfMWl4cGhGdnZid2o1ODRSNC0ydnV3c3Q1VTRCLUYtcjFtZ0cxdzVkSkdzM1l1QlVlVVQ5WTQ?oc=5",
-          "summary": "'7년 만의 컴백' 이소라, '유퀴즈' 출격…유재석과 만난다&nbsp;&nbsp;sportschosun.com",
-          "date": "2026-07-01T06:10:30+00:00",
-          "source": "Google News 연예 (한국어)",
-          "tier": "official",
-          "category": "연예"
-        },
-        {
-          "title": "CJ CGV, 삼성동 랜드마크 'K-POP LIVE' 새 단장 - 미디어펜",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1NzdLZzRaYXI1UktLTEFaV0RFeTFzcERxMXQtV1JBb3YzTTllcjNockg1QUJEVGIydUxNc2RWOXJ5blpJbTVNVl9JTjhwWUZsLXp4TzJHUk_SAVhBVV95cUxQdTc3S2c0WmFyNVJLS0xBWldERXkxc3BEcTF0LVdSQW92M005ZXIzaHJINUFCRFRiMnVMTXNkVjlyeW5aSW01TVZfSU44cFlGbC16eE8yR1JP?oc=5",
-          "summary": "CJ CGV, 삼성동 랜드마크 'K-POP LIVE' 새 단장&nbsp;&nbsp;미디어펜",
-          "date": "2026-07-01T04:35:56+00:00",
-          "source": "Google News 연예 (한국어)",
-          "tier": "official",
-          "category": "연예"
-        },
-        {
-          "title": "'결혼의완성' 남궁민, 맞대결 '김부장'에…\"우린 일요일도 방송\" - 한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GcWc2dUtWYVpTVXBGRnU2YmduRGd4ZlBvcTdpcjlHd245TVp1U05DcmtiTUY1ZlVMTGFlcTBPNDA5N2JZRFZxclA5ak9pUldKLUhBR9IBVEFVX3lxTE9GcWc2dUtWYVpTVXBGRnU2YmduRGd4ZlBvcTdpcjlHd245TVp1U05DcmtiTUY1ZlVMTGFlcTBPNDA5N2JZRFZxclA5ak9pUldKLUhBRw?oc=5",
-          "summary": "'결혼의완성' 남궁민, 맞대결 '김부장'에…\"우린 일요일도 방송\"&nbsp;&nbsp;한국경제",
-          "date": "2026-07-01T06:05:21+00:00",
-          "source": "Google News 연예 (한국어)",
-          "tier": "official",
-          "category": "연예"
-        },
-        {
-          "title": "김혜수 아역 데뷔→영화 감독된 여배우…지성 손 잡은 류현경, 3년 만에 복귀 ('아파트') - 텐아시아",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9URzFCRWVHaThJQ2F5SVJPdkpiUEhRbzU0QUQySzF6X3RwSlJTNWNocHhBTzlQcFJrVjdPLThpaFVhZ0VjU0hHSndwdlpwejNCemFhOUQwaTZqV00?oc=5",
-          "summary": "김혜수 아역 데뷔→영화 감독된 여배우…지성 손 잡은 류현경, 3년 만에 복귀 ('아파트')&nbsp;&nbsp;텐아시아",
-          "date": "2026-07-01T08:00:00+00:00",
           "source": "Google News 연예 (한국어)",
           "tier": "official",
           "category": "연예"
@@ -4822,15 +4551,6 @@
       "tier": "official",
       "category": "예술",
       "items": [
-        {
-          "title": "SKT, T1과 함께 신규 전시 ‘암행천문: 별을 헤다’ 선보인다 - SK텔레콤 뉴스룸",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zLUxjOTBvLXAtYkwzTHNMbEJiUjY4bFVrZG5ta0dIX3UzYjdWWndWWVlFTVRsX2NOXzBpUFV0TG81ME1VdzFSMg?oc=5",
-          "summary": "SKT, T1과 함께 신규 전시 ‘암행천문: 별을 헤다’ 선보인다&nbsp;&nbsp;SK텔레콤 뉴스룸",
-          "date": "2026-07-01T00:10:45+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
         {
           "title": "우리미술관, 제물포구 출범기념 ‘제물포 웨이브’특별 전시 개최 - v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KM0EzZ1d0QTRVUkFGT2V3OTc3SENFTDZzMkg3dmtsMGlHUmVVWVl0SU4ycGg4b2NzQTlzNG4xMHdhcTU1NUxWbXR1VllMaUE?oc=5",
@@ -4850,37 +4570,19 @@
           "category": "예술"
         },
         {
-          "title": "경기도 북부청사 평화갤러리, 7월 도민 작품 전시 안내 - 한국방송뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHUm54MWw4b1VKVjYxNFJSSjlHWWM0cDRvUWVEQnpyMkUxZ3EyYVhlSUx5QUxSRFhFRjlnM2RiZjlxc25JS0lyREdFY1UtSXoxTnpUZ25ZM29uazh4?oc=5",
-          "summary": "경기도 북부청사 평화갤러리, 7월 도민 작품 전시 안내&nbsp;&nbsp;한국방송뉴스",
-          "date": "2026-07-01T06:11:13+00:00",
+          "title": "SKT, T1과 함께 신규 전시 ‘암행천문: 별을 헤다’ 선보인다 - SK텔레콤 뉴스룸",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zLUxjOTBvLXAtYkwzTHNMbEJiUjY4bFVrZG5ta0dIX3UzYjdWWndWWVlFTVRsX2NOXzBpUFV0TG81ME1VdzFSMg?oc=5",
+          "summary": "SKT, T1과 함께 신규 전시 ‘암행천문: 별을 헤다’ 선보인다&nbsp;&nbsp;SK텔레콤 뉴스룸",
+          "date": "2026-07-01T00:10:45+00:00",
           "source": "Google News 예술 (한국어)",
           "tier": "official",
           "category": "예술"
         },
         {
-          "title": "정부, 국립현대미술관장 등 11개 개방형 직위 공개모집 - 연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tQ1lOUC05Zm5KYk1iOTF0ajB3TV9Dc3pmbk9NZW5aaGlMR05UVHR2REZzLVNxZmVjNmJuVzVIMGVBcXc2UTN4SFpqUXo3M3NrZklfVzNGUERLMXhnNFI5RdIBYEFVX3lxTE4tQ1lOUC05Zm5KYk1iOTF0ajB3TV9Dc3pmbk9NZW5aaGlMR05UVHR2REZzLVNxZmVjNmJuVzVIMGVBcXc2UTN4SFpqUXo3M3NrZklfVzNGUERLMXhnNFI5RQ?oc=5",
-          "summary": "정부, 국립현대미술관장 등 11개 개방형 직위 공개모집&nbsp;&nbsp;연합뉴스",
-          "date": "2026-07-01T03:00:19+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
-          "title": "울산시립미술관, 세계 각국 대표하는 극사실주의 작품 선보여 - v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05LXRjWmhsb3YwRk1waVNIdEZ6WWR6TDlsY1RxWVBSdV95M3NETE94TWhST2FNQmFxR3dDbmlWVmthZldhdGpCWEhrVWdYN0U?oc=5",
-          "summary": "울산시립미술관, 세계 각국 대표하는 극사실주의 작품 선보여&nbsp;&nbsp;v.daum.net",
-          "date": "2026-06-30T12:57:29+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
-          "title": "경기도서관서 미술잔치 열린다…'농카데미아 아트페어' 작가 100명 공모 - 교수신문",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vdHNlRGd1MGFFa2tDTVlHQmJzZ1Btd1RRRTZZVC1uTVJOTW91T2NEM21yVVgtNnNZQkI1ZFhZXzMwVVRRWlZkOHVvZjdKMWtvSjF0SWhXOGIyNmUxYVhLeEpSZ2pfUmM?oc=5",
-          "summary": "경기도서관서 미술잔치 열린다…'농카데미아 아트페어' 작가 100명 공모&nbsp;&nbsp;교수신문",
-          "date": "2026-06-30T22:04:37+00:00",
+          "title": "공항이 거대한 미술관으로…대한민국의 첫 풍경이 작품이 된다 - 동아일보",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeElfRlp4QjBXbkVULVlDdGU0UnhWN2xtQlY1MzJNUWI4azh0N3V6dzBORUhWbVhON0hGSXkyZ1JQamJSX0FsVVA4cXk1ZGlVNk5JNUNxOWlrQk5pRURhZktRcE1sQdIBZkFVX3lxTFByeElfRlp4QjBXbkVULVlDdGU0UnhWN2xtQlY1MzJNUWI4azh0N3V6dzBORUhWbVhON0hGSXkyZ1JQamJSX0FsVVA4cXk1ZGlVNk5JNUNxOWlrQk5pRURhZktRcE1sQQ?oc=5",
+          "summary": "공항이 거대한 미술관으로…대한민국의 첫 풍경이 작품이 된다&nbsp;&nbsp;동아일보",
+          "date": "2026-07-01T00:04:11+00:00",
           "source": "Google News 예술 (한국어)",
           "tier": "official",
           "category": "예술"
@@ -4913,15 +4615,6 @@
           "category": "예술"
         },
         {
-          "title": "김해시립김영원미술관, 7월부터 금요 야간 운영 및 문화이벤트 시행 - 국제일보",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3bmxSV1JBT0lweUZHRS1xT2VmM3Y5eXpTc3F3V2R0RHRSdHowcVRZb0hqb3FFMWNrTjVBbXctY1lOX2c5eGU2WktfOWMxS2RPS0gtTzBhUDlMSEF5ZzBhdlhHaWc?oc=5",
-          "summary": "김해시립김영원미술관, 7월부터 금요 야간 운영 및 문화이벤트 시행&nbsp;&nbsp;국제일보",
-          "date": "2026-06-30T09:52:55+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
           "title": "제품 전시를 넘어 정체성 경험으로, 유럽 가구 쇼룸의 진화 - 디자인플러스",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TaWJ3SDcydDdNeDlEV0dtbGh1cXZCYk55MTZ6WUs0Zm9JSjZDa0VXNmVxUU9sZDBNYlJtakVhaGpueTV1X1ROTVloWlA?oc=5",
           "summary": "제품 전시를 넘어 정체성 경험으로, 유럽 가구 쇼룸의 진화&nbsp;&nbsp;디자인플러스",
@@ -4931,46 +4624,10 @@
           "category": "예술"
         },
         {
-          "title": "발달장애인들이 만든 동화같은 치유과정 ‘형형색색’ 전시 개최 - 에이블뉴스",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tZ1RET0pDRVlWTnQxMi1oc084VmV1cjAySEctSGJTMUwtODI4X05EaE1IbmdFVHJGTW1UaXY1dlpjMnU2YVJ1djVWVmZid21FZmRtOG10NTFuZ1J5SWM3VWR5alVFU24xbnBUczIzZDBhd9IBckFVX3lxTE4tZ1RET0pDRVlWTnQxMi1oc084VmV1cjAySEctSGJTMUwtODI4X05EaE1IbmdFVHJGTW1UaXY1dlpjMnU2YVJ1djVWVmZid21FZmRtOG10NTFuZ1J5SWM3VWR5alVFU24xbnBUczIzZDBhdw?oc=5",
-          "summary": "발달장애인들이 만든 동화같은 치유과정 ‘형형색색’ 전시 개최&nbsp;&nbsp;에이블뉴스",
-          "date": "2026-07-01T02:42:10+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
-          "title": "줄 서서 보던 〈미인도〉이제는 언제든 만난다 - d-art.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wb3pTTll0NUJqTHVwTzZULVlaTDMtemRJamxnT2dGT3hROHZNbTA0RHhyaFBPY09YdmhmWlY0VWJneENRLTlyZFBoXzVvRjI4TlREVy05dE1uVEE3Zmxsa29XYjZXQjQ?oc=5",
-          "summary": "줄 서서 보던 〈미인도〉이제는 언제든 만난다&nbsp;&nbsp;d-art.co.kr",
-          "date": "2026-06-30T21:32:02+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
           "title": "“숨쉬고, 번지고, 다시 태어나는 제주의 작은 생태계” - 제주의소리",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNd2pTYWFheVpEVHVhT2JUR0Z2cnlyRk1MOFhvODBEMjAzT05xenY2ZC1VSk00azRYTHdkYTNYcTRpZy04LWVXMEpkQXBGemQxbUZPMTJ2SU1zZ2t5VU1ScGkydUJaVjUtSTk4?oc=5",
           "summary": "“숨쉬고, 번지고, 다시 태어나는 제주의 작은 생태계”&nbsp;&nbsp;제주의소리",
           "date": "2026-07-01T07:00:43+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
-          "title": "[인천 7월 문화행사] 인현동 참사 창작극·영화제·뮤지컬·인형극·전시 등 19개 - 인천투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OeVJjcm12LXcxcXhvV3VWVkRRSGlzSjlSRFJ4dmZ6NWxVQ1ljV2lsN1BQc1dGcXFmUllKZHVkdHRVd3lqRko1U0EtSzEya0FZa3hhdHNuVnF3YXNxejQ2bm5MTWFPcTlfTUl2eEl3X1k?oc=5",
-          "summary": "[인천 7월 문화행사] 인현동 참사 창작극·영화제·뮤지컬·인형극·전시 등 19개&nbsp;&nbsp;인천투데이",
-          "date": "2026-06-30T23:30:00+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
-          "title": "장애 넘어 서로를 이해하는 법, 전시로 배워요 - 국민일보",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tQ2V4RXBBa1FtazI2ODBPVHJHZjJiUzVjQTdpSWNRNmdfOUJCMDJlMXpzaVh3MDFqcTlfUUlpWS1fdjIzZVdUdVBHbzZyUUdzYlJMRVpILTJfYVYwZFNSYm54a3ZqUlplZ0JxZ9IBbEFVX3lxTE8tQ2V4RXBBa1FtazI2ODBPVHJHZjJiUzVjQTdpSWNRNmdfOUJCMDJlMXpzaVh3MDFqcTlfUUlpWS1fdjIzZVdUdVBHbzZyUUdzYlJMRVpILTJfYVYwZFNSYm54a3ZqUlplZ0JxZw?oc=5",
-          "summary": "장애 넘어 서로를 이해하는 법, 전시로 배워요&nbsp;&nbsp;국민일보",
-          "date": "2026-06-30T10:03:00+00:00",
           "source": "Google News 예술 (한국어)",
           "tier": "official",
           "category": "예술"
@@ -4994,10 +4651,10 @@
           "category": "예술"
         },
         {
-          "title": "'페이커 유니폼' 직접 본다…T1, 성수서 체험형 전시 개최 - 티제이비",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TaGJiZF9pZmsxSmZfd2RncVNPbHZyU1EteXRWXzJoUzUtWXpPQ3hyaFQxSk1vam1NS0pqelRBeHFLZXVkUWUxaVBzb0lGMER2eF9JYi1WZzAzWkx1akVyc0hn?oc=5",
-          "summary": "'페이커 유니폼' 직접 본다…T1, 성수서 체험형 전시 개최&nbsp;&nbsp;티제이비",
-          "date": "2026-07-01T00:52:22+00:00",
+          "title": "[독자 기고] 통영에도 세계적인 미술관이 필요하다 - 한산신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RQ0FLcktJY24yM3pVZ1ZiRVpSNWNWdXNnWUNnbFJQeXRRRm9DLXFocTg4bTd2d3Blc2puelNUbDFRbHJrbE83NnVZOEZlT1czb3pIVERoTlJCSGhOQ0pqb1JEWUpOc3pvZVFwUUln?oc=5",
+          "summary": "[독자 기고] 통영에도 세계적인 미술관이 필요하다&nbsp;&nbsp;한산신문",
+          "date": "2026-07-01T00:26:10+00:00",
           "source": "Google News 예술 (한국어)",
           "tier": "official",
           "category": "예술"
@@ -5012,64 +4669,10 @@
           "category": "예술"
         },
         {
-          "title": "인사처, 국립현대미술관장 등 개방형 직위 11곳 공개 모집 - 머니투데이 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PajVyOEtIR3dkMDBiZ0VXMzd5cWFMdmtyVkZXb0VLdG5vbmpBaGVkZ0R2UTJ0bEtJUzUtRWZaM21aTGxmWDFjY2tEWldsb2IzQ2kweV9rS1REaWdfcmhQcUpIclZrLU1qZHI4RThHa9IBb0FVX3lxTE9PajVyOEtIR3dkMDBiZ0VXMzd5cWFMdmtyVkZXb0VLdG5vbmpBaGVkZ0R2UTJ0bEtJUzUtRWZaM21aTGxmWDFjY2tEWldsb2IzQ2kweV9rS1REaWdfcmhQcUpIclZrLU1qZHI4RThHaw?oc=5",
-          "summary": "인사처, 국립현대미술관장 등 개방형 직위 11곳 공개 모집 - 머니투데이&nbsp;&nbsp;머니투데이",
-          "date": "2026-07-01T03:00:00+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
-          "title": "[독자 기고] 통영에도 세계적인 미술관이 필요하다 - 한산신문",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RQ0FLcktJY24yM3pVZ1ZiRVpSNWNWdXNnWUNnbFJQeXRRRm9DLXFocTg4bTd2d3Blc2puelNUbDFRbHJrbE83NnVZOEZlT1czb3pIVERoTlJCSGhOQ0pqb1JEWUpOc3pvZVFwUUln?oc=5",
-          "summary": "[독자 기고] 통영에도 세계적인 미술관이 필요하다&nbsp;&nbsp;한산신문",
-          "date": "2026-07-01T00:26:10+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
           "title": "‘한국의 모나리자’ 신윤복 미인도, 7일부터 대구간송미술관서 상설 전시 - 서울신문",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QOXdBZzBfVnl4bjFycFd3QnpOdkFuS05tZDk4bTJTSFBaSVdSZFVNRGw2anNhWFZ2YkFleUNOV08wREZNRTFad0NSM2VBcUhGS2RiUjZtaXJaTmxyaXFRN1Rjd1FUaGR6RnFn?oc=5",
           "summary": "‘한국의 모나리자’ 신윤복 미인도, 7일부터 대구간송미술관서 상설 전시&nbsp;&nbsp;서울신문",
           "date": "2026-07-01T07:10:38+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
-          "title": "데이미언 허스트가 증명한 96일, 한국 전시씬의 새로운 기록 - 마리끌레르 코리아",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlMDdHYlFlSkVOLVItb0sxcWkwUTQxaG1qNVQ0OUNYQ1gxV1UxR0t3QVh0eFVjZ3liLU95SGQ2dUFrTWdXa19waWJpSXZEM1E0M0lNNnR4N2xLTE9PSWoyRG84LWtQaEFkOXhFdU1TRQ?oc=5",
-          "summary": "데이미언 허스트가 증명한 96일, 한국 전시씬의 새로운 기록&nbsp;&nbsp;마리끌레르 코리아",
-          "date": "2026-06-30T11:10:47+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
-          "title": "충남도의회 다움아트홀, 김봉주 작가 '초현실주의와 팝아트' 전시 - 당진신문",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FWks4M1JIVXJnS2VYTHNNN3o1ZlphTV9IQVhSVjVka1FSblBGQTQxb1R2amU5VUZJOWNRNzFzRlFzVGpMZHBRamx4d29vWmRvRk14TWdDdUFCWEt1ejRtc2xzSU93YnR2?oc=5",
-          "summary": "충남도의회 다움아트홀, 김봉주 작가 '초현실주의와 팝아트' 전시&nbsp;&nbsp;당진신문",
-          "date": "2026-07-01T06:07:51+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
-          "title": "[경상시론]거장을 만나는 두 번째 미술관을 바라며 - 경상일보",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LT2R0TVNveGF5VHRTV3RCemJmSTZ1MVd2dExuSHo5RV95MXJ1MXp0bVllLTBabjYwbFRnU1pzY2d1SVE5WmhwTjZDYl9yczNkOHpzMTJJZHhJZHNIWjcxcUt0elB0NFZoZmdCVQ?oc=5",
-          "summary": "[경상시론]거장을 만나는 두 번째 미술관을 바라며&nbsp;&nbsp;경상일보",
-          "date": "2026-06-30T15:00:00+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
-          "title": "유영국 탄생 110주년 회고전, 2026 여름 전시 가이드 - 덴 매거진",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NM3psUmk1N0tpbURCTDVvRGUwU1UyeGpSUVFpYUxFejU0NEh6YktldWFqQXdNYkxRT2xKd3lsZWYtMlRDek9CalFhVWtrNWxibVhuem0zMnNWZHpGU0ZCd3NfTG43Rm1P0gFsQVVfeXFMUHJrWVNBRkZKR1VpZTJkS2cyY0FqWVh0R0s1cVZwSVh5Tlk3Z1NmM1JTcGRoNlZvX3RuSTh2aEJQcld2bmFxTi0zSVRZb1phaWdKcXBqU3BoUE1rNzJRRmFFMnNXVFBKNm00akpF?oc=5",
-          "summary": "유영국 탄생 110주년 회고전, 2026 여름 전시 가이드&nbsp;&nbsp;덴 매거진",
-          "date": "2026-06-30T23:00:00+00:00",
           "source": "Google News 예술 (한국어)",
           "tier": "official",
           "category": "예술"
@@ -5084,46 +4687,10 @@
           "category": "예술"
         },
         {
-          "title": "[주목할 전시]소멸에서 생성으로, 김구림과 플레이스막의 시간 실험 - 서울문화투데이",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54ZUk5MG02aDZKbHQwTC1zX3JuMGhUM25CRkZWUmNsTUlBbmd5alY0T253Vmd2TUZIVk9HVDJpdm1jVUNMbG1yZ3JOdzMzMnk5bm1MZTRNemh5RlF2STB2Yzg1cEg3VE1QSWc?oc=5",
-          "summary": "[주목할 전시]소멸에서 생성으로, 김구림과 플레이스막의 시간 실험&nbsp;&nbsp;서울문화투데이",
-          "date": "2026-06-30T11:50:00+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
-          "title": "경기평화광장 평화갤러리, 릴레이 전시…지역·일상·환경 3색 작품전 - 머니투데이 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fNTJfWXJ3U3R6enlkZHJQR3Nma3Z6WGw1OE9hczF0ek01X1lvQmVSbFNOYlFaTC0zOGplNWZGelpDRmswSERLME1mZkRYbGcweWRWREhURElZaEhXTjhxVU1ma3Z4YWlrTTd0MENBQdIBb0FVX3lxTE1fNTJfWXJ3U3R6enlkZHJQR3Nma3Z6WGw1OE9hczF0ek01X1lvQmVSbFNOYlFaTC0zOGplNWZGelpDRmswSERLME1mZkRYbGcweWRWREhURElZaEhXTjhxVU1ma3Z4YWlrTTd0MENBQQ?oc=5",
-          "summary": "경기평화광장 평화갤러리, 릴레이 전시…지역·일상·환경 3색 작품전 - 머니투데이&nbsp;&nbsp;머니투데이",
-          "date": "2026-07-01T01:05:28+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
           "title": "공항서 미술 만난다…김포·김해공항서 조각·미디어아트 전시 - 경기일보",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1veDQ0TGFyZjBhMkRVbG1rSmg3VzlZeFIwT2s1UmVDWHAzT1J6MmpBanU2OG1OUWF1OE1WMUViYkVFQnZrajNBSTlZZENWTmFsM1RtRmZMcmVIT2s?oc=5",
           "summary": "공항서 미술 만난다…김포·김해공항서 조각·미디어아트 전시&nbsp;&nbsp;경기일보",
           "date": "2026-07-01T06:49:00+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
-          "title": "대구간송미술관 '미인도' 상설전 첫 공개, 조선 여인의 일상 속으로 - 여성신문",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KbEtEemVMYlljSGNsVUV2TlJOdWJ5N0h6cWJKTUVLODhZTzN6anR2OF9SSEQxOVdiV1ExR01DUWtHTlNrOGVocGVQQ3Fvc242cmgzeW1JUUd1eVl0M0pfeUdFcldHV3VLSzFUOTRSTFBfeFXSAXNBVV95cUxPSmxLRHplTGJZY0hjbFVFdk5STnVieTdIenFiSk1FSzg4WU8zemp0djhfUkhEMTlXYldRMUdNQ1FrR05TazhlaHBlUENxb3NuNnJoM3ltSVFHdXlZdDNKX3lHRXJXR1d1S0sxVDk0UkxQX3hV?oc=5",
-          "summary": "대구간송미술관 '미인도' 상설전 첫 공개, 조선 여인의 일상 속으로&nbsp;&nbsp;여성신문",
-          "date": "2026-06-30T11:10:45+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
-          "title": "AI 시대, 산만함은 결핍일까 감각일까... '산만인류' 전시 - 미디어제주",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlYlNVNG84b3BUS2thWTV1QlFZMnJmRUV1TnBfZXVkUzRrM1djSTJIR2VVRkIzellVZ1gxMkdwOU9TRkNROGVyMzhNWEw5VjFfVHhBNjFBVG5VUy1qSW1rLUc0cnBMWWR3b3UtWUxjR2rSAXBBVV95cUxQZWJTVTRvOG9wVEtrYVk1dUJRWTJyZkVFdU5wX2V1ZFM0azNXY0kySEdlVUZCM3pZVWdYMTJHcDlPU0ZDUThlcjM4TVhMOVYxX1R4QTYxQVRuVVMtakltay1HNHJwTFlkd291LVlMY0dq?oc=5",
-          "summary": "AI 시대, 산만함은 결핍일까 감각일까... '산만인류' 전시&nbsp;&nbsp;미디어제주",
-          "date": "2026-07-01T03:19:25+00:00",
           "source": "Google News 예술 (한국어)",
           "tier": "official",
           "category": "예술"
@@ -5138,46 +4705,316 @@
           "category": "예술"
         },
         {
-          "title": "양평도서관 물빛전시관, 7월 ‘소스(Source·Sauce)’ 어반스케치 전시 개최 - 환경일보",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LS1ptZ09aenYxUmMzaHBVb2hUZ21aS2ZaMEwzLUNnd0JHOUxRQlZXZGtlVkJVeGJ0NW1MNWZhS1ozUTk4YUpRODhpSnVqa3JrUXVXQ1RIb2ZPOWpMU2Z6SkttQzExdnFp?oc=5",
-          "summary": "양평도서관 물빛전시관, 7월 ‘소스(Source·Sauce)’ 어반스케치 전시 개최&nbsp;&nbsp;환경일보",
-          "date": "2026-07-01T06:26:56+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
-          "title": "공항이 거대한 미술관으로…대한민국의 첫 풍경이 작품이 된다 - 뉴시스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqU3JJRzVRNUt2UC1Gam40T0RsekFEcEFHRVhXUnJhN21zN29GUU96SmNITGpGZGtqQl9HaTQtOTI3TElsb0RnZDg2bU5tU25HNmJ4ZW5DTlctQ3dwNGswUdIBeEFVX3lxTFBTNkZRNDh4b19Wbm01TjRTVGpzdS1Cc28yT2M4SlllLVdFb2lkRWZpWEhMVnZ2cE1Fa0dSVEMzTmYybkpCOTk2UTh2LXJFUnNqQXNycjZYdXZ4bDFNOTZqNDJrUy0zdlZWOGpMeUl1bXpqclpUTEhOWA?oc=5",
-          "summary": "공항이 거대한 미술관으로…대한민국의 첫 풍경이 작품이 된다&nbsp;&nbsp;뉴시스",
-          "date": "2026-06-30T23:57:45+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
-          "title": "[주목할 전시]국박 특별전, K-푸드 뿌리 첫 조명, 박물관이 차린 '우리들의 밥상' - 서울문화투데이",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSbnZKVThOTUNIVURyYVlOZ21vMjNRLWQ4Nmw1RFFHRU93eEZLaFZGaHBXaGRPd3Z3aV82LTVrZnZoa21lV0JpYzUxSFU2SU1qUWc5SU5aRmZOVUZiWUNFMHNPVHVJS3Y1ZEE?oc=5",
-          "summary": "[주목할 전시]국박 특별전, K-푸드 뿌리 첫 조명, 박물관이 차린 '우리들의 밥상'&nbsp;&nbsp;서울문화투데이",
-          "date": "2026-06-30T12:35:00+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
-          "title": "세종문화회관서 여름방학 즐기자…공연·전시·극장투어 풍성 - v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GRngtYnhpczVGZU1GeGdqYkRqdWxhTG1PTnQzS2loUXk1bUQtMUp4LVd0V1lYQ2RlMFJhUEIwdUpJa0JxcTl4U2ZDSk90Z2M?oc=5",
-          "summary": "세종문화회관서 여름방학 즐기자…공연·전시·극장투어 풍성&nbsp;&nbsp;v.daum.net",
-          "date": "2026-06-30T23:46:04+00:00",
-          "source": "Google News 예술 (한국어)",
-          "tier": "official",
-          "category": "예술"
-        },
-        {
           "title": "경기도미술관, 7월부터 '수요클럽' 대중강좌 운영 - 화성시민신문",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpaGRUMGxIbGpwVUpRemkxN0l5MmpLMDF2Qk5XeDgwdDBJckhoN1V1WXVLMGFneTQ1RFh5WGwxTGVVQlcxTHNURURuVFRpa0FOcWpLNEl0NFI4c3JROWxwZnVzLTM4Z0hBLVc3enM1ZFo?oc=5",
           "summary": "경기도미술관, 7월부터 '수요클럽' 대중강좌 운영&nbsp;&nbsp;화성시민신문",
           "date": "2026-07-01T03:34:57+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "구리시립미술관, 건립 본격화 - 경기도민일보 미디어",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91b29yWk4zZ2hOaWdmNGI5cG9GZkZmT2RRZTJWNkpHWlY4bGNBcFpFTUswNGVvbUx1RFNjcHdINmZsMXdyc0c1NXJXcGJuNlJCdkFzVTI2NXF4VC1wU2xqQ2IzUHF5VEo4M2c?oc=5",
+          "summary": "구리시립미술관, 건립 본격화&nbsp;&nbsp;경기도민일보 미디어",
+          "date": "2026-07-01T00:51:31+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "구리시립미술관 첫 관문 통과…2030년 개관 본격화 - 딜라이브뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBodTBlcnAwUU82Z2Mzdkt1eWV5SW1KWm5RTmw5YTZNQmFSUWh0dU9nT0Y2Z0g3UEhkUEpSM0pJWjBPUWhmQjJhc256bEljdUpHdDZjUWxUbUI2OHo2RFMtU3pQZGRNdw?oc=5",
+          "summary": "구리시립미술관 첫 관문 통과…2030년 개관 본격화&nbsp;&nbsp;딜라이브뉴스",
+          "date": "2026-07-01T04:18:57+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "상명대 의류학과, 졸업전시회 ‘더 론드리’서 작품 40점 전시 - 문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOZ1NzYXdncjQ5RG9wOEZRLVAtdzdhUFFVLWhGOGRZNVJNSU9Tb1Rvb0JnOHFDSTFSOGt4Vm1aYjJKTmdKeHBkTHl4Q05ETGYz?oc=5",
+          "summary": "상명대 의류학과, 졸업전시회 ‘더 론드리’서 작품 40점 전시&nbsp;&nbsp;문화일보",
+          "date": "2026-07-01T06:34:44+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "전북도립미술관 서울분관서 7월 2일부터 12일까지 개최…대표작 '사색' 등 신작 선보여 - 타파인",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFYTVaVk51b0JKaTZPXy1YZTNrNUE5N0tyazhuQzNlNjgwcjVXT3JuVldnYzlXZk03Qnl5WHJHbzZMYmZmcTVjZ0ltbU5kMFFUMWg1cERaTW81TTRnWUE?oc=5",
+          "summary": "전북도립미술관 서울분관서 7월 2일부터 12일까지 개최…대표작 '사색' 등 신작 선보여&nbsp;&nbsp;타파인",
+          "date": "2026-07-01T01:37:30+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "SKT, T 팩토리 성수서 'T1 체험 전시' 운영 - 테크월드",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkSFlvbnFBVjg2RHZGV041Q0gxOVZnaWl1QUZnZEtKLU9GZWlxQUI0NzVoX1VMSnQ0Rk42X3ZfUzJPajJ1RFdwSS1SVnpxVkh0MmVTdGY3aG51Sk1vX2ZpX3ZPQ2Fvc19O?oc=5",
+          "summary": "SKT, T 팩토리 성수서 'T1 체험 전시' 운영&nbsp;&nbsp;테크월드",
+          "date": "2026-07-01T04:36:42+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "원·달러 환율 1600원 전망에 금융지주 '컨티전시 플랜' 가동 검토 - 뉴스토마토",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4YTZFSUs4bnNURHphR2phaFhDRnZDdUVKTlVmTmZFOUp5bngxcVhJdWpKeEtBY0k1RW1mZ1RYUW9idW9RUlBGcFRObWJsUDR5LTVpUHQ2VjgyUHk4OEQtSw?oc=5",
+          "summary": "원·달러 환율 1600원 전망에 금융지주 '컨티전시 플랜' 가동 검토&nbsp;&nbsp;뉴스토마토",
+          "date": "2026-07-01T05:31:50+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "문체부 국립현대미술관장 등 11개 개방형 직위 공개모집 - 뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZTJQVG1WRUxkMTA5ZjBERUVkVzhRMGVVQ1ZJdWdXN2J5OHhoOWRjODBWWEpkVlMyRlAzZlNoaG1VcWlnLVBHdTFuWlQ1cDdnV1R0QnNQWmp0UEhu?oc=5",
+          "summary": "문체부 국립현대미술관장 등 11개 개방형 직위 공개모집&nbsp;&nbsp;뉴스핌",
+          "date": "2026-07-01T03:00:00+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "[단독] 베트남전 전시 팻말에 ‘거짓’ 포스트잇 붙인 활동가 약식 기소 - 한겨레",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5odTdzUi0tVzQ0d3VUZ2tYZG1SLTVXMDRnY0ZBN1l3QW1Yb2paNVVkV0JhME9ZVFJpQWUxbUxYUmlhRUdMdTl3YnFDQ2c4ZG80WUlwRFBTMl91UnVTVWY1enZOcUJocjZfdHVaTkgzVnFpUQ?oc=5",
+          "summary": "[단독] 베트남전 전시 팻말에 ‘거짓’ 포스트잇 붙인 활동가 약식 기소&nbsp;&nbsp;한겨레",
+          "date": "2026-07-01T08:20:00+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "SKT, T1과 체험형 전시 ‘암행천문’ 진행 - 지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxMnhhU0hvd1RjOThoMmZDZFhtR1A5Y2hzRE1jUEQwZXlYNElKQk8xenIydy1jSFhjOEw2VHV6LTBpNkNCenM5NDNjelAxOHR6T3FRM0hn?oc=5",
+          "summary": "SKT, T1과 체험형 전시 ‘암행천문’ 진행&nbsp;&nbsp;지디넷코리아",
+          "date": "2026-07-01T01:48:55+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "[전시]발달장애작가 2인전 “형형색색”…동양화와 팝아트의 만남 - 미디어생활",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mQUlNNXNyU3A4UjRodFlwRmpOcmx5ZFRVQ1dQdDZqMHdZRDd0X1Z0VThWNWVQOWhESHJLRGJBNEk1dTd4Zlo5V2ZfLXNZYkp0dW1KX2NrVUtWMDczOEJwNHBmVWoxS3MxbGdhUmIwaw?oc=5",
+          "summary": "[전시]발달장애작가 2인전 “형형색색”…동양화와 팝아트의 만남&nbsp;&nbsp;미디어생활",
+          "date": "2026-07-01T05:52:24+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "대구문화예술회관, 7월 ‘미술관 라이브’서 대규모 특별전 '앤디 워홀: 예술을 팔다' 및 대구시립교향악단 선율 선보여 - 신경북뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fOGx3SHUxM0M2ZXBoNXFrQUtCQUFiX1RnMDY2aXQ3SGJPdEZYelRWWWt4SmlkRjJKVi15Qk1HTndwdTEyRDRWWnhLVk9FdjZBNVo3NjFCdVY?oc=5",
+          "summary": "대구문화예술회관, 7월 ‘미술관 라이브’서 대규모 특별전 '앤디 워홀: 예술을 팔다' 및 대구시립교향악단 선율 선보여&nbsp;&nbsp;신경북뉴스",
+          "date": "2026-07-01T07:30:06+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "\"페이커 유니폼·롤드컵 트로피 뜬다\"…SKT, T1 전시 - 경제타임스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DaUxGbGFwQWJyOXVKaVYyc2dpcm5XbTZnX0NWQk1FcndyWUFveUMzOHJndmNVQVVuZzdibU1pMUNxZTF0Y3VhMGE1RkZKRTR2ZmEw?oc=5",
+          "summary": "\"페이커 유니폼·롤드컵 트로피 뜬다\"…SKT, T1 전시&nbsp;&nbsp;경제타임스",
+          "date": "2026-07-01T09:01:50+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "[전시] 전통명장 박해양, 평생 모은 '멋과 맛'을 꺼내다 - 국악타임즈",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yUmQzdWpWQ1ZEU0l2bVJHSXZkUTdsNHVSZFp2UXEtbkpxa2l3MnI1OHlUS2FjTDd5NGE5X3B4XzltQW1JX3g0UnYtbUhSN2JfTFEtWV9yeU9YckNGMVlaWUUyYw?oc=5",
+          "summary": "[전시] 전통명장 박해양, 평생 모은 '멋과 맛'을 꺼내다&nbsp;&nbsp;국악타임즈",
+          "date": "2026-07-01T03:06:34+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "T1 팬이라면 놓칠 수 없다…SKT, 성수서 체험형 전시 '암행천문' 개최 - 리드경제",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54aUdub1c4OWp5QVRpX054dDZPZk5MaHBJY2VNNTJKZG14bkFFOEIwTG1IbGZ3M18zQ19qbXlXRndTM0JoT1R4Z2VQa1VZUkJiajZzZUh0cHNmX3hQejRyYm5Gb3NENjlMc3pXX1B0UQ?oc=5",
+          "summary": "T1 팬이라면 놓칠 수 없다…SKT, 성수서 체험형 전시 '암행천문' 개최&nbsp;&nbsp;리드경제",
+          "date": "2026-07-01T02:40:06+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "전북도립미술관 서울분관서 탁소연 개인전 《틈, 비어 있어 가득 찬》 - 전북금강일보",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9UUmxqWXhqTHZURHQtX3M5Y00tWFVmYlUtUjBBaVJfS0VBX1JFZzF6cW9tOFlKVXhVYnFZNk5nQk8?oc=5",
+          "summary": "전북도립미술관 서울분관서 탁소연 개인전 《틈, 비어 있어 가득 찬》&nbsp;&nbsp;전북금강일보",
+          "date": "2026-07-01T06:52:00+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "\"페이커 유니폼에 우승 트로피까지\"…SKT-T1 전시 열었다 - 팍스경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLbEZwZmtpUDdCRkhocnI2dUlFeWhRRGRJRURnN0t5Z0ZoMk5zSzZ5Vkw0RVp2NnZYbmhpaW1tMXNMSFVJQS11TnFEUXJIV2dsLXFaQnRqMG1ZY0lyY2Fid1RfSzdaNjg?oc=5",
+          "summary": "\"페이커 유니폼에 우승 트로피까지\"…SKT-T1 전시 열었다&nbsp;&nbsp;팍스경제TV",
+          "date": "2026-07-01T00:14:29+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "이번 여름휴가, 어디 가지?…경콘진과 함께 전시보면서 계획 세우자! - 경기신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NWjZ1SFB3eF9feHBXX3kzTWpydkd3Ui1HWGxabXh4RE11VERSRWtIdnRIaFhmRkFWWEVWZWZXU1pCLTJYbEt2b2tobldzd0daWUFvRWtBVThheUtQcUIwUUJ3?oc=5",
+          "summary": "이번 여름휴가, 어디 가지?…경콘진과 함께 전시보면서 계획 세우자!&nbsp;&nbsp;경기신문",
+          "date": "2026-07-01T08:07:28+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "도의회 다움아트홀서 ‘초현실주의와 팝아트’ 전시 - 홍성신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51bnlRRFd2SVdFS25ZOW1PckVlbHRIeXc2cU5rRFctZ3R5MzF4VWxYcVNjNkNXUVRIdTBGUWhYTHVTN0lxTWdkTm9UQjN0N0pUVEtlN19uc0JETGJjUWVjc3E3bHdsSlFocHUw?oc=5",
+          "summary": "도의회 다움아트홀서 ‘초현실주의와 팝아트’ 전시&nbsp;&nbsp;홍성신문",
+          "date": "2026-07-01T07:00:32+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "경기도미술관, 현대미술 대중강좌 '2026 수요클럽' 운영 - 메트로신문",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pN3Ntb19KLVd3N3I3MkpCSkxKV2FqTnRWWkVqdnRodFBYbG52SWtpZnloY2MtQVUwMmNtcEN3R2N0Wi1ZeXQ3bjc3dlFXS0NCb2d6MzRaNGNfX3c0R2ZScQ?oc=5",
+          "summary": "경기도미술관, 현대미술 대중강좌 '2026 수요클럽' 운영&nbsp;&nbsp;메트로신문",
+          "date": "2026-07-01T05:25:15+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "포곡고, ‘감사 캘리그라피’ 전시 호응 - 용인시민신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02Rmh4blkzUXJkSU1ialF6dEYxbXNSWDZWc3lrNl9hMWx2dWZoNUxVMkxQRC1uNzRFaXd3eTNub1dlXy1ScWNKbUlrazA3NktaVjNqR2ljRGNRN3VZcTRNV0ltM2dab29uQVVLTg?oc=5",
+          "summary": "포곡고, ‘감사 캘리그라피’ 전시 호응&nbsp;&nbsp;용인시민신문",
+          "date": "2026-07-01T01:00:53+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "글로벌 화장품 뷰티 전시 '2026 인터참코리아' - v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yQVBsTFI0MHo5ZzlpdkhDdHJmWTZvZlpkcjNkalF4Mm1rSmRmeXRTcVBXamZ6T2g5QURJWTdYanJZLURiS3lMblM3YnFVSnM?oc=5",
+          "summary": "글로벌 화장품 뷰티 전시 '2026 인터참코리아'&nbsp;&nbsp;v.daum.net",
+          "date": "2026-07-01T03:37:17+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "대구간송미술관, ‘미인도’ 상설 전시실 7월 7일 공개 - 파이낸셜투데이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoTGZaekNFeExYVzVQTXZ4YWxfTF8zcmk1bW9wX1d1NjQ2S3RrVmJza0VuS1oxQUY4WGhOUUFaOGhEcUh0N3pUTURDZzhNejBqV25uSHdJWTI3VDJtdXF5dnEzd1BPYVJ0RXfSAW5BVV95cUxOZktIYTN4MktUTHMzTUJOaWducS1LUUR4YW4xZ3hXNWpUb1RVQ1BRRHVCMW1mS0dDVlpSWXhqYWQtdjF1WHM3N25Ba0FXcFdNOGFaUTQyU3hhaElOYkMxZjZESXhOTm1NX0ZrVFBUUQ?oc=5",
+          "summary": "대구간송미술관, ‘미인도’ 상설 전시실 7월 7일 공개&nbsp;&nbsp;파이낸셜투데이",
+          "date": "2026-07-01T08:23:31+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "동곡뮤지엄, 주재환 광주 첫 개인전 '좀 살자' 개최 - v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00dTlJaVQtV1JjcGtHRzZTc1dBb0dzbU5XX0RldGNSSlBiT09uUkQtai1RcndOSEE2aEQ5QzNqUWxVUlBlNEpoRGI2X1RnQzA?oc=5",
+          "summary": "동곡뮤지엄, 주재환 광주 첫 개인전 '좀 살자' 개최&nbsp;&nbsp;v.daum.net",
+          "date": "2026-07-01T05:14:00+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "‘2026 인터참코리아’ 개막, K-뷰티 글로벌 B2B 전시 경쟁력 입증 - 코스인코리아닷컴",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55MjlxakxDTlBGRFJGSEdEWHFuYU1aRlYxNElFbVo4RnhSQkFIS3JUMU43WGdjN2V2clVNSzlPM2Y4NlU0MFhwNVhFZ2lRX1MyRFZ0VWpfcEIzVE9sWUt3YndSbw?oc=5",
+          "summary": "‘2026 인터참코리아’ 개막, K-뷰티 글로벌 B2B 전시 경쟁력 입증&nbsp;&nbsp;코스인코리아닷컴",
+          "date": "2026-07-01T01:18:30+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "AI 시대, 산만함은 결핍일까 감각일까... '산만인류' 전시 - 미디어제주",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rZHYwbXV5OV84aFNMbktQVENnRXVNQmtiWlVaU2NoN2pQM0pBd0twM2kteFBJUTVWQk82N2VPdkZPMy1UWng0emlNcGxrLUh4OXVuaWdzR3JlbTdDUGlTQjNYRDdFNkVOZ0o4Q9IBcEFVX3lxTFBlYlNVNG84b3BUS2thWTV1QlFZMnJmRUV1TnBfZXVkUzRrM1djSTJIR2VVRkIzellVZ1gxMkdwOU9TRkNROGVyMzhNWEw5VjFfVHhBNjFBVG5VUy1qSW1rLUc0cnBMWWR3b3UtWUxjR2o?oc=5",
+          "summary": "AI 시대, 산만함은 결핍일까 감각일까... '산만인류' 전시&nbsp;&nbsp;미디어제주",
+          "date": "2026-07-01T03:19:25+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "경북교육청문화원 초청 전시,‘꿈을 잇는 픽셀’개최 - 구미뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uY1F1eTNINERaRVFIMVRDZnJOZUFxcGxuemU0RHg1UDNXVFl2VF80alpVWU85b0xyb3VWUTBUTm9obGwwaTVPWWxnQmlBTUNOT0RVUnZpN253eHQxQVpDX1BFbV9zV0dFal9QN3JLWk8zSmI1?oc=5",
+          "summary": "경북교육청문화원 초청 전시,‘꿈을 잇는 픽셀’개최&nbsp;&nbsp;구미뉴스",
+          "date": "2026-07-01T01:51:00+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "미소녀의 눈동자에 깃든 불안… 무라카미의 제자 '미스터', 서울 전시 - 네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYWNjLWJtZzI1WXpZX0RMaklSa3BKbDZKWHB4MVB5c3ZleTlzeFFuUXVlMXo0NWFoaVRaZ05vaHM4MENfak1mQ2l2clo4akY2QjBIYzYwSXlKTHFzLUoyUjlueFJrTFRlMjVSbXRyR3lUUTFoeUVETjlJa0NDWTdiSXRBUEp1QXlsaHU4?oc=5",
+          "summary": "미소녀의 눈동자에 깃든 불안… 무라카미의 제자 '미스터', 서울 전시&nbsp;&nbsp;네이버 프리미엄콘텐츠",
+          "date": "2026-07-01T07:46:00+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "시립미술관 건립 타당성 사전평가 통과…구리시, 문화예술 거점 조성 첫발 - 아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hQXo1YlJyYUx2cXhjWk93MVRNOXk2UVVPX2VmRTU4Q3I5eW1wNFBPSFc0VWRZbmZUWEdRdHRvRHBseEIweGVXMFpZMmY?oc=5",
+          "summary": "시립미술관 건립 타당성 사전평가 통과…구리시, 문화예술 거점 조성 첫발&nbsp;&nbsp;아이뉴스24",
+          "date": "2026-07-01T00:44:18+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "\"페이커 포카 증정\"…SKT, 성수서 'T1 암행천문' 전시 연다 - 뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WQXNUTGEwR1JfSGlFWVNlbXJmM3hkS213c2tQQkVJRWhhMG5RWEdFWDhzZWlYSEJEZFVlVnF0bFlDZDRRR0pCSmFPVm5aeFdoWVhzdm8zZ1ZraXNuSWVxUg?oc=5",
+          "summary": "\"페이커 포카 증정\"…SKT, 성수서 'T1 암행천문' 전시 연다&nbsp;&nbsp;뉴스1",
+          "date": "2026-07-01T00:32:32+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "“존재와 타자가 만드는 관계의 미학” - 제민일보",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qMDJPQWdvUElEWE83VW5PYkxEbGtjaXRNZU85M0wwdXFoOHVHWVZPcGhYR1JTTXpvTFk5QVpKMjlLU0xEMjg3RW5zaHR5T1ZFOXp1Rmktb3ZXNGJJbG9IVGRhQ2VjSXc?oc=5",
+          "summary": "“존재와 타자가 만드는 관계의 미학”&nbsp;&nbsp;제민일보",
+          "date": "2026-07-01T07:26:59+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "골판지로 표현한 도시의 모습, ACC 뉴스트 전시 ‘쓸모없는 그러나 아름다운’ - BBS불교방송",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iYjRwaXBNMlJPdmdJTTdNNllyazhienNlOEg2WFJ5SHlDd1ZoQms5V3VmMWZEbXZPQ2VhYTlxSTdDUjhScDdxQTJMVG55LWlLdGF3eXZNTUJFZlZMUEEzNkpTem5YQThUZjE4?oc=5",
+          "summary": "골판지로 표현한 도시의 모습, ACC 뉴스트 전시 ‘쓸모없는 그러나 아름다운’&nbsp;&nbsp;BBS불교방송",
+          "date": "2026-07-01T03:12:09+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "북부청사 평화갤러리, 7월 도민 작품 전시 안내 - 사회적경제뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95YnNwelNlcnQtZVhTM0ZNbkJDTVk3Q2lXa1VSMUtJcEhoQS1IZ3NFNk9yV1lWMk1Hb2REOUpRZw?oc=5",
+          "summary": "북부청사 평화갤러리, 7월 도민 작품 전시 안내&nbsp;&nbsp;사회적경제뉴스",
+          "date": "2026-07-01T02:04:00+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "이종담 전시의원 대전지방법원 항소심 강제추행 혐의 무죄 판결에 대한 입장 - 경제정의실천시민연합",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83MDFWbTdBeWY0RkIzWkEtQXZUWU04MktRdVNiLUtHLXhvak1oTzZSTFJFdWRnY1V1d0RkLUZMZ3doNFo2emtN?oc=5",
+          "summary": "이종담 전시의원 대전지방법원 항소심 강제추행 혐의 무죄 판결에 대한 입장&nbsp;&nbsp;경제정의실천시민연합",
+          "date": "2026-07-01T07:52:23+00:00",
+          "source": "Google News 예술 (한국어)",
+          "tier": "official",
+          "category": "예술"
+        },
+        {
+          "title": "SKT, e스포츠 명가 T1 역사 담은 특별 전시 '암행천문' 개최 - 2news.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXbmVRTlBNMjhaTnZpazVNcHl3MnA3RXlhVGZZWUdMVFRVY0F0TFdrX1BoZHZrUWhuT2d5OC13ZXFLNDRGZ0hSM3VUdDY0OHQxV3FZUmRQMWpCbGtvb09OZ1dnVTVGbUlI?oc=5",
+          "summary": "SKT, e스포츠 명가 T1 역사 담은 특별 전시 '암행천문' 개최&nbsp;&nbsp;2news.co.kr",
+          "date": "2026-07-01T00:43:00+00:00",
           "source": "Google News 예술 (한국어)",
           "tier": "official",
           "category": "예술"
@@ -5275,15 +5112,6 @@
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jYlNmUV9Zek1XOTdhMVI1bXNqcEJKR2d5RTZUcnVSRG5TUEttakZkMEplaExMajlPb1BBV3pEdXkxZmxkZncwQmZ3b2hULUZmVnVjS9IBVEFVX3lxTE1jYlNmUV9Zek1XOTdhMVI1bXNqcEJKR2d5RTZUcnVSRG5TUEttakZkMEplaExMajlPb1BBV3pEdXkxZmxkZncwQmZ3b2hULUZmVnVjSw?oc=5",
           "summary": "‘중증장애인 생물표본 제작 성과 전시회’ 개최&nbsp;&nbsp;한국경제",
           "date": "2026-07-01T00:04:25+00:00",
-          "source": "Google News 문화 (한국어)",
-          "tier": "official",
-          "category": "문화"
-        },
-        {
-          "title": "[트렌드 톡] “능력 뛰어나도 도덕성 없으면 아웃”…한국인이 가장 바라는 지도자상은? - 뉴시안",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45VUwzelZuZnNwRmJDMGEzMDUyUF9ZYnMzdXBIS2t4VVRDSXZvNmlfRUlyVWIxZW9Cb2pZcjJHVDN2eFROcUFJQkt1MHd1MDZkLTJpWldrejd1YTBBc0wxaXotTm9kYnhxSGfSAW5BVV95cUxPN1VKeTNJSzBySWFLRjNLcXlhZ0JUYndYc1VZTlZDR1hJMjVEX25JaHNzQVpkRDZZNkdueF91MmZvaFFlTFVKMGN3bjJ2R0pyM3V0alRKMkUtYkl1SjM4MmJyWURabC1ReGpUNEo2UQ?oc=5",
-          "summary": "[트렌드 톡] “능력 뛰어나도 도덕성 없으면 아웃”…한국인이 가장 바라는 지도자상은?&nbsp;&nbsp;뉴시안",
-          "date": "2026-06-30T21:55:03+00:00",
           "source": "Google News 문화 (한국어)",
           "tier": "official",
           "category": "문화"
@@ -5437,6 +5265,15 @@
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wQXRUQllkdDNXWURsR2QxYXZ1MWkxWW55aGF6SExDYnVCbmx4VlA4aUpyN0JxRkN6S2c3SW95bFYtazV2dU14VXNsTUtOaXZWV3RyTnJOVmdOWkFldWwxSElOWGhMaEt4SHc3T1lpcw?oc=5",
           "summary": "[유통 트렌드] 하이트진로, 25% 칼로리 다운 ‘진로 라이트’ 출시...外&nbsp;&nbsp;데일리e뉴스",
           "date": "2026-07-01T01:26:51+00:00",
+          "source": "Google News 문화 (한국어)",
+          "tier": "official",
+          "category": "문화"
+        },
+        {
+          "title": "[트렌드 톡] “능력 뛰어나도 도덕성 없으면 아웃”…한국인이 가장 바라는 지도자상은? - 뉴시안",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JMi1UWGQtTXdSdGVUSkN1MjA1VnRpRG8tYXVkRUstZDBLX1ZZTDJiZ0o3amxfS3YwQjRCODY0dGpwTHVhbjJHMTJ4bHZOYVVvTjBPaldwS2RJZ1p2bldCX0tPSi0yQzlGM21J0gFuQVVfeXFMTzdVSnkzSUswcklhS0YzS3F5YWdCVGJ3WHNVWU5WQ0dYSTI1RF9uSWhzc0FaZEQ2WTZHbnhfdTJmb2hRZUxVSjBjd24ydkdKcjN1dGpUSjJFLWJJdUozODJicllEWmwtUXhqVDRKNlE?oc=5",
+          "summary": "[트렌드 톡] “능력 뛰어나도 도덕성 없으면 아웃”…한국인이 가장 바라는 지도자상은?&nbsp;&nbsp;뉴시안",
+          "date": "2026-06-30T21:55:03+00:00",
           "source": "Google News 문화 (한국어)",
           "tier": "official",
           "category": "문화"
