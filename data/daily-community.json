@@ -1,10 +1,221 @@
 {
-  "collected_at": "2026-07-01T01:39:54.011283+00:00",
-  "cutoff": "2026-06-30T01:39:54.011283+00:00",
+  "collected_at": "2026-07-01T05:58:52.775469+00:00",
+  "cutoff": "2026-06-30T05:58:52.775469+00:00",
   "sources": {
     "reddit_ClaudeAI": {
-      "error": "fetch_failed",
-      "items": []
+      "label": "Reddit r/ClaudeAI",
+      "items": [
+        {
+          "title": "The world's most anticipated model returns with enhanced security measures.",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukd569/the_worlds_most_anticipated_model_returns_with/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ukd569/the_worlds_most_anticipated_model_returns_with/\"> <img src=\"https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ee66c64f45d8b66dc3163d3dd6898176780fc61\" alt=\"The world's most anticipated model returns with enhanced security measures.\" title=\"The w",
+          "date": "2026-07-01T05:54:05+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Usage Credits Fable 5 question",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukd2nx/usage_credits_fable_5_question/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ukd2nx/usage_credits_fable_5_question/\"> <img src=\"https://preview.redd.it/f534wm3g4kah1.png?width=140&amp;height=30&amp;auto=webp&amp;s=3537e7a4b56e61f935674afc61fe24149da6a692\" alt=\"Usage Credits Fable 5 question\" title=\"Usage Credits Fable 5 question\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>Just curious",
+          "date": "2026-07-01T05:50:12+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Are there any benchmarks/evals that simulate real world usage?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukcz15/are_there_any_benchmarksevals_that_simulate_real/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for ways to compare coding agents model quality and cost efficiency for real world usage.</p> <p>Most benchmarks seem to be designed to evaluate performance on one-shot task completion. </p> <p>But a typical user session usually involves many follow-ups and multiple tasks. </p> <p>Any suggestions on which existing evals to build off of? Or should I",
+          "date": "2026-07-01T05:44:42+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "I tested Sonnet 5 on several complex coding tasks and it performed surprisingly well compared to Opus 4.8!",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukcx1z/i_tested_sonnet_5_on_several_complex_coding_tasks/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was skeptical after looking at the benchmarks. Sonnet 5 seemed surprisingly close to Opus 4.8 on paper, but benchmarks rarely reflect real engineering work.</p> <p>So I tried it on a few of my own complex coding tasks that I typically use to evaluate frontier models. It handled them surprisingly well.</p> <p>What stood out wasn&#39;t just the code quality it con",
+          "date": "2026-07-01T05:41:40+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "What u mean by Coding will fall back to opus 4.8 ?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukctyl/what_u_mean_by_coding_will_fall_back_to_opus_48/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ukctyl/what_u_mean_by_coding_will_fall_back_to_opus_48/\"> <img src=\"https://preview.redd.it/a6qugwv42kah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=78b5642aa53cfdd04b451d8245423ce13aa21414\" alt=\"What u mean by Coding will fall back to opus 4.8 ?\" title=\"What u mean by Coding will fall back to opus 4.8 ?\" /> </a> </td><td",
+          "date": "2026-07-01T05:36:58+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Fable is going to be redirecting coding task to Opus 4.8",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukcmji/fable_is_going_to_be_redirecting_coding_task_to/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ukcmji/fable_is_going_to_be_redirecting_coding_task_to/\"> <img src=\"https://preview.redd.it/1opie5x50kah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8503073a238aa9337c73e6be76acb8ffa4acbade\" alt=\"Fable is going to be redirecting coding task to Opus 4.8\" title=\"Fable is going to be redirecting coding task to Opus 4.8\" /> <",
+          "date": "2026-07-01T05:25:54+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Best use for Fable 5 during the re-release trial period?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukcjy4/best_use_for_fable_5_during_the_rerelease_trial/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>So fable 5 gets released to the masses for a week but with reduced quota. What’s the best thing the average Joe can use fable for before it goes back behind the paywall? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Kahla_Reven\"> /u/Kahla_Reven </a> <br/> <span><a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ukcjy4/be",
+          "date": "2026-07-01T05:21:57+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "API price Fable",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukcjon/api_price_fable/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ukcjon/api_price_fable/\"> <img src=\"https://preview.redd.it/x56mc2wdzjah1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=80afc2b968c974789b31af4afe0237bc63c61194\" alt=\"API price Fable\" title=\"API price Fable\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>When I check the API pricing for Fable, the outp",
+          "date": "2026-07-01T05:21:33+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "CCAF - Has anyone else's Claude Certified Architect exam completely disappeared from their Anthropic profile?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukcez5/ccaf_has_anyone_elses_claude_certified_architect/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ukcez5/ccaf_has_anyone_elses_claude_certified_architect/\"> <img src=\"https://preview.redd.it/kt796rolxjah1.png?width=140&amp;height=68&amp;auto=webp&amp;s=468fc6457e6b5a5ce63ff9ce02616991a97b4c03\" alt=\"CCAF - Has anyone else's Claude Certified Architect exam completely disappeared from their Anthropic profile?\" title=\"CCAF - Has",
+          "date": "2026-07-01T05:14:37+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Will Fable be available at midnight?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukcbq0/will_fable_be_available_at_midnight/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I will hold off on my overnight opus run until it becomes available if so. Can&#39;t find any concrete time that access will be restored to claude max.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/KH10304\"> /u/KH10304 </a> <br/> <span><a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ukcbq0/will_fable_be_available_at_mi",
+          "date": "2026-07-01T05:10:03+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Claude for Startups accepted — how long does it take for credits to show up?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukc5wq/claude_for_startups_accepted_how_long_does_it/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Got accepted into the Claude for Startups program and received the welcome email, but my Console account still shows $0.00 in Organization credits and my plan is listed as &quot;Evaluation access.&quot;</p> <p>The welcome email didn&#39;t include any activation instructions, and general support couldn&#39;t give specifics on the timeline either.</p> <p>This might ",
+          "date": "2026-07-01T05:01:44+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "how I use Claude projects to turn messy meeting notes into a talk outline I can actually build a deck from",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukc1i8/how_i_use_claude_projects_to_turn_messy_meeting/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I give a fair number of internal talks and the worst part was never the talking. It was staring at 3 pages of scattered meeting notes and research dumps trying to find the spine.</p> <p>Set this up in a Project a couple months ago and it&#39;s held up, so sharing the actual structure.</p> <p>The Project has custom instructions that tell Claude to never write slide",
+          "date": "2026-07-01T04:55:32+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Does Anthropic Stand Behind its June 9th Plan?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukbuhv/does_anthropic_stand_behind_its_june_9th_plan/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.anthropic.com/news/claude-fable-5-mythos-5\">https://www.anthropic.com/news/claude-fable-5-mythos-5</a></p> <p>When released on June 9th, Anthropic planned to include Fable 5 on subscription for a limited time. Then transition to usage credits.</p> <p>But they also said they aim to restore Fable 5 to subscription plans when capacity allows.</p>",
+          "date": "2026-07-01T04:45:29+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "will we able to use fable for coding tasks?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukbt4b/will_we_able_to_use_fable_for_coding_tasks/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ukbt4b/will_we_able_to_use_fable_for_coding_tasks/\"> <img src=\"https://preview.redd.it/18v2at9bsjah1.png?width=140&amp;height=63&amp;auto=webp&amp;s=4d169e30d98263a387a008d132d6ecf0e6737432\" alt=\"will we able to use fable for coding tasks?\" title=\"will we able to use fable for coding tasks?\" /> </a> </td><td> <!-- SC_OFF --><div",
+          "date": "2026-07-01T04:43:33+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "I left Claude Code in March. I still couldn't stop watching Anthropic. Should I come back?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukbsgd/i_left_claude_code_in_march_i_still_couldnt_stop/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I started using Claude Code the week it launched last year. I&#39;m not the kind of person who can hold a project in my head. My brain doesn&#39;t do that. So when Claude Code dropped, I built my whole workflow around an Obsidian vault. Every session, every decision, every half-formed idea went into it. The vault became the part of my brain that doesn&#39;t drop t",
+          "date": "2026-07-01T04:42:38+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Just upgraded myself to pro plan, how do I get the best of it?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukbna4/just_upgraded_myself_to_pro_plan_how_do_i_get_the/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am a writer, and work on helping founders &amp; investors build their brands online especially via linkedin </p> <p>I have good clients, and my retention is good,</p> <p>I&#39;ve seen a lot of people on linkedin prompting claude clode,</p> <p>I am not a dev in the farthest sense, but I want to explore how claude can help me out in my works </p> <p>any ideas? </p",
+          "date": "2026-07-01T04:35:12+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Sonnet 5 full benchmark breakdown -- here's how it actually compares to Opus 4.8 and GPT-5.5",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukblmz/sonnet_5_full_benchmark_breakdown_heres_how_it/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Put together a comparison of every benchmark I could find from the official announcement and early coverage. Figured this might save people some time.</p> <p>Agentic coding (SWE-bench Pro):</p> <p>- Sonnet 5: 63.2%</p> <p>- Opus 4.8: 69.2%</p> <p>- GPT-5.5: 58.6%</p> <p>- Sonnet 4.6: 58.1%</p> <p>Terminal/tool use (Terminal-Bench 2.1):</p> <p>- GPT-5.5: 83.4%</p> ",
+          "date": "2026-07-01T04:32:54+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Workbench science is here!",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukbguh/workbench_science_is_here/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.anthropic.com/news/claude-science-ai-workbench\">https://www.anthropic.com/news/claude-science-ai-workbench</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rosetta67p\"> /u/rosetta67p </a> <br/> <span><a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ukbguh/workbench_science_is_here/\">[link]</a></spa",
+          "date": "2026-07-01T04:26:08+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "I can't be the only one.",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukariv/i_cant_be_the_only_one/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1ukariv/i_cant_be_the_only_one/\"> <img src=\"https://preview.redd.it/943m24y5jjah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f41f144cb57938f7723ae5f767845fccd4d51a25\" alt=\"I can't be the only one.\" title=\"I can't be the only one.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Jabraase\"> /u",
+          "date": "2026-07-01T03:50:37+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "100% Have Fable 5 do this with your coding projects before it disappears from plan usage on July 7th.",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukaogz/100_have_fable_5_do_this_with_your_coding/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>With Anthropic officially redeploying Fable 5 starting tomorrow, Wednesday, July 1st, we have a fresh window to leverage its advanced systems reasoning capabilities. For Pro, Max, Team, and select Enterprise plans, it will be included for up to 50% of our weekly usage limits through July 7th, after which it shifts entirely to a usage-credit model.</p> <p>Even thou",
+          "date": "2026-07-01T03:46:21+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Fable available for plans until July 7th after which it becomes usage credit based",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukafrm/fable_available_for_plans_until_july_7th_after/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Key points:</p> <ul> <li>Fable 5 returns globally on Claude Platform, <a href=\"http://Claude.ai\">Claude.ai</a>, Claude Code, and Claude Cowork.</li> <li>Pro, Max, Team, and some Enterprise users get Fable 5 included for up to 50% of weekly usage limits through July 7.</li> <li>After July 7, Fable 5 access moves to usage credits.</li> <li>Access through AWS, Google",
+          "date": "2026-07-01T03:34:08+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "The AI makes hundreds of edits across a session. I never fully know what it touched. Anyone solved this?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1ukafld/the_ai_makes_hundreds_of_edits_across_a_session_i/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Something I haven&#39;t found a good answer to: after a long AI coding session, especially one that touched a lot of files, I realized I don&#39;t really know what it has changed down to the detail. </p> <p>So there are several incidents where I found changes were made in places I didn&#39;t intend for it to. It hasn&#39;t done anything too major to &#39;break&#39",
+          "date": "2026-07-01T03:33:54+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "How can I allow claude code to run rm -rf on a specific directory?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1uka5p4/how_can_i_allow_claude_code_to_run_rm_rf_on_a/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have enabled --dangerously-skip-permissions but still claude code wont let it run rm -rf.</p> <p>I would agree thats a good thing but sometimes I want claude to be able to use a temp folder to download files and delete autonomously.</p> <p>In such a case I would want to be able to give claude permission to delete any files from a folder, only one single folder</",
+          "date": "2026-07-01T03:20:23+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Smartest answer?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1uka5lr/smartest_answer/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1uka5lr/smartest_answer/\"> <img src=\"https://preview.redd.it/mfimctxkdjah1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f705a24873f79221f222be4bd74f78ed433f4989\" alt=\"Smartest answer?\" title=\"Smartest answer?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mynameiscorange\"> /u/mynameiscorange ",
+          "date": "2026-07-01T03:20:16+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Anyone else had this issue? Claude viewing project instructions as 'insertion'",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1uka52i/anyone_else_had_this_issue_claude_viewing_project/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1uka52i/anyone_else_had_this_issue_claude_viewing_project/\"> <img src=\"https://preview.redd.it/acwhix21djah1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=5d04b2b3fe57f5671de88c2de2b649387762bd83\" alt=\"Anyone else had this issue? Claude viewing project instructions as 'insertion'\" title=\"Anyone else had this",
+          "date": "2026-07-01T03:19:36+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Team members outsourcing",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1uk9zxx/team_members_outsourcing/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Got a new one today. I use teams pretty heavily in my workflow, and one of my sonnet (4.6) implementers decided to outsource its work to another agent!</p> <p>Don’t get me wrong. I’m ok with my senior Opus reviewer farming out a big review to subagents to tackle a review in parallel, but that’s explicitly called out in the team member definition.</p> <p>This was t",
+          "date": "2026-07-01T03:12:50+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Anyone joined this type of course",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1uk9zwu/anyone_joined_this_type_of_course/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1uk9zwu/anyone_joined_this_type_of_course/\"> <img src=\"https://preview.redd.it/5twpigvecjah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=26addcb3d28860fffa579e38e8bf604bd8042916\" alt=\"Anyone joined this type of course\" title=\"Anyone joined this type of course\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I am getting",
+          "date": "2026-07-01T03:12:47+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "How do you feel about Anthropic using Persona for identity verification?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1uk9wuk/how_do_you_feel_about_anthropic_using_persona_for/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am uncomfortable with the verification provider(Persona) and I am trying to understand how others see it. <strong>Has it influenced your decision to continue using Claude, or has it made no difference?</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Egologic\"> /u/Egologic </a> <br/> <span><a href=\"https://www.reddi",
+          "date": "2026-07-01T03:08:37+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Anyone here use Claude to analyze their bloodwork results?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1uk9wtc/anyone_here_use_claude_to_analyze_their_bloodwork/",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>I don’t have insurance but I have AI lol </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/beanerbunker777\"> /u/beanerbunker777 </a> <br/> <span><a href=\"https://www.reddit.com/r/ClaudeAI/comments/1uk9wtc/anyone_here_use_claude_to_analyze_their_bloodwork/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ClaudeA",
+          "date": "2026-07-01T03:08:35+00:00",
+          "source": "Reddit r/ClaudeAI"
+        },
+        {
+          "title": "Just noticed claude is doing live lo fi vibe coding music on yt",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1uk9m9x/just_noticed_claude_is_doing_live_lo_fi_vibe/",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1uk9m9x/just_noticed_claude_is_doing_live_lo_fi_vibe/\"> <img src=\"https://preview.redd.it/zk9xxwv49jah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e51269939cbf44baa41f7733d1c275d88f5960c3\" alt=\"Just noticed claude is doing live lo fi vibe coding music on yt\" title=\"Just noticed claude is doing live lo fi vibe coding music ",
+          "date": "2026-07-01T02:54:28+00:00",
+          "source": "Reddit r/ClaudeAI"
+        }
+      ]
     },
     "reddit_LocalLLaMA": {
       "error": "fetch_failed",
@@ -92,6 +303,383 @@
     },
     "hada_io": {
       "error": "fetch_failed",
+      "items": []
+    },
+    "hn_ask": {
+      "label": "Hacker News (100+ points)",
+      "items": [
+        {
+          "title": "Trump made more than $1B on crypto deals, part of 2025 windfall",
+          "url": "https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f",
+          "summary": "Article URL: https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f\nComments URL: https://news.ycombinator.com/item?id=48741012\nPoints: 148\n# Comments: 37",
+          "date": "2026-07-01T00:27:56+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+          "summary": "Article URL: https://twitter.com/AnthropicAI/status/2072106151890809341\nComments URL: https://news.ycombinator.com/item?id=48740771\nPoints: 503\n# Comments: 256",
+          "date": "2026-06-30T23:55:12+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "Google copybara: moving code between repositories",
+          "url": "https://github.com/google/copybara",
+          "summary": "Article URL: https://github.com/google/copybara\nComments URL: https://news.ycombinator.com/item?id=48740698\nPoints: 145\n# Comments: 19",
+          "date": "2026-06-30T23:45:39+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "From brain waves to words: a new path to communication without surgery",
+          "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+          "summary": "Article URL: https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1\nComments URL: https://news.ycombinator.com/item?id=48739466\nPoints: 137\n# Comments: 71",
+          "date": "2026-06-30T21:29:13+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "I ported Kubernetes to the browser",
+          "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+          "summary": "https://github.com/ngrok/weberneteshttps://webernetes-demo.ngrok.app/\n\nComments URL: https://news.ycombinator.com/item?id=48738985\nPoints: 217\n# Comments: 70",
+          "date": "2026-06-30T20:48:36+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "Leanstral 1.5",
+          "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+          "summary": "Article URL: https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06\nComments URL: https://news.ycombinator.com/item?id=48738938\nPoints: 147\n# Comments: 43",
+          "date": "2026-06-30T20:44:56+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
+          "url": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
+          "summary": "Article URL: https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/\nComments URL: https://news.ycombinator.com/item?id=48738262\nPoints: 109\n# Comments: 21",
+          "date": "2026-06-30T19:47:24+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
+          "url": "https://news.ycombinator.com/item?id=48737226",
+          "summary": "Just hit this today and I'm furious. I installed the Cursor iOS app to see what it had.I've been on `Privacy Mode (Legacy)` for a long time, which is the \"Do not store my code\" setting. A year or so ago they marked this as \"Legacy\" and hid it under a \"Extra options\" menu. They added a new Privacy Mode which is significantly more wishy-washy about what it might store - it includes a clause of \"Code",
+          "date": "2026-06-30T18:33:59+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "Amazon seller reveals glimpse of shadow bribery market",
+          "url": "https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers",
+          "summary": "Article URL: https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers\nComments URL: https://news.ycombinator.com/item?id=48736839\nPoints: 128\n# Comments: 77",
+          "date": "2026-06-30T18:12:33+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "summary": "Article URL: https://www.anthropic.com/news/claude-sonnet-5\nComments URL: https://news.ycombinator.com/item?id=48736605\nPoints: 1017\n# Comments: 581",
+          "date": "2026-06-30T17:59:52+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "I built a mmWave material classification radar (2025)",
+          "url": "https://gauthier-lechevalier.com/radar",
+          "summary": "Article URL: https://gauthier-lechevalier.com/radar\nComments URL: https://news.ycombinator.com/item?id=48736137\nPoints: 161\n# Comments: 40",
+          "date": "2026-06-30T17:29:36+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "Claude Science",
+          "url": "https://claude.com/product/claude-science",
+          "summary": "Article URL: https://claude.com/product/claude-science\nComments URL: https://news.ycombinator.com/item?id=48735770\nPoints: 426\n# Comments: 130",
+          "date": "2026-06-30T17:07:41+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "We Are the Last People Who Know How It Works",
+          "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+          "summary": "Article URL: https://unix.foo/posts/last-people-who-know-how-it-works/\nComments URL: https://news.ycombinator.com/item?id=48735633\nPoints: 296\n# Comments: 246",
+          "date": "2026-06-30T16:59:00+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "Xsnow \"protestware\" in Debian",
+          "url": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
+          "summary": "Article URL: https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/\nComments URL: https://news.ycombinator.com/item?id=48735554\nPoints: 120\n# Comments: 106",
+          "date": "2026-06-30T16:54:41+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "Nano Banana 2 Lite",
+          "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+          "summary": "Article URL: https://deepmind.google/models/gemini-image/flash-lite/\nComments URL: https://news.ycombinator.com/item?id=48735444\nPoints: 338\n# Comments: 140",
+          "date": "2026-06-30T16:48:37+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "Crypto firms have spent $189M so far on 2026 US election, report says",
+          "url": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
+          "summary": "Article URL: https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/\nComments URL: https://news.ycombinator.com/item?id=48735376\nPoints: 211\n# Comments: 101",
+          "date": "2026-06-30T16:44:31+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "EU commissioners shut down air conditioning for employees, leave theirs on",
+          "url": "https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/",
+          "summary": "Article URL: https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/\nComments URL: https://news.ycombinator.com/item?id=48734940\nPoints: 130\n# Comments: 133",
+          "date": "2026-06-30T16:19:51+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
+          "url": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
+          "summary": "Article URL: https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/\nComments URL: https://news.ycombinator.com/item?id=48734699\nPoints: 396\n# Comments: 179",
+          "date": "2026-06-30T16:05:46+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "Claude Code is steganographically marking requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "summary": "Article URL: https://thereallo.dev/blog/claude-code-prompt-steganography\nComments URL: https://news.ycombinator.com/item?id=48734373\nPoints: 1640\n# Comments: 470",
+          "date": "2026-06-30T15:44:24+00:00",
+          "source": "Hacker News (100+ points)"
+        },
+        {
+          "title": "The labor share of income in the US is at its lowest post-war level",
+          "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
+          "summary": "Article URL: https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/\nComments URL: https://news.ycombinator.com/item?id=48734234\nPoints: 469\n# Comments: 509",
+          "date": "2026-06-30T15:35:04+00:00",
+          "source": "Hacker News (100+ points)"
+        }
+      ]
+    },
+    "verge": {
+      "label": "The Verge",
+      "items": [
+        {
+          "title": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
+          "url": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+          "summary": "Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation Focus feature will soon be limited to three hours of use per month, unless you pay for a $19.99 Meta One Premium subscription. [&#8230;]",
+          "date": "2026-06-30T20:51:03-04:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+          "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft [&#8230;]",
+          "date": "2026-06-30T20:03:55-04:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Dish files for bankruptcy, but not shutting down",
+          "url": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
+          "summary": "Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy,\" as reported earlier by Reuters. The plan will allow the EchoStar-owned company to continue to wind down its wireless operations after \"unforeseen delays\" held back its sale of $23 billion worth of 5G spectrum to AT&#38;T. Dish TV, Sling [&#8230;]",
+          "date": "2026-06-30T18:46:52-04:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Amazon fined $2.25 million for failing to help identity theft victims",
+          "url": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine",
+          "summary": "The Federal Trade Commission fined Amazon $2.25 million to settle claims that the company failed to help customers who fell victim to identity theft, as reported earlier by Bloomberg. In its complaint, the FTC accuses Amazon of refusing to provide customers with information about purchases made with fraudulent accounts, in violation of the Fair Credit [&#8230;]",
+          "date": "2026-06-30T17:20:01-04:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Acer&#8217;s Swift Go 16 is a lot of laptop for $900",
+          "url": "https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale",
+          "summary": "As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go 16 AI is on sale for $899.99 at Best Buy, a steep discount from its usual list price of $1,549.99. The well-equipped [&#8230;]",
+          "date": "2026-06-30T16:00:00-04:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+          "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+          "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google details Australia's unsuccessful war [&#8230;]",
+          "date": "2026-06-30T15:24:51-04:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "LG’s 27-inch Tandem OLED gaming monitor is cheaper than ever",
+          "url": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
+          "summary": "The price of LG’s UltraGear 27GX700A-B 1440p gaming monitor that came out last August has dropped to nearly its best price yet. You can grab it at Amazon for $484.99 or at LG for $499.99 (originally $599.99). That’s a great deal considering this is one of LG’s Primary RGB Tandem panels built with fourth-generation WOLED [&#8230;]",
+          "date": "2026-06-30T14:42:00-04:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "007 First Light&#8217;s developer lays off staff but claims its next franchise will continue",
+          "url": "https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs",
+          "summary": "IO Interactive, the studio behind the Hitman series and 007 First Light, announced that it is laying off staff after a relationship with an \"external partner\" on its next big franchise, Project Fantasy, \"has come to an end.\" IO has described Project Fantasy as an \"online fantasy RPG\", and Kotaku and Bloomberg report that Microsoft, [&#8230;]",
+          "date": "2026-06-30T14:14:05-04:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Moto&#8217;s Tag 2 tracker is $20 for a limited time",
+          "url": "https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale",
+          "summary": "Announced at CES 2026, the Moto Tag 2 has finally arrived in the US. The Bluetooth tracker with improved battery life over its predecessor, plus UWB sensing for more accurate tracking, is available through Motorola&#8217;s site at a special $19.99 launch price (originally $29.99). There are plenty of trackers for Android owners to consider, but [&#8230;]",
+          "date": "2026-06-30T13:38:23-04:00",
+          "source": "The Verge"
+        },
+        {
+          "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+          "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+          "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI fakes, the voiceover is AI-generated. Deadline [&#8230;]",
+          "date": "2026-06-30T13:19:15-04:00",
+          "source": "The Verge"
+        }
+      ]
+    },
+    "techcrunch": {
+      "label": "TechCrunch",
+      "items": [
+        {
+          "title": "The ‘Father of the Internet’ is finally retiring",
+          "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+          "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+          "date": "2026-07-01T03:15:37+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+          "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+          "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
+          "date": "2026-07-01T02:16:06+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+          "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+          "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+          "date": "2026-07-01T02:04:40+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
+          "url": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
+          "summary": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.",
+          "date": "2026-06-30T23:00:00+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenClaw is finally available on Android and iOS",
+          "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+          "summary": "The free open source agentic program is finally invading your phone.",
+          "date": "2026-06-30T21:53:28+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+          "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+          "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+          "date": "2026-06-30T20:33:48+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
+          "url": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
+          "summary": "“We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added.",
+          "date": "2026-06-30T19:12:43+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+          "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+          "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+          "date": "2026-06-30T19:02:38+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Clicks shows off its BlackBerry-inspired phone in a new hands-on video",
+          "url": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/",
+          "summary": "A new video shows the final production version of the upcoming Clicks Communicator, a BlackBerry-like smartphone that runs modern apps.",
+          "date": "2026-06-30T18:34:22+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+          "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+          "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+          "date": "2026-06-30T18:13:02+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+          "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+          "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+          "date": "2026-06-30T18:00:00+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Acti puts AI agents directly into your smartphone keyboard",
+          "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+          "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
+          "date": "2026-06-30T17:52:46+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Threads adds new features to Live Chats as it expands access",
+          "url": "https://techcrunch.com/2026/06/30/threads-adds-new-features-to-live-chats-as-it-expands-access/",
+          "summary": "The updates include translations, new tools for hosts, and more.",
+          "date": "2026-06-30T17:00:00+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+          "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+          "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+          "date": "2026-06-30T17:00:00+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Blue Origin still doesn’t know why its New Glenn rocket blew up last month",
+          "url": "https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/",
+          "summary": "But the company is still claiming that New Glenn will return to flight this year.",
+          "date": "2026-06-30T16:09:57+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Tesla starts testing Cybercab without pedals or a steering wheel in Austin",
+          "url": "https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/",
+          "summary": "The company may finally be ready to try to deliver on Elon Musk's years-long promise of launching a robotaxi network of its own.",
+          "date": "2026-06-30T15:32:50+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+          "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+          "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
+          "date": "2026-06-30T15:08:42+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Arcturus could halve the grid’s electrical losses using its nano-infused metals",
+          "url": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
+          "summary": "Stealthy startup Arcturus uses lasers to infuse carbon nanomaterials into copper, dramatically improving its ability to conduct electricity.",
+          "date": "2026-06-30T15:01:42+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Podcasting platform Riverside enters the newsletter publishing game",
+          "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+          "summary": "Users will be able use AI to create newsletters based on their recordings.",
+          "date": "2026-06-30T15:00:00+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+          "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+          "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+          "date": "2026-06-30T15:00:00+00:00",
+          "source": "TechCrunch"
+        }
+      ]
+    },
+    "reddit_technology": {
+      "error": "fetch_failed",
+      "items": []
+    },
+    "reddit_startups": {
+      "error": "fetch_failed",
+      "items": []
+    },
+    "producthunt": {
+      "label": "Product Hunt",
       "items": []
     }
   }
