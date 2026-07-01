@@ -2,8 +2,8 @@ name: Collect Community News
 
 on:
   schedule:
-    # 매일 08:30 KST = 23:30 UTC (Claude Code Routine 30분 전)
-    - cron: "30 23 * * *"
+    # 6회/일, 4시간 간격 (UTC 기준) = KST 08/12/16/20/00/04시
+    - cron: "0 23,3,7,11,15,19 * * *"
   workflow_dispatch: # 수동 실행 가능
 
 permissions:
