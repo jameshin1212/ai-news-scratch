@@ -1,7 +1,35 @@
 # 출처별 접근 방법 맵
 
-> 마지막 검증일: 2026-06-29
+> 마지막 검증일: 2026-07-01
 > ✅ = WebFetch 직접 접근 가능 | ⚠️ = WebSearch 우회 필요 | ❌ = 완전 차단
+
+---
+
+## GitHub Actions 수집기 안정성 진단 (2026-07-01)
+
+`scripts/collect_community_news.py`는 GitHub Actions(데이터센터 IP)에서 RSS/Atom을
+직접 페치한다. 실측 재현 결과 소스별 특성:
+
+| 구분 | 소스 | 원인 | 대응 |
+|------|------|------|------|
+| ⚠️ 구조적 | Reddit 미인증 `.rss` | 데이터센터 IP + 요청당 rate limit(429) 즉시 소진 → 실행마다 일부만 통과 | throttle(8s)+429 지수백오프 재시도. **완전 해결 불가**(부분 수집 허용) |
+| ✅ 해결됨 | hada.io | `news.hada.io/rss` → 301→403. **정답은 `/rss/news`(Atom)** | URL·type 수정 완료 |
+| ✅ 해결됨 | Product Hunt | `published`가 며칠 전 → 24h 필터 탈락. `updated`가 최신 | published·updated 중 **최신 시각 사용**으로 수정 |
+| ✅ 해결됨 | Google News(한국어) | URL 내 한글 → urllib ascii 인코딩 실패 | `urllib.parse.quote`로 percent-encode |
+| ℹ️ 정상 | Hugging Face Blog | 저빈도 블로그라 24h 내 0건인 날 존재 | 에러 아님 |
+
+**결론**: Reddit을 제외하면 현 GitHub Actions 구성으로 안정 수집 가능.
+Reddit 안정성이 중요하면 로컬 cron(주거 IP) 전환 또는 OAuth API(100 QPM) 고려.
+
+### tier / category 메타
+각 소스는 `tier`(community|official)·`category`(뉴스 카테고리 SSOT) 메타를 가지며,
+JSON의 소스·아이템 양쪽에 부여된다. Obsidian Routine이 커뮤니티성 정보와
+공식·전문 매체를 구분하고 카테고리 분류 힌트로 사용한다.
+
+### Google News RSS 패턴 (한국어 카테고리 확장의 핵심)
+`https://news.google.com/rss/search?q={키워드}+when:{N}d&hl=ko&gl=KR&ceid=KR:ko`
+- `when:3d` 등 시간 필터 작동. 임의 한국어 주제를 즉석 피드화.
+- 한계: 원문 아닌 집계 링크 + 제목·스니펫만 → 중복 제거 필요.
 
 ---
 
@@ -70,7 +98,7 @@ RSS 피드(.rss, .atom)도 같은 도메인이므로 동일하게 차단됨.
 
 | 출처 | URL | 상태 | 접근 방법 |
 |------|-----|------|-----------|
-| GeekNews (하다) | `https://news.hada.io/` | ❌ 차단 | `WebSearch site:news.hada.io` |
+| GeekNews (하다) | `https://news.hada.io/rss/news` (Atom) | ✅ 직접 | 수집기가 직접 페치 (`/rss`는 403, `/rss/news`가 정답) |
 
 ---
 
