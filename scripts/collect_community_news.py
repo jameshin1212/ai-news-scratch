@@ -50,6 +50,37 @@ SOURCES = {
         "type": "rss",
         "label": "GeekNews (하다)",
     },
+    # ── AI/Tech 신뢰 소스 확장 (2026-06-30, 소스 화이트리스트 = 품질 1차 필터) ──
+    "hn_ask": {
+        "url": "https://hnrss.org/newest?points=100",
+        "type": "rss",
+        "label": "Hacker News (100+ points)",
+    },
+    "verge": {
+        "url": "https://www.theverge.com/rss/index.xml",
+        "type": "atom",
+        "label": "The Verge",
+    },
+    "techcrunch": {
+        "url": "https://techcrunch.com/feed/",
+        "type": "rss",
+        "label": "TechCrunch",
+    },
+    "reddit_technology": {
+        "url": "https://www.reddit.com/r/technology/top/.rss?limit=25&t=day",
+        "type": "atom",
+        "label": "Reddit r/technology",
+    },
+    "reddit_startups": {
+        "url": "https://www.reddit.com/r/startups/top/.rss?limit=25&t=day",
+        "type": "atom",
+        "label": "Reddit r/startups",
+    },
+    "producthunt": {
+        "url": "https://www.producthunt.com/feed",
+        "type": "atom",
+        "label": "Product Hunt",
+    },
 }
 
 KEYWORDS = [
