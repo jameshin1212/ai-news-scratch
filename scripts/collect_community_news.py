@@ -167,6 +167,54 @@ SOURCES = {
         "type": "rss", "tier": "official", "category": "문화",
         "label": "Google News 문화 (한국어)",
     },
+    # ── 정치 (2026-07-01) — 국내/국외 서브카테고리 ──
+    "gnews_politics_kr": {
+        "url": "https://news.google.com/rss/search?q=정치+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+        "type": "rss", "tier": "official", "category": "정치", "subcategory": "국내",
+        "label": "Google News 정치 국내 (한국어)",
+    },
+    "gnews_politics_intl_kr": {
+        "url": "https://news.google.com/rss/search?q=(국제+OR+트럼프+OR+미국정치)+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+        "type": "rss", "tier": "official", "category": "정치", "subcategory": "국외",
+        "label": "Google News 정치 국외 (한국어)",
+    },
+    "bbc_politics": {
+        "url": "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "type": "rss", "tier": "official", "category": "정치", "subcategory": "국외",
+        "label": "BBC Politics",
+    },
+    # ── 스포츠 (2026-07-01) — 축구/농구/E-Sport 서브카테고리 ──
+    "gnews_football_kr": {
+        "url": "https://news.google.com/rss/search?q=(축구+OR+손흥민+OR+K리그)+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+        "type": "rss", "tier": "official", "category": "스포츠", "subcategory": "축구",
+        "label": "Google News 축구 (한국어)",
+    },
+    "bbc_football": {
+        "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "type": "rss", "tier": "official", "category": "스포츠", "subcategory": "축구",
+        "label": "BBC Sport Football",
+    },
+    "gnews_basketball_kr": {
+        "url": "https://news.google.com/rss/search?q=(NBA+OR+KBL+OR+농구)+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+        "type": "rss", "tier": "official", "category": "스포츠", "subcategory": "농구",
+        "label": "Google News 농구 (한국어)",
+    },
+    "bbc_basketball": {
+        # ESPN NBA RSS는 item 1개+EST 타임존 파싱 실패로 제외. BBC가 안정적.
+        "url": "https://feeds.bbci.co.uk/sport/basketball/rss.xml",
+        "type": "rss", "tier": "official", "category": "스포츠", "subcategory": "농구",
+        "label": "BBC Basketball",
+    },
+    "gnews_esports_kr": {
+        "url": "https://news.google.com/rss/search?q=(e스포츠+OR+LCK+OR+롤드컵+OR+발로란트)+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+        "type": "rss", "tier": "official", "category": "스포츠", "subcategory": "E-Sport",
+        "label": "Google News e스포츠 (한국어)",
+    },
+    "dotesports": {
+        "url": "https://dotesports.com/feed",
+        "type": "rss", "tier": "official", "category": "스포츠", "subcategory": "E-Sport",
+        "label": "Dot Esports",
+    },
 }
 
 KEYWORDS = [
@@ -356,6 +404,8 @@ def main():
             "tier": cfg.get("tier", "community"),
             "category": cfg.get("category", "기타"),
         }
+        if cfg.get("subcategory"):
+            meta["subcategory"] = cfg["subcategory"]
         if raw is None:
             result["sources"][key] = {**meta, "error": "fetch_failed", "items": []}
             continue
@@ -366,10 +416,12 @@ def main():
         else:
             items = parse_rss(raw, cfg["label"], cutoff, filter_relevance)
 
-        # 각 아이템에도 tier·category 부여 (Routine 분류 힌트)
+        # 각 아이템에도 tier·category·subcategory 부여 (Routine 분류 힌트)
         for it in items:
             it["tier"] = meta["tier"]
             it["category"] = meta["category"]
+            if meta.get("subcategory"):
+                it["subcategory"] = meta["subcategory"]
 
         print(f"  → {len(items)} items within 24h", file=sys.stderr)
         result["sources"][key] = {**meta, "items": items}
